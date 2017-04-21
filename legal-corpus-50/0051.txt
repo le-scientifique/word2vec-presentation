@@ -1,0 +1,5203 @@
+Metadata header 
+
+This contract is provided by UC Berkeley's Institute of Industrial Relations Library (IIRL). The 
+information provided is for noncommercial educational use only. It may have been reformatted 
+from the original and some appendices or tables may be absent. Note that subsequent 
+changes, revisions, and corrections may apply to this document.             
+
+For more information about the IIR Union Contracts Project, contact:
+Lincoln Cushing, lcushing@library.berkeley.edu
+
+IDnum
+
+51
+
+Language English
+
+Country United States
+
+State
+
+PA
+
+Union USWA (United Steel Workers of America) AFL-CIO
+
+Local
+
+ Occupations Represented
+Machine setters, operators, and tenders—metal and plastic 
+
+Bargaining Agency Bethlehem Steel Corporation
+Agency industrial classification (NAICS):
+31-33 (manufacturing)
+
+BeginYear 1999
+
+EndYear 2004
+
+Source
+
+http://www.uswa6787.org/public/contract/
+
+Original_format HTML (multipart)
+
+Notes
+
+Contact
+
+Frank J. Crowley III, Chairman of the Grievance Committee, phone (212) 762-6787, 
+fcrowley@uswa6787.org
+
+Full text contract begins on following page.
+
+Agreement between Bethlehem Steel 
+
+Corporation 
+
+and 
+
+United Steelworkers of America  
+
+__  
+
+August 1, 1999 
+
+NOTICE 
+
+ 
+Every effort has been made to reproduce these documents for the 
+membership in as timely a fashion as possible. Due to prudent haste, the 
+complexity of converting written documents to digitized format and the 
+vagaries of text recognition software, it is inevitable that some errors will 
+sneak through the process. If you notice one of these errors please contact 
+The Webmaster and he will correct it as soon as possible.  
+
+Therefore, the contents are thought to be reliable but are not guaranteed. 
+
+TABLE OF CONTENTS 
+
+  
+ARTICLE I - - DEFINITIONS 
+ARTICLE II -- APPLICATION OF AGREEMENT 
+        SECTION 1. PURPOSE AND INTENT OF THE PARTIES 
+        SECTION 2. UNIT COVERAGE 
+        SECTION 3. LOCAL WORKING CONDITIONS 
+        SECTION 4. CONTRACTING OUT 
+ARTICLE III -- RECOGNITION AND UNION MEMBERSHIP 
+        SECTION 1. UNION EXCLUSIVE BARGAINING AGENT 
+        SECTION 2. MEMBERSHIP 
+        SECTION 3. INDEMNITY CLAUSE  
+ARTICLE IV -- RATES OF PAY 
+        SECTION 1. BASIS FOR RATE OF PAY 
+        SECTION 2. SHWR; NON-INCENTIVE JOBS 
+        SECTION 3. PAYMENT GUARANTEE FOR INCENTIVE JOBS 
+        SECTION 4. EFFECT ON INCENTIVES-WAGE INEQUITY CLAIMS 
+        SECTION 5. COMPANY CONVENIENCE PAYMENTS 
+        SECTION 6. EMPLOYEE RATE OF PAY INFORMATION  
+ARTICLE V -- JOB CLASSIFICATIONS AND INCENTIVES 
+        SECTION 1. JOB CLASSIFICATIONS 
+        SECTION 2. INCENTIVES  
+        SECTION 3. DUE EFFECT REVISIONS 
+ARTICLE VI -- SHIFT AND SUNDAY PREMIUMS 
+        SECTION 1. SHIFT DEFINITIONS 
+
+Page in 
+Booklet 
+1 
+2 
+2 
+3 
+4 
+6 
+15 
+15 
+15 
+16 
+16 
+16 
+17 
+17 
+18 
+18 
+18 
+18 
+18 
+22 
+25 
+25 
+25 
+
+        SECTION 2. AMOUNT OF SHIFT PREMIUMS 
+        SECTION 3. PAYMENT OF SHIFT PREMIUMS 
+        SECTION 4. DETERMINATION OF SHIFT WORKED 
+        SECTION 5. SHIFT PREMIUMS-OVERTIME PAY  
+        SECTION 6. SUNDAY PREMIUM  
+ARTICLE VII-HOURS OF WORK AND OVERTIME 
+        SECTION 1. NORMAL HOURS OF WORK 
+        SECTION 2. STARTING TIMES 
+        SECTION 3. CONDITIONS UNDER WHICH OVERTIME RATES SHALL APPLY 
+        SECTION 4. OVERTIME COMPUTATION NON-COMPOUNDING 
+        SECTION 5. OVERTIME COMPENSATION COMPUTATION 
+        SECTION 6. RECALL EMPLOYEES OR WORK OVERTIME 
+        SECTION 7. REPORTING PAY 
+ARTICLE VIII -- HOLIDAYS 
+        SECTION 1. HOLIDAYS 
+        SECTION 2. ELIGIBLE EMPLOYEE 
+        SECTION 3. VACATION AND HOLIDAY PAY 
+        SECTION 4. PART-TIME EMPLOYEES -- HOURLY PAY 
+        SECTION 5. LIMITATION OF HOLIDAY PAY 
+        SECTION 6. DURATION OF HOLIDAY 
+        SECTION 7. HOLIDAY PAY -- GENERAL WAGES CHANGES 
+ARTICLE IX -- VACATIONS 
+        SECTION 1. VACATION BENEFITS 
+        SECTION 2. EMPLOYEE ELIGIBILITY 
+        SECTION 3. CONTINUOUS SERVICE 
+        SECTION 4. SCHEDULING OF VACATIONS 
+        SECTION 5. VACATION SCHEDULING COMPLAINTS AND GRIEVANCES 
+        SECTION 6. VACATION PAY COMPUTATION 
+        SECTION 7. VACATION OPPORTUNITIES 
+        SECTION 8. VACATION BONUS 
+ARTICLE X -- SENIORITY 
+        SECTION 1. FACTORS AFFECTING 
+        SECTION 2. CONTINUOUS SERVICE 
+        SECTION 3. CONTINUOUS SERVICE 
+        SECTION 4. EMPLOYEES-ACQUIRED PLANTS 
+        SECTION 5. PROMOTIONAL SENIORITY 
+        SECTION 6. NEW OR RE-EMPLOYED EMPLOYEES 
+        SECTION 7. BREAKING TIES 
+        SECTION 8. SENIORITY UNITS 
+        SECTION 9. CONFLICTING SENIORITY CLAIMS 
+        SECTION 10. SENIORITY POOLS  
+        SECTION 11. MANNING NEW FACILITIES 
+        SECTION 12. PERMANENT VACANCIES AND TRANSFER RIGHTS 
+        SECTION 13. INTRAPLANT TRANSFERS 
+        SECTION 14. SENIORITY OF UNION OFFICERS  
+        SECTION 15. REDUCTION OF WORK FORCE-32 HR. WEEK  
+        SECTION 16. POSTING OF PERMANENT VACANCIES 
+        SECTION 17. SENIORITY LISTS 
+        SECTION 18. INTER-PLANT TRANSFERS 
+
+25 
+26 
+26 
+26 
+26 
+27 
+27 
+27 
+28 
+29 
+29 
+30 
+30 
+31 
+31 
+31 
+32 
+32 
+32 
+33 
+33 
+33 
+33 
+33 
+34 
+34 
+36 
+37 
+38 
+38 
+38 
+38 
+39 
+39 
+40 
+40 
+40 
+41 
+41 
+42 
+42 
+44 
+46 
+48 
+49 
+50 
+50 
+51 
+51 
+
+        SECTION 19. RETROACTIVE PAY COMPUTATION  
+ARTICLE XI -- ADJUSTMENT OF COMPLAINTS AND GRIEVANCES 
+        SECTION 1. PURPOSE 
+        SECTION 2. PROCEDURE 
+        SECTION 3. UNION COMPLAINT AND GRIEVANCE PROCEDURE 
+        SECTION 4. EMPLOYEE DISCIPLINE RECORDS 
+ 
+        SECTION 5. COMPANY OBLIGATIONS TO UNION 
+        SECTION 6. INITIATING COMPLAINTS OR FILING GRIEVANCES 
+        SECTION 7. GRIEVANCE UNDER PRIOR AGREEMENT 
+ 
+        SECTION 8. GRIEVANCE PROCEDURE-PROPER FUNCTIONING  
+        SECTION 9. EXCEPTION TO NORMAL FILING PROCEDURE 
+        SECTION 10. EXPEDITED ARBITRATION PROCEDURE 
+        SECTION 11. MISCELLANEOUS MATTERS 
+ARTICLE XII -- DISCHARGE OF EMPLOYEES 
+        SECTION 1. PROCEDURE 
+        SECTION 2. HEARING REQUEST 
+        SECTION 3. EXCEPTION TO DISCHARGE PROCEDURE 
+        SECTION 4. UNION INVESTIGATION  
+ARTICLE XIII -- MANAGEMENT FUNCTIONS 
+ARTICLE XIV -- SAFETY AND HEALTH 
+        SECTION 1. COMPANY OBLIGATIONS 
+        SECTION 2. JOINT SAFETY AND HEALTH COMMITTEES 
+        SECTION 3. UNSAFE CONDITIONS 
+        SECTION 4. UNION LIABILITY 
+        SECTION 5. ALCOHOLISM AND DRUG ABUSE 
+        SECTION 6. CARBON MONOXIDE  
+        SECTION 7. SAFETY SHOE ALLOWANCE 
+        SECTION 8. CONFIDENTIALITY OF MEDICAL REPORTS 
+        SECTION 9. MEDICAL SURVEILLANCE 
+        SECTION 10. STRAIN AND SPRAIN INJURIES AND REPETITIVE MOTION DISORDERS 
+        SECTION 11. UNION SAFETY REPRESENTATIVES 
+ARTICLE XV -- MILITARY SERVICE, JURY PAY AND FUNERAL PAY 
+        SECTION 1. RETURN FROM MILITARY SERVICE 
+        SECTION 2. VACATION BENEFITS 
+        SECTION 3. MILITARY ENCAMPMENT ALLOWANCE 
+        SECTION 4. JURY SERVICE 
+        SECTION 5. FUNERAL LEAVE 
+ARTICLE XVI -- UNION ACTIVITY 
+ARTICLE XVII - PROHIBITION OF STRIKES AND LOCKOUTS 
+ARTICLE XVIII-SEVERANCE ALLOWANCE 
+        SECTION 1. PERMANENT SHUTDOWNS 
+        SECTION 2. LENGTH OF SERVICE 
+        SECTION 3. PAYMENT OF ALLOWANCE 
+        SECTION 4. EMPLOYMENT IN LIEU OF ALLOWANCE 
+        SECTION 5. PAYMENT LIMITATION 
+        SECTION 6. LAYOFF IN LIEU OF TERMINATION 
+
+57  
+57 
+57 
+58 
+64 
+65 
+ 
+66 
+66 
+66 
+ 
+66 
+66 
+67 
+68 
+69 
+69 
+70 
+71 
+71 
+71 
+72 
+72 
+73 
+77 
+77 
+77 
+78 
+79 
+79 
+80 
+80 
+80 
+83 
+83 
+83 
+84 
+84 
+85 
+85 
+85 
+86 
+86 
+86 
+86 
+87 
+87 
+87 
+
+ARTICLE XIX -- SUCCESSORSHIP 
+        SECTION 1. SALE OF PLANT 
+ARTICLE XX -- SUPPLEMENTAL UNEMPLOYMENT BENEFITS 
+        SECTION 1. DESCRIPTION OF PLAN  
+        SECTION 2. COVERAGE 
+        SECTION 3. REPORTS TO THE UNION 
+ARTICLE XXI -- SUB AND INSURANCE GRIEVANCES 
+        SECTION 1. PROCEDURE FOR HANDLING DISPUTES 
+ARTICLE XXII -- TERM OF AGREEMENT 
+        SECTION 1. TERMINATION 
+        SECTION 2. SUBJECTS OF NEGOTIATIONS 
+        SECTION 3. BENEFIT PLANS 
+        SECTION 4. MAILING OF NOTICES 
+APPENDIX 1 LIST OF PLANTS 
+APPENDIX 2 SHWR, ICR AND HOURLY ADDITIVES 
+APPENDIX 2A INFLATION RECOGNITION PAYMENT 
+APPENDIX 2B APPRENTICE JOB CLASS SCHEDULE 
+*APPENDIX 3 OVERTIME CONTROL 
+APPENDIX 4 1999 AGREEMENT PROFIT SHARING PLAN 
+APPENDIX 5 USWA/BETHLEHEM CAREER DEVELOPMENT PROGRAM  
+APPENDIX 6 401(K) PLAN OUTLINE 
+APPENDIX 7 EXPERIMENTAL GAINSHARING PLANS 
+APPENDIX 8 MAY 25, 1956, SUPPLEMENTAL AGREEMENT ON INCENTIVES  
+APPENDIX 9 JANUARY 4, 1960 MEMORANDUM OF UNDERSTANDING ON EQUITABLE COMPENSATION  
+APPENDIX 10 MEMORANDUM OF UNDERSTANDING CONCERNING APPRENTICESHIP TRAINING  
+APPENDIX 11 MEMORANDUM OF UNDERSTANDING ON JOB CLASSIFICATION, TRADE AND CRAFT JOBS, 
+AND BARGAINING UNIT CREW CHIEFS  
+APPENDIX 12 MEMORANDUM OF UNDERSTANDING CONCERNING MULTIPLE RATED JOBS 
+APPENDIX 13 MEMORANDUM OF UNDERSTANDING ON THE REVITALIZATION OF TRADE AND CRAFT 
+TRAINING 
+*APPENDIX 13-1 LETTER REGARDING TRADE AND CRAFT TRAINING 
+APPENDIX 14 MEMORANDUM OF UNDERSTANDING DEALING WITH GRIEVANCE PROCEDURE AND 
+ARBITRATION, JUSTICE AND DIGNITY AND EXPERIMENTAL GRIEVANCE PROCEDURE 
+APPENDIX 15 MEMORANDUM OF UNDERSTANDING ON EMPLOYEE AND UNION PARTICIPATION  
+        SECTION 1. PURPOSE AND INTENT 
+        SECTION 2. OBJECTIVES 
+        SECTION 3. FULL AND CONTINUING ACCESS TO INFORMATION 
+        SECTION 4. COMPREHENSIVE TRAINING AND EDUCATION PROGRAM FOR COMMITTEE MEMBERS, 
+BARGAINING UNIT EMPLOYEES, AND NON-BARGAINING UNIT EMPLOYEES 
+        SECTION 5. PARTNERSHIP MECHANISMS 
+        SECTION 6. EMPLOYEE COMMUNICATIONS 
+        SECTION 7. SAFEGUARDS AND RESOURCES 
+        SECTION 8. FINAL DECISION MAKING AUTHORITY  
+APPENDIX 16 BETHLEHEM EMPLOYMENT SECURITY PLAN 
+APPENDIX 17 MEMORANDUM OF UNDERSTANDING ON EARNINGS PROTECTION 
+*APPENDIX 18 MEMORANDUM OF UNDERSTANDING ON PRODUCTIVITY  
+APPENDIX 19 MEMORANDA OF UNDERSTANDING CONCERNING CONTRACTING OUT MATTERS 
+APPENDIX 20 LETTER REGARDING INCENTIVES 
+*APPENDIX 21 LETTER AGREEMENT ON WORK AND FAMILY 
+APPENDIX 22 ELIMINATION OF COOPER-MCDONALD LETTER 
+
+88 
+88 
+89 
+89 
+89 
+89 
+89 
+89 
+91 
+91 
+91 
+91 
+92 
+94 
+95 
+99 
+102 
+103 
+105 
+108 
+112 
+114 
+117 
+121 
+124 
+127 
+132 
+134 
+137 
+140 
+146 
+146 
+146 
+147 
+148 
+149 
+157 
+158 
+158 
+160 
+165 
+168 
+170 
+172 
+173 
+175 
+
+176 
+APPENDIX 23 LETTER REGARDING IMPACT OF POTENTIAL GOVERNMENTAL WAGE CONTROL 
+LEGISLATION 
+APPENDIX 24 LETTER AGREEMENT ON RETRAINING 
+177 
+APPENDIX 25 LETTER REGARDING APPROPRIATE PLANT MANAGEMENT-LOCAL UNION REPRESENTATION  179 
+APPENDIX 26 LETTER AGREEMENT ON WORK, I.E., "AS IS, WHERE IS" 
+180 
+181 
+APPENDIX 27 LETTER REGARDING SAFETY SHOE ALLOWANCE 
+182 
+APPENDIX 28 MEMORANDUM OF UNDERSTANDINGS ON MISCELLANEOUS MATTERS 
+187 
+APPENDIX 29 LETTER REGARDING EMPLOYEE STOCK OWNERSHIP 
+*APPENDIX 30 STAND UP FOR STEEL AND NATIONAL POLICY FOR STEEL AGREEMENT  
+188 
+194 
+APPENDIX 31 FAMILY AND MEDICAL LEAVE 
+200 
+APPENDIX 32 MEMORANDUM OF UNDERSTANDING ON CERTAIN SAFETY STATISTICS 
+201 
+APPENDIX 33 LETTER REGARDING AMERICANS WITH DISABILITIES ACT OF 1990  
+APPENDIX 34 MEMORANDUM OF AGREEMENT JURISDICTIONAL DISPUTES  
+202 
+203 
+*APPENDIX 35 LETTER REGARDING HAZARDS ASSOCIATED WITH IN-PLANT RAILROADS  
+204 
+*APPENDIX 36 LETTER AGREEMENT ON WORKPLACE VIOLENCE 
+*APPENDIX 37 LETTER AGREEMENT ON VACATION ELIGIBILITY FOR UNION OFFICIALS  
+205 
+206 
+APPENDIX 38 MEMORANDUM OF UNDERSTANDING CONCERNING STEEL INDUSTRY CONSENT DECREE I 
+MATTERS  
+214 
+APPENDIX 39 EMPLOYEE ORIENTATION PROGRAM 
+216 
+APPENDIX 40 LETTER AGREEMENT ON NEUTRALITY 
+APPENDIX 41 LACKAWANNA COKE DIVISION 
+225 
+228 
+*APPENDIX 41-1 LETTER AGREEMENT - MISCELLANEOUS ITEMS-LACKAWANNA COKE DIVISION 
+230 
+APPENDIX 42 LETTER REGARDING RIGHT OF FIRST OFFER ON SALE OF FACILITIES 
+233 
+APPENDIX 43 LETTER REGARDING INTRA-COMPANY TRANSACTIONS  
+APPENDIX 44 MEMBERSHIP LIST LETTER 
+234 
+235 
+APPENDIX 45 LETTER CONCERNING VOLUNTARY EMPLOYEE BENEFICIARY ASSOCIATION (VEBA) 
+240 
+*APPENDIX 46 LETTER REGARDING COORDINATORS 
+242 
+*APPENDIX 47 WORKPLACE HARASSMENT AWARENESS AND PREVENTION 
+*APPENDIX 48 LETTER AGREEMENT ON TRANSFER RIGHTS 
+244 
+245 
+*APPENDIX 49 LETTER AGREEMENT ON UNION ROLE IN NEGOTIATION OF BENEFITS 
+*APPENDIX 50 ARBITRATION PROCEDURE 
+247 
+*These appendices are entirely new and appear for the first time in this Agreement.  
+
+Language which is new or changed between this Agreement and the Agreement dated August 1, 1993 is printed 
+in bold face type. Section and Paragraph headings are for reference only.  
+
+ 
+
+AGREEMENT DATED August 1, 1999, between BETHLEHEM STEEL CORPORATION and UNITED STEELWORKERS 
+OF AMERICA 
+
+ 
+ 
+ 
+ 
+
+ARTICLE I — DEFINITIONS 
+
+  
+  Except  as  otherwise  stated  in  this  Agreement,  wherever  used  herein  the 
+respective terms hereinafter in this Article mentioned shall have the respective 
+meanings hereinafter set forth. 
+
+  
+ 
+(a)  The term "the Company" means Bethlehem Steel Corporation. If 
+operations  of  any  Plant  covered  by  this  Agreement  are  transferred  to  a 
+
+01.00.00  
+
+01.00.01  
+
+01.00.02  
+
+(c)  The term "Plant" at any given time means any one of the operations 
+
+operations  of  any  Plant  covered  by  this  Agreement  are  transferred  to  a 
+subsidiary or affiliated of the Company, such subsidiary or affiliate shall be 
+included in the term "Company" for purposes of this Agreement. 
+  
+ 
+(b)  The term "the Union" means United Steelworkers of America, and 
+wherever  said  term  is  used  with  reference  to  a  particular  Plant  said term 
+includes the Local or Locals of the Union at such Plant. 
+  
+ 
+of the Company listed in Appendix 1. 
+  
+ 
+(d)  The term "Unit" means the unit at a Plant as such unit is defined in 
+Article II of this Agreement, and the term "Units" means two or more or all 
+(as the case may be) of such units. 
+  
+ 
+(e)  The term "Employee" means an employee of the Company who is 
+included in a Unit, and the term "Employees" means two or more or all (as 
+the case may be) of such employees. 
+  
+ 
+Company at the particular Plant. 
+  
+ 
+(g)  The  term  "Superintendent  of  Labor  Relations"  means  either  the 
+Superintendent of Labor Relations or the Superintendent of Labor Relations 
+and  Personnel  Services  at 
+the  particular  Plant,  or  his  designated 
+representative. 
+  
+ 
+of the Union for the Plant. 
+  
+
+(f)  The  term  "the  Management"  means  the  Management  of  the 
+
+(h)  The term "Grievance Committee" means the grievance committee 
+
+(i)  The term "term of this Agreement" means the period during which 
+
+ 
+this Agreement shall   be in effect as provided in Article XXII hereof. 
+
+  
+ 
+(j)  Throughout  this  Agreement,  in  referring  to  Employees,  the 
+masculine gender is used for convenience only and shall refer both to males 
+and females.  
+
+ 
+ 
+ 
+ 
+
+ARTICLE II(cid:190)APPLICATION OF AGREEMENT 
+
+  
+
+Section 1. Purpose and Intent of the Parties 
+
+ 
+  
+ 
+(a)   Matters  of  employment:    It  is  the  intent  and  purpose  of  the  parties 
+hereto  to  set  forth  herein  the  agreement  between  them  in  respect  of  rates  of 
+pay, hours of work and other conditions of employment of the Employees in 
+
+01.00.03  
+
+01.00.04  
+
+01.00.05  
+
+01.00.06  
+
+01.00.07  
+
+01.00.08  
+
+01.00.09  
+
+01.00.10  
+
+ 
+
+02.00.00  
+
+02.01.00  
+  
+02.01.01  
+
+pay, hours of work and other conditions of employment of the Employees in 
+the  respective  Units  as  hereinafter  defined  at  the  respective  Plants  listed  in 
+Appendix 1.  Appendix 1 also lists other operations of the Company as to 
+which certain portions of this Agreement apply. 
+
+through 
+
+the  complaint  and  grievance  procedure, 
+
+  
+ 
+(b)  Basis of Claims:  The provisions of this Agreement constitute the sole 
+procedure for the processing and settlement of any claim by an Employee or 
+the  Union  of  a  violation  by  the  Company  of  this  Agreement.  As  the 
+representative  of  the  Employees,  the  Union  may  process  complaints  and 
+grievances 
+including 
+arbitration, in accordance with this Agreement or adjust or settle the same. 
+  
+ 
+(c)  Administration:  The representatives of the Company and the Union 
+shall continue to provide each other with such advance notice as is reasonable 
+under the circumstances on all matters of importance in the administration of 
+the  terms  of  this  Agreement,  including  changes  or  innovations  affecting  the 
+relations between the local parties. 
+  
+(d)  Non-Discrimination:  It is the continuing policy of the Company and 
+ 
+the  Union  that  the  provisions  of  this  Agreement  shall  be  applied  to  all 
+Employees  without  regard  to  race,  color,  religious  creed,  national  origin, 
+handicap,  disabled  veterans  and  veterans  of  the  Viet  Nam  era,  sex  or  age, 
+except  where  sex  or  age  is  a  bona  fide  occupational  qualification.  The 
+representatives of the Union and the Company in all steps of the complaint and 
+grievance procedure and in all dealings between the parties shall comply with 
+this provision. It is also the continuing policy of the Company and the Union 
+that  all  Employees  shall  be  provided a workplace free of sexual harassment. 
+Sexual harassment shall be considered discrimination under this provision. In 
+the event that any such discrimination should occur, the Company shall take 
+corrective action as appropriate. Neither the Company nor Union shall retaliate 
+against  an  Employee  who  complains  of  such  discrimination,  or  who  is  a 
+witness to such discrimination. 
+  
+ 
+(e)  Civil Rights Committee: A joint Committee on Civil Rights shall be 
+established at each Plant. The Union representation on the Committee shall be 
+no  more  than  three  members  of  the  Union,  in  addition  to  the  Local  Union 
+President and Chairman of the Grievance Committee; provided, however, that 
+practices  presently  prevailing  as  to  the  composition  of  the  Civil  Rights 
+Committee  shall  continue  in  effect.  The  Union  members  shall  be  certified  to 
+the  Labor  Relations  Department  Head  by  the  Union  and  the  Company 
+members shall be certified to the District Director of the Union. 
+  
+  The joint Committee shall review matters involving Civil Rights including 
+a  review  of  hiring  efforts  in  respect  of  minorities  and  females.  The  joint 
+Committee shall also review and investigate complaints involving Civil Rights 
+and attempt to resolve same. 
+
+  
+02.01.02  
+
+02.01.03  
+
+02.01.04  
+
+02.01.05  
+
+02.01.06  
+
+  
+
+In the event that an Employee Civil Rights complaint involving a 
+
+ 
+claim of discrimination reviewed by the joint Committee is not resolved 
+by the joint Committee, it may be processed as a grievance Such 
+grievance may be filed by the Chairman of the Grievance Committee in 
+the third step of the grievance procedure as provided in Article XI. it is 
+not intended by the parties that this Committee shall displace the 
+normal operation of the grievance procedure. The joint Committee shall 
+have no jurisdiction over the initiating, filing, or processing of 
+grievances. If a Civil Rights complaint is referred to the joint 
+Committee, the time limit for filing a grievance in the third step will 
+commence the day following the date of the initial joint Committee 
+meeting in which the Civil Rights complaint was discussed, unless the 
+Company and Union members of the joint Committee mutually agree to 
+an extension; provided, however, the Civil Rights complaint was 
+recorded with the joint Committee within 30 calendar days after the 
+date on which the facts or events upon which the Civil Rights complaint 
+is based shall have existed or reasonably should have become known to 
+the Employee or Employees affected thereby. 
+
+  
+  
+
+  The Company and Union members of the joint Committee shall meet 
+at mutually agreeable times as required. 
+
+  
+
+  Section 2.   Unit Coverage  
+ 
+(a)  Membership:    The  Unit  at  each  of  such  Plants  shall  include  all 
+production and maintenance employees of the Company there and firemen at 
+the Sparrows Point Plant, and shall exclude all executives, office and salaried 
+employees,  foremen,  assistant  foremen,  supervisors  who  do  not  work  with 
+tools,  draftsmen,  timekeepers  at  Plants  other  than  the  Sparrows  Point  and 
+Lackawanna  Plants,  watchmen  and  guards,  full-time  first-aid  and  safety 
+employees. 
+  
+ 
+Jobs:  When Management establishes a new or changed job in a Plant 
+so  that  duties  involving  a  significant  amount  of  production  or  maintenance 
+work, or both, which is performed on a job within the bargaining unit (or, in 
+the case of new work, would be performed on such a job) are combined with 
+duties not normally performed on a job within the bargaining unit, the resulting 
+job  in  the  Plant  shall  be  considered  as  within  the  bargaining  unit.  This 
+provision  shall  not  be  construed  as  enlarging  or  diminishing  whatever  rights 
+exist in respect of withdrawal of non-bargaining unit duties from a job in the 
+bargaining unit, provided that where non-bargaining unit duties are placed in a 
+
+(b) 
+
+02.01.07  
+
+02.01.08  
+
+02.02.00  
+02.02.01  
+
+02.02.02  
+
+bargaining unit, provided that where non-bargaining unit duties are placed in a 
+job in the bargaining unit under this provision, such duties may be withdrawn 
+at  any  time.  Management  shall,  on  request,  furnish  to  the  Union  reasonable 
+information  to  permit  determination  of  questions  of  compliance  with  this 
+provision. 
+  
+ 
+(c)  Dispute of Coverage:  Any difference which shall arise between the 
+Company and the Union as to whether or not any individual employee is or is 
+not  included  within  the  Unit  at  any  Plant  as  hereinbefore  defined  shall  be 
+handled as a complaint or grievance in accordance with the procedure set forth 
+in Article XI hereof. 
+  
+ 
+(d)  Supervisors:  Any supervisor at a Plant shall not perform work on a 
+job normally performed by an Employee in the bargaining unit at such Plant; 
+provided, however, this provision shall not be construed to prohibit supervisors 
+from performing the following types of work: 
+  
+
+(1)  experimental work; 
+
+(2)  demonstration work performed for the purpose of 
+
+ 
+  
+ 
+instructing and training Employees; 
+  
+ 
+(3)  work required of the supervisors by emergency conditions 
+which if not performed might result in interference with operations, 
+bodily injury, or loss or damage to material or equipment; and 
+  
+ 
+(4)  work which, under the circumstances then existing, it would 
+be unreasonable to assign to a bargaining unit Employee and which 
+is negligible in amount. 
+  
+
+  Work which is incidental to supervisory duties on a job normally 
+performed by a supervisor, even though similar to duties found in jobs 
+in the bargaining unit, shall not be affected by this provision. 
+  
+  A grievance alleging a violation of Article II, Section 2(d), shall be initiated 
+at  Step  No.  2  by  the  Grievance  Committeeman  or  the  Assistant  Grievance 
+Committeeman in conformity with the provisions of Article XI. If a supervisor 
+performs  work  in  violation  of  this  Section  and  the  Employee  who  otherwise 
+would  have  performed  the  work  can  be  reasonably  identified,  the  Company 
+shall pay such Employee the applicable standard hourly wage rate for the time 
+which he would have worked on the job or a four-hour minimum at standard 
+hourly wage rate, whichever is greater. 
+  
+ 
+(e)  Temporary  Foremen:    (1)  An  Employee  assigned  as  a  temporary 
+foreman  will  not  issue  discipline  to  Employees,  provided  that  this  provision 
+will not prevent a temporary foreman from relieving an Employee from work 
+for the balance of the turn for alleged misconduct.  An Employee will not be 
+
+02.02.03  
+
+  
+02.02.04  
+
+02.02.05  
+
+02.02.06  
+
+02.02.07  
+
+02.02.08  
+
+02.02.09  
+
+02.02.10  
+
+02.02.11 
+
+for the balance of the turn for alleged misconduct.  An Employee will not be 
+called by either party in the grievance procedure or arbitration to testify as a 
+witness  regarding  any  events  involving  discipline  which  occurred  while  the 
+Employee was assigned as a temporary foreman. 
+  
+ 
+basis will not work in the bargaining unit during the week in which he is 
+assigned as a temporary foreman.  An employee will not be retained in 
+employment or recalled from layoff as a temporary foreman at a time 
+when the application of his bargaining unit seniority would not 
+otherwise result in his retention in employment or recall from layoff. 
+
+(2)  An employee assigned as a temporary foreman on a weekly 
+
+  
+
+  Section 3.    Local Working Conditions 
+  The term "local working conditions" as used in this Section means 
+specific practices or customs which reflect detailed application of the 
+subject matter within the scope of wages, hours of work, or other 
+conditions of employment and includes local agreements, written or 
+oral, on such matters. It is recognized that it is impracticable to set 
+forth in this Agreement all of these working conditions, which are of a 
+local nature only, or to state specifically in this Agreement which of 
+these matters should be changed or eliminated. The provisions set forth 
+below provide general principles and procedures which explain the 
+status of these matters and furnish necessary guideposts for the parties 
+hereto and the impartial umpire. The provisions of this Section are not 
+intended to prevent the Management from continuing to make 
+progress. Any arbitrations arising hereunder shall be handled on a case-
+by-case basis on principles of reasonableness and equity. 
+  
+
+ 
+(a)  Right  to  Establish:  It is recognized that an Employee does not 
+have the right to have a local working condition established, in any given 
+situation or Plant where such condition has not existed, during the term of 
+this Agreement or to have an existing local working condition changed or 
+eliminated,  except  to  the  extent  necessary  to  require  the  application  of  a 
+specific provision of this Agreement. 
+  
+ 
+(b)  Deprivation of Benefits:  In no case shall local working conditions 
+be  effective  to  deprive  any  Employee  of  rights  under  this  Agreement. 
+Should  any  Employee  believe  that  a  local  working  condition  is  depriving 
+him  of  the  benefits  of  this  Agreement,  he  shall  have  recourse  to  the 
+complaint and grievance procedure and arbitration, if necessary, to require 
+that  the  local  working  condition  be  changed  or  eliminated  to  provide  the 
+benefits established by this Agreement. 
+  
+ 
+(c)  Benefits in Excess:  Should there be any local working conditions 
+in effect which provide benefits that are in excess of  or in addition to the 
+benefits established by this Agreement, they shall remain in effect for the 
+
+  
+02.02.12 
+
+02.03.00  
+02.03.01  
+
+02.03.02  
+
+02.03.03  
+
+02.03.04  
+
+benefits established by this Agreement, they shall remain in effect for the 
+term of this Agreement, except as they are changed or eliminated by mutual 
+agreement or in accordance with paragraph (d) below. 
+  
+ 
+(d)  Right to Change or Eliminate:  The Management shall have the 
+right to change or eliminate any local working condition if, as the result of 
+action  taken  by  Management  under  Article  XIII  hereof,  the  basis  for  the 
+existence of the local working condition is changed or eliminated, thereby 
+making it unnecessary to continue such local working condition; provided, 
+however,  that  when  such  a  change  or  elimination  is  made  by  the 
+Management any affected Employee shall have recourse to the complaint 
+and  grievance  procedure  and  arbitration,  if  necessary,  to  have  the 
+Management justify its action. 
+  
+(e)  Modification  of  main  Agreement:  No  local  working  condition 
+ 
+shall hereafter be established or agreed to which changes or modifies any of 
+the provisions of this Agreement, except as it is approved in writing by an 
+International Officer of the Union and the Manager of Union Relations of 
+the Company. 
+  
+ 
+(f)  Complaint  or  Grievance  Settlements:  The  settlement  of  a 
+complaint  or  grievance  prior  to  arbitration  under  the  provisions  of  this 
+Section shall not constitute a precedent in the settlement of complaints or 
+grievances in other situations in this area. 
+  
+(g)  Settlements via Agreements: Each party shall as a matter of policy 
+ 
+encourage  the  prompt  settlement  of  problems  in  this  area  by  mutual 
+agreement at the local level.  
+  
+
+Section 4.  Contracting Out  
+
+ 
+  The parties recognize the seriousness of the problems associated 
+with contracting out of work both inside and outside the Plant and have 
+accordingly agreed as follows: 
+  
+  The parties have existing rights and contractual understandings with 
+respect to contracting out. In addition, the following provisions shall be 
+applicable to all contracting out issues subject to, and arising on or 
+after the effective date of this Agreement. 
+  
+ 
+  
+
+(a)  Basic Prohibition 
+
+In determining whether work should be contracted out or accomplished by 
+the  bargaining  unit,  the  guiding  principle  is  that  work  capable  of  being 
+performed  by  bargaining  unit  Employees  shall  be  performed  by  such 
+Employees. Accordingly, the Company will not contract out any work for 
+performance  inside  or  outside  the  Plant  unless  it  demonstrates  that  such 
+work meets one of the following exceptions.
+
+02.03.05 
+
+  
+02.03.06  
+
+02.03.07  
+
+02.03.08  
+
+02.04.00  
+02.04.01  
+
+02.04.02  
+
+02.04.03  
+
+02.04.04  
+
+  
+ 
+
+  
+
+  
+
+work meets one of the following exceptions. 
+
+(b)  Exceptions 
+  
+ 
+
+(1)  Work in the Plant 
+
+a.  Production, service, all maintenance and repair work, all 
+
+ 
+installation, replacement and reconstruction of equipment and 
+productive facilities, other than that listed in subparagraph (b)(l)b. 
+below, all within a Plant, may be contracted out if (i) the consistent 
+practice has been to have such work performed by employees of 
+contractors and (ii) it is more reasonable (within the meaning of 
+paragraph (c) below) for the Company to contract out such work 
+than to use its own Employees. 
+
+ 
+b.  Major  new  construction  including  major  installation,  major 
+replacement  and  major  reconstruction  of  equipment  and  productive 
+facilities,  at  any  Plant  may  be  contracted  out  subject  to  any  rights  and 
+obligations  of  the  parties  which  as  of  the  beginning  of  the  period 
+commencing August 1, 1963, are applicable at that Plant in the case of any 
+Plant which was in operation on or before August 1, 1958. With respect to 
+any  other  Plant,  the  period  commencing  date shall be the date five years 
+after the date on which the Plant started operations. 
+  
+ 
+A project shall be deemed major so as to fall within. the scope of this 
+exception if it is shown by the Company that the project is of a grander or 
+larger scale when compared to other projects bargaining unit forces at the 
+Plant are  normally  expected  to  do.  Such  comparison  should  be  made  in 
+light of all relevant factors. 
+  
+ 
+As regards the term "new construction" above, except for work done 
+on equipment or systems pursuant to a manufacturer's warranty, work that 
+is  of  a  peripheral  nature  to  major  new  construction,  including  major 
+installation, major replacement and major reconstruction of equipment and 
+production  facilities  and  which  does  not  concern the main body of work 
+shall be assigned to Employees within the bargaining unit unless it is more 
+reasonable to contract out such work taking into consideration the factors 
+set forth in paragraph (c) or it is otherwise mutually agreed. For purposes of 
+this  provision,  the  term  "work  of  a  peripheral  nature"  may  in  certain 
+instances  include,  but  not  be  limited  to  demolition,  site  preparation,  road 
+building, utility hookups, pipe lines and any work which is not integral to 
+the main body. 
+  
+ 
+  
+ 
+Should the Company contend that maintenance or repair work to 
+be performed outside the Plant or work associated with the fabricating of 
+
+(2)  Work Outside the Plant 
+
+a. 
+
+02.04.05  
+
+02.04.06  
+
+02.04.07  
+
+02.04.08  
+
+02.04.09  
+
+02.04.10  
+
+02.04.11 
+
+02.04.12  
+
+be performed outside the Plant or work associated with the fabricating of 
+goods,  materials  or  equipment  purchased  or  leased  from  a  vendor  or 
+supplier  should  be  excepted  from  the  prohibitions  of  this  Section,  the 
+Company must demonstrate that it is more reasonable (within the meaning 
+of  paragraph  (c)  below)  for  the  Company  to  contract  for  such  work 
+(including the purchase or lease of the item) than to use its own Employees 
+to perform the work or to fabricate the item. 
+
+ 
+Notwithstanding  the  above,  the  Company  may  purchase  standard 
+components  or  parts  or  supply  items  mass  produced  for  sale  generally 
+("shelf items"). No item shall be deemed a standard component or part or 
+supply item if:  
+
+  
+
+  
+
+(i) 
+
+(ii) 
+
+(iii) 
+
+it involves a unit exchange; or 
+
+ 
+its  fabrication  requires  the  use  of  prints,  sketches  or 
+detailed manufacturing instructions supplied by the Company or 
+at  the  Company's  behest  or  by  another  company  engaged  in 
+producing or finishing steel or it is otherwise made according to 
+detailed Company specifications or those of such other company; 
+or 
+  
+ 
+  
+ 
+it  involves  the  purchase  of  electric  motors,  engines, 
+transmissions,  or  converters  under  a  core  exchange  program 
+(whether or not title to the unit passes to the vendor/purchaser as 
+part  of  the  transaction),  unless  such  transaction  is  undertaken 
+with  an  original  equipment  manufacturer,  or  with  one  of  its 
+authorized dealers, provided that the items in the core exchange 
+program  that  are  sold  to  the  Company  are  rebuilt  using 
+instructions  and  parts  supplied  by  the  original  equipment 
+manufacturer  (or,  if  the  part  or  parts  are  not  stocked  by  the 
+original 
+such 
+manufacturer). 
+  
+  It  is  further  provided  that  adjustments  in  the  length,  size,  or 
+shape of a shelf item, so that it can be used for a Company specific 
+application,  shall  be  deemed  for  the  purposes  of  this  Section 
+4(b)(2)(a), to be fabrication work performed outside the Plant. 
+  
+b. 
+
+equipment  manufacturer, 
+
+approved 
+
+by 
+
+ 
+Production work may be performed outside the Plant only where 
+the  Company  demonstrates  that  it  is  unable  because  of  lack  of  capital  to 
+invest  in  necessary  equipment  or  facilities,  and  that  it  has  a  continuing 
+commitment to the steelmaking business. In determining whether there is 
+capital  to  invest  in  particular  equipment  or  facilities,  the  Company  is 
+entitled to make-reasonable judgments about the allocation of scarce capital 
+resources among its Plants represented by the Union and their supporting 
+facilities.
+
+02.04.13  
+
+02.04.14 
+
+02.04.15 
+
+02.04.16 
+
+02.04.17 
+
+02.04.18  
+
+facilities. 
+
+  
+(3)  Mutual Agreement 
+
+ 
+  Work  contracted  out  by  mutual  agreement  of  the  parties  pursuant  to 
+paragraph (g) below. 
+
+  
+
+(c)  Reasonableness 
+  
+
+  
+
+  
+
+ In determining whether it is more reasonable for the Company to 
+contract out work than use its own Employees, the following factors 
+shall be considered: 
+
+(1)  Whether the bargaining unit will be adversely impacted. 
+
+ 
+  
+ 
+negative factor except for work of a temporary nature. 
+
+(2)  The  necessity  for  hiring  new  Employees  shall  not  be  deemed  a 
+
+  
+(3)  Desirability of recalling Employees on layoff. 
+
+(5)  Availability of adequate qualified supervision. 
+
+(4)  Availability of qualified Employees (whether active or on layoff) 
+
+ 
+  
+ 
+for a duration long enough to complete the work. 
+  
+ 
+  
+ 
+(6)  Availability of required equipment either on hand or by lease or 
+purchase,  provided  that  either  the  capital  outlay  for  the  purchase  of  such 
+equipment,  or  the  expense  of  leasing  such  equipment,  is  not  an 
+unreasonable expenditure in all the circumstances at the time the proposed 
+decision is made. 
+  
+ 
+associated with the work. 
+  
+ 
+(8)  Whether  the  decision  to  contract  out  the  work  is  made  to  avoid 
+any  obligation  under  the  collective  bargaining  agreement  or  benefits 
+agreements associated therewith. 
+  
+ 
+(9)  Whether the work is covered by a warranty necessary to protect 
+the Company's investment. For purposes of this subparagraph, warranties 
+are intended to include work performed for the limited time necessary to 
+make effective the following seller guarantees: 
+  
+
+(7)  The  expected  duration  of  the  work  and  the  time  constraints 
+
+a.  Manufacturer  guarantees  that  new  or  rehabilitated equipment 
+
+ 
+or systems are free of errors in quality, workmanship or design. 
+  
+ 
+b.  Manufacturer guarantees that new or rehabilitated equipment 
+or  systems  will  perform  at  stated  levels  of  performance  and/or 
+
+02.04.19  
+02.04.20  
+
+02.04.21  
+
+02.04.22  
+
+02.04.23  
+
+02.04.24  
+
+02.04.25 
+
+02.04.26  
+
+02.04.27  
+
+02.04.28  
+
+02.04.29  
+
+02.04.30  
+
+02.04.31  
+
+02.04.32 
+
+  
+02.04.33 
+
+or  systems  will  perform  at  stated  levels  of  performance  and/or 
+efficiency subsequent to installation. 
+
+ 
+For equipment or systems ordered after August 1, 1999, and for 
+the purposes of this factor only, the warranties referenced in a. and 
+b. above may not be relied upon by the Company for more than 18 
+months  following  acceptance;  provided,  however,  warranties  of  a 
+longer  duration  may  be  relied  upon 
+if  the  Company  (i) 
+demonstrates that at the time of the sale such longer warranties are 
+the manufacturer's published standard warranties actually offered 
+to customers in the normal course of business; and (ii) reviews the 
+documents  relating  to  the  warranty  and  the  sales  price  with  the 
+union members of the contracting out committee at or near the time 
+of the purchase. 
+  
+  Warranties are commitments associated with a particular product or 
+service in order to assure that seller representations will be honored at 
+no additional cost to the Company. Long-term service contracts are not 
+warranties for the purposes of this subparagraph. 
+
+  
+
+  
+
+(d)  Contracting Out Committee 
+
+ 
+  
+
+(10) 
+
+ 
+In  the  case  of  work  associated  with  leased  equipment, 
+whether such equipment is available without a commitment to use the 
+employees  of  outside  contractors  or  lessors  for  its  operation  and 
+maintenance. 
+  
+(11)  Whether, in connection with the subject work or generally, 
+ 
+the  Local  Union  is  willing  to  waive  or  has  waived  restrictive  working 
+conditions,  practices  or  jurisdictional  rules  (all  within  the  meaning  of 
+"local  working  conditions"  and  the  authority  provided  by  this 
+Agreement). 
+  
+
+ 
+(1)  At each Plant a regularly constituted committee consisting of 
+not more than four persons (except that the committee may be enlarged 
+to six persons by local agreement), half of whom shall be members of 
+the  bargaining  unit  and  designated  by  the  Union  in  writing  to  the 
+Management and the other half designated in writing to the Union by 
+the Management, shall attempt to resolve problems in connection with 
+the  operation,  application  and  administration  of 
+the  foregoing 
+provisions. 
+  
+ 
+In  addition to the requirements of paragraph (e) below, such 
+committee  may  discuss  any  other  current  problems  with  respect  to 
+contracting out brought to the attention of the committee. 
+  
+
+(2) 
+
+02.04.34 
+
+02.04.35  
+
+02.04.36  
+
+02.04.37 
+
+02.04.38 
+
+02.04.39  
+
+  
+02.04.40  
+
+  
+
+(3)  Such committee shall meet at least one time each month. 
+
+02.04.41  
+
+ 
+  
+
+(e)  Notice and Information 
+  
+
+ 
+
+Before the Company finally decides to contract out an item of 
+work as to which it claims the right to contract out, the Union committee 
+members will be notified. Except as provided in paragraph (i) below (Shelf 
+Item Procedure), such notice will be given in sufficient time to permit the 
+Union to invoke the Expedited Procedure described in paragraph (h) below, 
+unless emergency situations prevent it. Such notice shall be in writing and 
+shall be sufficient to  advise  the  Union  members  of  the  committee  of  the 
+location, type, scope, duration and timetable of the work to be performed so 
+that the Union members of the committee can adequately form an opinion 
+as  to  the  reasons  for  such  contracting  out.    Such  notice  shall generally 
+contain the information set forth below: 
+
+ 
+
+  
+
+02.04.42  
+
+02.04.43 
+
+  
+  
+
+  
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+02.04.44 
+
+Location of work.  
+
+Type of work:  
+
+a.  Service  
+b.   Maintenance  
+d.  New Construction 
+
+3.  Detailed description of the work. 
+
+4.  Crafts or occupations involved.  
+
+5. 
+
+Estimated duration of work.  
+
+2. 
+
+1. 
+
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+period. 
+  
+ 
+fashion. 
+  
+
+7. 
+
+6.  Anticipated utilization of bargaining unit forces during the 
+
+Effect on operations if work not completed in timely 
+
+Within ninety (90) days following the effective date of this 
+agreement, Headquarters representatives of the parties shall 
+develop a form notice for the submission of the information 
+described above. Either the Union members of the committee or the 
+Company members of the committee may convene a prompt 
+meeting of the committee. Should the Union committee members 
+believe a meeting to be necessary, they shall so request the 
+Company members in writing within five (5) days (excluding 
+Saturdays, Sundays and holidays) after receipt of such notice and 
+such a meeting shall be held within three (3) days (excluding 
+
+Saturdays, Sundays and holidays) thereafter. The Union members of 
+the committee may include in the meeting the Union representative 
+from the area in which the problem arises. At such meeting, the 
+parties should review in detail the plans for the work to be 
+performed and the reasons for contracting out such work. Upon 
+their request, the Union members of the committee will be provided 
+any and all relevant information in the Company's possession 
+relating to the reasonableness factors set forth in paragraph (c) 
+above. Included among the information to be made available to the 
+committee shall be the opportunity to review copies of any relevant 
+proposed contracts with the outside contractor. This information will 
+be kept confidential. The Company members of the committee shall 
+give full consideration to any comments or suggestions by the Union 
+members of the committee and to any alternate plans proposed by 
+Union members for the performance of the work by bargaining unit 
+personnel. Except in emergency situations, such discussions, if 
+requested shall take place before any final decision is made as to 
+whether or not such work will be contracted out. 
+
+Should  the  Company  committee  members  fail  to  give  notice  as 
+provided  above,  then  not  later  than  thirty  (30)  days  from  the  date  of  the 
+commencement  of  the  work  a  grievance  relating  to  such  matter  may  be 
+filed under the complaint and grievance procedure.  Should it be found in 
+the arbitration of a grievance alleging a failure of the Company to provide 
+the notice or information required under this paragraph (e) that such notice 
+or  information  was  not  provided,  that  the  failure  was  not  due  to  an 
+emergency  requirement,  and  that  such  failure  deprived  the  Union  of  a 
+reasonable  opportunity  to  suggest  and  discuss  practicable  alternatives  to 
+contracting out, the Impartial Umpire shall have the authority to fashion a 
+remedy, at his discretion, that he deems appropriate to the circumstances of 
+the  particular  case.    Such  remedy,  if  afforded,  may  include  earnings  and 
+benefits to grievants who would have performed the work, if they can be 
+reasonably identified. 
+
+(f)  Remedy for Repeated Notice Violations 
+
+Notwithstanding any other provision of this Agreement, where, at a 
+particular Plant, it is found that the Company (i) committed violations of 
+paragraph (e) that demonstrate willful conduct in violation of the notice 
+provision or constitutes a pattern of conduct of repeated violations or (ii) 
+violated a cease and desist order previously issued by the Impartial Umpire 
+may, as circumstances warrant, fashion a suitable remedy or penalty. 
+
+(g)  Mutual Agreement and Disputes 
+  
+
+The  committee  may  resolve  the  matter  by  mutually  agreeing  that  the 
+work  in  question  either  shall  or  shall  not  be  contracted  out.  Any  such 
+
+  
+
+  
+ 
+  
+
+  
+ 
+
+02.04.45 
+
+  
+02.04.46 
+
+02.04.47 
+
+02.04.48  
+
+02.04.49  
+
+  
+ 
+
+  
+
+work  in  question  either  shall  or  shall  not  be  contracted  out.  Any  such 
+resolution  shall  be  final  and  binding  but  only  as  to  the  matter  under 
+consideration and shall not affect future determinations under this Section. 
+
+  
+If the matter is not resolved, or if no discussion is held, the dispute may 
+be processed further (i) by filing a grievance relating to such matter under 
+the  complaint  and  grievance  procedure  described  in  Article  XI;  or  (ii)  by 
+submitting the matter to the Expedited Procedure set out in paragraph (h) 
+below. 
+
+  
+No  agreement  entered  into  after  August  1,  1999,  whether  or  not 
+reached pursuant to this Section, which directly or indirectly permits the 
+contracting  out  of  work  on  an  ongoing  basis,  shall  be  valid  or 
+enforceable unless it is in writing and signed by both the President and 
+the Chairman of the Grievance Committee of the affected local Union. 
+
+(h)  Expedited Procedure  
+
+In the event that either the Union or Company members of the 
+committee request an expedited resolution of any dispute arising 
+under this Section, except paragraph (i) (Shelf Item Procedure), it 
+shall be submitted to the Expedited Procedure in accordance with 
+the following: 
+
+(1) 
+
+ 
+In  all  cases  except  those  involving  day-to-day  maintenance and 
+repair  work  and  service,  the  Expedited  Procedure  shall  be  implemented 
+prior to letting a binding contract. 
+
+  
+ 
+(2)  Within  three  (3)  days  (excluding  Saturdays,  Sundays  and 
+holidays)  after  either  the  Union  or  Company  members  of  the  committee 
+determine  that  the  committee  cannot  resolve  the  dispute,  either  party 
+(chairman of the grievance committee in the case of the Local Union and 
+the  Superintendent  of  Labor  Relations  in  the  case  of  the  Company)  may 
+advise the other in writing that it is invoking this Expedited Procedure. 
+  
+ 
+(3)  An expedited arbitration must be scheduled within three (3) days 
+(excluding Saturdays, Sunday; and holidays) of such notice and heard at a 
+hearing  commencing  within  five  (5)  days  (excluding  Saturdays,  Sundays 
+and holidays) thereafter. The Impartial Umpire, or his appointee, shall hear 
+the dispute and, if no Umpire is available to hear the dispute within five (5) 
+days, another arbitrator shall be selected by mutual agreement of the Step 
+No. 4 Representative of the Union and the Step No. 4 Representative of the 
+Company. 
+  
+ 
+The  arbitrator  must  render  a  decision  within  forty-eight  (48) 
+hours (excluding Saturdays, Sundays and holidays) of the conclusion of the 
+hearing. Such decision shall not be  cited as a precedent by either party in 
+any future contracting out disputes.
+
+(4) 
+
+02.04.50  
+
+02.04.51 
+
+02.04.52 
+02.04.53  
+
+02.04.54 
+
+02.04.55 
+
+02:04.56  
+
+02:04.57 
+
+any future contracting out disputes. 
+  
+ 
+(5)  Notwithstanding any other provision of this Agreement, any case 
+heard in the Expedited Procedure before the work in dispute was performed 
+may be reopened by the Union in accordance with this paragraph if such 
+work,  as  actually  performed,  varied  in  any  substantial  respect  from  the 
+description presented in arbitration, except where the difference involved a 
+good  faith  variance  as  to  the  magnitude  of  the  project.  The  request  to 
+reopen  the  case  must  be  submitted  within  seven  (7)  days  of  the  date  on 
+which  the  Union  knew  or  should  have  known  of  the  variance  and  shall 
+contain a summary of the ways in which the work as actually performed 
+differed  from  the  description  presented  in  arbitration.  As  soon  as 
+practicable after receipt of a request to reopen, an arbitration hearing date 
+shall  be  scheduled.  In  a  case  reopened  pursuant  to  this  paragraph,  the 
+Impartial Umpire shall determine whether the work in dispute, as it actually 
+was performed, violated the provisions of Section 4 and, if so, the remedy. 
+The  prior  decision  regarding  the  subject  work  shall  be  considered  in  the 
+determination  and  given  weight  in  the  subsequent  dispute,  except  to  the 
+extent that it relied on an erroneous description. 
+  
+(i)  Contractors Testifying In Arbitration  
+
+No testimony offered by an outside contractor may be considered in any 
+proceeding  alleging  a  violation  Of  Section  4  unless  the  party  calling  the 
+contractor provides the other party with a copy of each contractor document 
+to be offered at least forty-eight (48)-hours (excluding Saturdays, Sundays 
+and holidays) before commencement of that hearing. 
+
+Shelf Item Procedure 
+
+(j) 
+ 
+(1)  No  later  than  June  1,  1994,  and,  except  as  provided  herein, 
+annually thereafter, the Company shall provide the Union members of the 
+committee with a list and description of anticipated ongoing purchases of 
+each item which the Company claims to be a shelf item within the meaning 
+of  paragraph  (b)(2)a.  above.  If  the  Union  members  of  the  committee  so 
+request, the list shall not include any item included on a previous list where 
+the status of the item, as a shelf item, has been expressly resolved. Within 
+sixty (60) days of the submission of the list, either the Union members of 
+the committee or the Company members may convene a prompt meeting of 
+the committee to discuss and review the list of items and, if requested, the 
+facts underlying the Company's claim that such items are shelf items. 
+  
+ 
+(2)  The committee may resolve the matter by mutually agreeing that 
+the item in question either is or is not a shelf item. With respect to any item 
+as to which the Union members of the committee agree with the Company's 
+claim that it is a shelf item, the Company shall be relieved of any obligation 
+to  furnish  a  contracting  out  notice  until  the  June  1  next  following  such 
+agreement and thereafter, if the Union has requested that a resolved item be 
+
+ 
+  
+
+  
+ 
+
+02.04.58  
+
+02.04.59  
+
+02.04.60 
+
+02.04.61 
+02.04.62 
+
+02.04.63 
+
+(3) 
+
+agreement and thereafter, if the Union has requested that a resolved item be 
+deleted from the shelf item list in accordance with paragraph (j)(1). 
+  
+ 
+If the matter is not resolved, any dispute may be processed further 
+by  filing,  within  thirty  (30)  days  of  the  date  of  the  last  discussion,  a 
+grievance in Step 3 of the complaint and grievance procedure described in 
+Article  XI.  Except  as  provided  in  paragraph  (j)(5),  such  a  grievance  shall 
+include all items in dispute. However, where a number of items raise the 
+same  or  similar  issues,  those  items  may  be  grouped  in  a  single  class  or 
+category. 
+  
+ 
+(4)  An item which the Company claims to be a shelf item, but which 
+was  not  included  on  the  list  referred  to  above  because  no  purchase  was 
+anticipated,  shall  be  listed  and  described  on  a  contracting  out  notice 
+provided to the Union not later than the regularly scheduled meeting of the 
+contracting out committee next following purchase of the item. Thereafter, 
+the parties shall follow the procedures set forth in paragraphs (2) and (3) 
+above. 
+  
+ 
+(5)  The Union may file a grievance in accordance it paragraph (g)  or 
+(h) of this Section 4 with respect to any unresolved item of maintenance, 
+repair  work  or  work  associated  with  the  fabrication  of goods, material or 
+equipment  performed  outside  the  Plant  notwithstanding  the  inclusion  of 
+such  item  on  the  shelf  item  list  previously furnished to the Union by the 
+Company,  provided  such  grievance  is  filed  within thirty (30) days of the 
+date on which the Union knew or should have known of the performance of 
+the work. 
+
+  
+
+ 
+
+(k)  Annual Review 
+
+  
+Commencing  on  or  before  January  2  of  each  year  the  Company 
+committee members shall meet with the Union committee members for the 
+purpose of (i) reviewing all work whether inside or outside the Plant which 
+the  Company  anticipates  may  be  performed  by  outside  contractors  or 
+vendors  at  some  time  during  the  following  twelve  (12)  months,  (ii) 
+determining  such  work  which  should  be  performed  by  bargaining  unit 
+Employees  and  (iii)  identifying  situations  where  the  elimination  of 
+restrictive practices would promote the performance  of any such work by 
+bargaining  unit  Employees.  The  Union  committee  members  shall  be 
+entitled in conducting this study to review any current or proposed contracts 
+concerning  items  of  work  performed  by  the  Company  by  outside 
+contractors and vendors and shall keep such information confidential. 
+
+  
+By no later than February 1 of each year the Local Union and Company 
+committee members shall jointly submit a written report to the International 
+President  and  the  Chief  Executive  Officer  of  the  Company  or  their 
+designees  describing  the  results  of  this  review.  Specifically,  the  report 
+
+02.04.64  
+
+02.04.65 
+
+  
+02.04.66  
+
+  
+02.04.67 
+
+02.04.68 
+
+02.04.69 
+
+  
+
+  
+ 
+
+ 
+  
+
+designees  describing  the  results  of  this  review.  Specifically,  the  report 
+should list (a) all items of work which the parties agree will be performed 
+by  bargaining  unit  Employees  during  the  following  twelve  (12)  calendar 
+months, (b) all items of work  which the parties agree should be performed 
+by outside contractors and vendors, and (c) those items on which the parties 
+disagree.  If  the  parties  disagree,  the  report  will  state  the  reason  for  such 
+disagreements. 
+
+the  Company  may 
+
+As to individual items of work, the International President and the Chief 
+Executive  Officer  of 
+the  Plant 
+recommendation, (b) disagree with respect to the Plant recommendation as 
+to  specific  items  and  either  (i)  refer  their  dispute  to  arbitration  under  a 
+procedure to be established by the parties and the Impartial Umpire or (ii) 
+refer  the  matters  back  to  the  Plant  without  resolution  in  which  event  the 
+specific disputes will be handled under the provisions of this section at the 
+time they may arise. 
+
+(a)  affirm 
+
+(l)  District Director/Company Union Relations Representative 
+
+  
+It  is  the  intent  of  the  parties  that  the  members  of  the  joint  Plant 
+contracting  out  committee  shall  engage  in  discussions  of  the  problem 
+involved in this field in a good-faith effort to arrive at mutual understanding 
+so that disputes and grievances can be avoided. If either the Company or 
+the Union members of the committee feel that this is not being done, they 
+may appeal to the District Director of the Union who has jurisdiction of the 
+Plant  in  question  and  the  appropriate  representative  of  the  Company 
+Headquarters for review of the complaint about the failure of the committee 
+to properly function. Such appeal shall result in a prompt investigation by 
+the  District  Director  or  his  designated  representative  and  the  Company's 
+Union Relations Representative for such review. This provision should in 
+no way affect the rights of the parties in connection with the processing of 
+any grievance relating to the subject of contracting out. 
+
+  
+
+(m)  General Provisions 
+
+  
+02.04.70 
+
+02.04.71 
+  
+02.04.72  
+
+  
+02.04.73  
+
+Where at a particular Plant, it is found in a case arising subsequent 
+to  August  1,  1999,  that  the  Company  (i)  engaged  in  conduct  which 
+constitutes willful or repeated violations of paragraph (b)(1) or (b)(2), 
+the first of which occurred on or after August 1, 1998; or (ii) violated a 
+cease  and  desist  order  previously  issued  by  the  Impartial  Umpire  in 
+connection with a violation of paragraph (b)(1) or (b)(2) arising on or 
+after August 1, 1998; or (iii) in cases, the earliest of which arose on or 
+after  August  1,  1999,  engaged  in  a  pattern  of  conduct  of  repeated 
+violations  of  paragraph  (b)(1)  or  (b)(2)  but  where  no  remedy  was 
+otherwise  appropriate  because  of  practical  overtime  limits  or  the 
+unavailability  of  employees to perform the improperly contracted out 
+work, the Impartial Umpire shall, as circumstances warrant, fashion a 
+
+ 
+
+work, the Impartial Umpire shall, as circumstances warrant, fashion a 
+remedy or penalty specifically designed to deter the behavior described 
+in (i), (ii), or (iii), above. 
+
+ 
+ 
+ 
+ 
+
+ARTICLE III(cid:190)RECOGNITION AND UNION MEMBERSHIP 
+
+ 
+
+Section 2  Membership 
+
+Section 1  Union Exclusive Bargaining Agent 
+
+  
+ 
+  
+ 
+Subject to the provisions of the National Labor Relations Act, the Company 
+recognizes the Union as the exclusive representative of all the Employees for 
+the purposes of collective bargaining in respect of rates of pay, wages, hours of 
+employment or other conditions of employment. 
+  
+ 
+  
+ 
+(a)  Condition of employment.- Each Employee who, on the date of this 
+Agreement,  is  a  member  of  the  Union  in  good  standing  and  each  Employee 
+who becomes a member after that date shall, as a condition of employment, 
+maintain his membership in the Union. Each Employee hired on or after the 
+date of this Agreement shall, as a condition of employment, commencing on 
+the 30th day following the beginning of such employment or the date of this 
+Agreement,  whichever  is  the  later,  acquire  and  maintain  membership  in  the 
+Union.  The  foregoing  provisions  shall  be  effective  in  accordance  and 
+consistent with applicable provisions of federal and state law. 
+
+  
+(b)  Enforcement Limitation:  In states in which the foregoing 
+
+ 
+provisions may not lawfully be enforced, the provisions of this 
+paragraph (b), to the extent that they are lawful, shall apply:  Each 
+employee who would be required to acquire or maintain membership in 
+the Union if the foregoing Union security provisions could lawfully be 
+enforced, and who fails voluntarily to acquire or maintain membership 
+in the Union, shall be required as a condition of employment, beginning 
+on the 30th day following the beginning of such employment or the 
+date of this Agreement, whichever is later, to pay to the Union each 
+month a service charge as a contribution toward the administration of 
+this Agreement and the representation of such Employees.  The service 
+charge for the fist month shall be in an amount equal to the Union's 
+regular and usual initiation fee and monthly dues, and for each month 
+thereafter in an amount equal to the regular and usual monthly dues. 
+  
+ 
+(c)  Checkoff:  At the time of his employment the company will suggest 
+that each new Employee voluntarily execute an authorization for the checkoff 
+
+03.00.00 
+  
+03.01.00 
+  
+03.01.01  
+
+  
+03.02.00  
+  
+03.02.01  
+
+03.02.02 
+
+03.02.03  
+
+of  Union  dues  or  service  charges  in  the  form  agreed  upon.    A  copy  of  such 
+authorization  card  shall  be  forwarded  to  the  Financial  Secretary  of  the  Local 
+Union along with the membership application of such Employee. 
+
+  
+(d)  Loss of Membership: For the purposes of this Section, an Employee 
+
+ 
+shall not be deemed to have lost his membership in the Union in good standing 
+until the International Treasurer of the Union shall have determined that the 
+membership of such Employee in the Union is not in good standing and shall 
+have given the Company a notice in writing of that fact. 
+  
+ 
+(e)  Agreement  to  Check  Off:    Upon  receipt  by  the  Superintendent  of 
+Labor  Relations  at  any  Plant  of  a  voluntary  written  assignment  (in  a  form 
+agreed to in writing by the Company and the Union) by an Employee at such 
+Plant, the Company will deduct from each pay of such Employee each month 
+thereafter during the existence of such assignment his periodic Union dues or 
+service charges as designated by the International Treasurer of the Union. The 
+Company shall also deduct any assessments against him which shall be general 
+and uniform among Employees who shall at the time be members of the Union, 
+and,  if  owing  by  him,  an  initiation  fee,  all  as  payable  to  the  Union  in 
+accordance  -with  its  constitution  and  by-laws.  The  Company  shall  promptly 
+remit  any  and  all  amounts  so  deducted  to  the  International  Treasurer  of  the 
+Union. 
+  
+ 
+  
+  The Union shall indemnify the Company and hold it harmless against 
+any and all suits, claims, demands and liabilities that shall arise out of 
+or by  reason of any action that shall be taken by the Company for the 
+purpose of complying with the foregoing provisions of this Article or in 
+reliance  on  any  list,  notice  or  assignment  which  shall  have  been 
+furnished to the Company under any of such provisions. 
+
+Section 3. Indemnity Clause 
+
+ 
+ 
+ 
+ 
+
+ARTICLE IV(cid:190)RATES OF PAY 
+
+Basis for Rate of Pay 
+
+(a)  SHWR(cid:190)Job Class: The standard hourly wage rate for each job class 
+
+  
+  Section 1. 
+  
+ 
+shall be the rate specified for such job class in Appendix 2. 
+  
+Incentive Base Rate: The incentive calculation rate (ICR) for each job 
+ 
+class  as set forth in Appendix 2 shall be the incentive base rate to be used in 
+the  calculation  of  incentive  earnings  for  any  job  for  which  the  incentive  is 
+based on the applicable standard hourly wage rate.
+
+(b) 
+
+03.02.04 
+
+03.02.05  
+
+  
+03.03.00  
+  
+
+ 
+
+04.00.00  
+  
+04.01.00  
+  
+04.01.01 
+
+  
+04.01.02  
+
+(c) 
+
+based on the applicable standard hourly wage rate. 
+  
+ 
+Incentive  Workers,  Hourly  Additive:  Effective  as  set  forth  in 
+Appendix 2, the hourly earnings (not including overtime compensation, shift 
+and  Sunday  premiums  but  including  the  Adjustment  Factor  provided  for  in 
+Section  2  of  the  Supplemental  Agreement  dated  May  25,  1956)  of  each 
+Employee whose job shall be paid on an incentive basis (for each hour worked 
+by him and for which he shall be paid incentive earnings) shall be increased by 
+the amount specified (the hourly additive) for the job class of his job in such 
+Appendix. 
+  
+ 
+(d)  General Increases; Out-of-line Rates: Beginning as of the date of any 
+general  increase  in  standard  hourly  wage  rates,  the  increase  in  the  standard 
+hourly  wage  rate  for  any  job  which  is  attributable  to  the  increase  in  the 
+increments  between  job  classes  shall  be  applied  to  reduce  or  eliminate  any 
+personal out-of-line differential of any Employee who has a "red circle" hourly 
+wage rate or a "red circle" guaranteed occupational hourly rate. Except as so 
+reduced  or  eliminated,  such  "red  circle"  rate  shall  remain  in  effect  for  such 
+Employee while he shall be employed on such job or on any other job to which 
+he shall be promoted or transferred at the direction of the Management. 
+  
+  Section 2. 
+
+SHWR; Non-Incentive Jobs  
+
+  
+  The standard hourly wage rate for each job class as set forth in Appendix 2 
+shall be the hourly rate of pay for each Employee on each job in such class for 
+all work which shall not be incentive rated or covered by an incentive, and any 
+other  hourly  wage  rate  or  other  payment,  whether  higher  or  lower,  for  such 
+work is eliminated except as is otherwise specifically provided in this Article 
+and  Article  V  of  this  Agreement  and  in  the  Supplemental  Agreement  dated 
+May 25, 1956. 
+  
+  Section 3. 
+
+Payment Guarantee for Incentive Jobs 
+
+  
+  Each  Employee  paid  on  an  incentive  basis  shall  be  guaranteed  and  shall 
+receive for each day that he shall work an amount (in addition to any premium 
+for shift work or Sunday work) which shall be the greater of 
+  
+
+(a)  SHWR-Minimum  Guarantee:  the  standard  hourly  wage  rate 
+ 
+specified in Appendix 2 for the job worked by him on that day multiplied 
+by the number of hours worked by him in that job on that day, or 
+
+  
+
+(b)  Payment  of  Incentive  Earnings:  the  amount  of  his  incentive 
+ 
+earnings  (including  the  hourly  additive  specified  in  Appendix  2)  for  that 
+day; provided, however, that, if an Employee shall be paid on an incentive 
+
+04.01.03  
+
+04.01.04  
+
+04.02.00  
+
+04.02.01  
+
+  
+04.03.00  
+
+04.03.01  
+
+  
+04.03.02  
+
+  
+04.03.03  
+
+Effect on Incentives-Wage Inequity 
+
+  
+and any and all other guarantees, whether stated in money or time or based on 
+tonnage or any other factor, for such job are eliminated, except as is otherwise 
+specifically provided in this Article and Article V of this Agreement and in the 
+Supplemental Agreement dated May 25, 1956. 
+  
+  Section 4. 
+Claims 
+  
+  Neither  the  putting  into  effect  of  the  standard  hourly  wage  rates  in 
+accordance  with  the  provisions  of  this  Article,  nor  any  change  in  job  titles 
+made  in  connection  therewith,  shall  of  itself  alter  or  affect  in  any  way  any 
+incentive  rate  (including  any  hourly  base  rate  in  so  far  as  it  is  used  in  the 
+computation  of  incentive  pay).  Neither  the  Union  nor  any  Employee  shall 
+claim that any wage inequity exists and a grievance on behalf of an Employee 
+based on an alleged wage inequity shall not be filed or processed, whether such 
+Employee shall be paid on an hourly or on an incentive basis. 
+  
+  Section 5. 
+  
+ 
+If  an  Employee  shall  be  assigned  temporarily  for  the  Company  's 
+convenience to a job other than his regular job when work is available to the 
+Employee on his regular job, he shall receive the established rate of pay for the 
+job performed or for his regular job, whichever is higher. 
+  
+  Section 6. 
+  
+  Adequate  provision  shall  be  made  at  each  of  the  Plants  whereby  each 
+Employee there shall be currently informed of his standard hourly wage rate 
+and,  in  the  case  of  an  Employee  who  is  paid  on  an  incentive  basis,  of  the 
+method of computing his incentive earnings. 
+
+Employee Rate of Pay Information 
+
+Company Convenience Payments 
+
+basis  and  it  shall  not  be  reasonably  practicable  to  compute  his  incentive 
+earnings on a daily basis, the foregoing guarantee shall be applied on the 
+basis of the shortest reasonably practicable period of time for which such 
+incentive earnings can be computed. 
+
+ 
+ 
+ 
+ 
+
+ARTICLE V (cid:190) JOB CLASSIFICATIONS AND INCENTIVES 
+
+  
+  Section 1. 
+  
+ 
+(a)  Existing Job Classifications: Each job classification now in effect or 
+hereafter  established  shall  remain  in  effect,  except  as  changed  in  accordance 
+
+Job Classifications 
+
+  
+04.03.04  
+
+  
+04.04.00  
+
+  
+04.04.01  
+
+  
+04.05.00  
+  
+04.05.01  
+
+  
+04.06.00  
+  
+
+ 
+
+05.00.00  
+  
+05.01.00  
+  
+05.01.01  
+
+with the provisions of this Section. 
+  
+ 
+(b)  Plant Union job Evaluation Committee: The Union at each Plant shall 
+designate a Plant Union job Evaluation Committee. Such Committee shall have 
+the  exclusive  right  to  certify  the  existence  of  disputes  with  respect  to  job 
+classifications. 
+  
+(c)  Classification Procedures: Whenever a new job shall be established 
+ 
+or,  after  the  effective  date  of  the  last  classification  or  reclassification  of  an 
+existing  job,  the  requirements  of  such  job  as  to  training,  skill,  responsibility, 
+effort  and  surroundings  shall  have  been  altered  to  the  extent  of  a  whole 
+numerical  classification  of  1.0  or  more,  the  Management  shall  classify  or 
+reclassify such job, as the case may be, and the new classification shall be put 
+into effect in accordance with the procedure set forth in this Section. 
+  
+
+ 
+(1)  Effecting a New job: The Management shall describe and classify 
+such job in accordance with the Manual for job Classification of Production 
+and Maintenance jobs dated August 1, 1971, (hereinafter referred to as the 
+Manual) and shall present such description and classification to the  Plant 
+Union job Evaluation Committee. At the same time, copies of the proposed 
+description and classification shall be sent to a designated representative of 
+the  International  Union.  If  the  job  involves  a  new-type facility or a new-
+type  job,  special  designation  of  this  fact  shall  be  made.  Thereafter,  the 
+Management  may  put  such  new  classification  into  effect  and  it  shall 
+continue  in  effect,  unless  it  shall  be  changed  in  the  manner  provided  in 
+subparagraph (c)(3) of this Section. The Management and the Plant Union 
+job Evaluation Committee shall meet, within 30 days after the description 
+and  classification  shall  have  been  presented  as  herein  above  provided,  to 
+review and attempt to agree on the proposed classification of such job. 
+  
+ 
+(2)  Plant Union job Evaluation Committee Agrees: If the Plant Union 
+job Evaluation Committee shall agree to such proposed new classification, 
+it shall be established for such job. 
+  
+ 
+(3)  Plant  Union  job  Evaluation  Committee  Does  Not  Agree: If the 
+Plant  Union  job  Evaluation  Committee  does  not  agree  to  such  proposed 
+new classification, such Committee may, at any time within 15 days after 
+the  meeting,  give  written  notice  to  the  designated  representative  of  the 
+Management  alleging  that  the  job  is  improperly  classified  under  the 
+provisions of the Manual. Within 7 days thereafter, such Committee and the 
+designated  representative  of  the  Management  shall  prepare  and  sign  a 
+stipulation setting forth the factors and factor codings which are in dispute 
+and shall send it to the Manager of Union Relations of the Company. The 
+parties shall make a sincere effort to set forth in such stipulation the reasons 
+in support of their respective positions. 
+  
+
+05.01.02  
+
+  
+05.01.03  
+
+  
+05.01.04  
+
+  
+05.01.05  
+
+  
+05.01.06  
+
+ 
+The  Step  No.  4  representatives  shall  meet  within  30  days  after  the 
+stipulation  has  been  sent  to  the  Manager  of  Union  Relations  of  the 
+Company.  If  they  are  unable  to  agree  on  the  classification,  they  shall 
+prepare and sign a stipulation (which may amend the stipulation set forth by 
+the  Plant  Union  job  Evaluation  Committee and the Management) setting 
+forth the factors and factor codings which are in dispute, a copy of which 
+shall  be  sent  to  the  aforementioned  representative  of  the  International 
+Union. The parties shall make a sincere effort to set forth in such stipulation 
+the reasons in support of their respective positions. 
+  
+ 
+The  Union's  Step  No.  4  representative  may,  within  30  days  after  the 
+Step No. 4 meeting or within 20 days after the stipulation shall have been 
+first  received  by  him,  whichever  of  those periods shall last expire, appeal 
+the issues in dispute to arbitration by notice in writing to the Manager of 
+Union Relations of the Company. If submitted to arbitration, the issue shall 
+be limited to the factors finally stipulated as being in dispute. The impartial 
+umpire  shall  decide  the  factors  in  dispute  in  accordance  with  the  Manual 
+and his decision with regard thereto shall be effective as of the date when 
+the new job was established or the change or changes installed but in no 
+event earlier than the date on which the new or changed classification was 
+first submitted to the Plant Union job Evaluation Committee. 
+  
+ 
+If  the  parties  shall  fail  to  agree  as  provided  above  and  a  request  for 
+review or arbitration is not made within the time provided, the classification 
+as prepared by the Management shall be deemed to have been approved. 
+
+  
+ 
+(d)  Change  in  job:  If  the  Plant  Union  job  Evaluation  Committee  shall 
+claim that after the effective date of the last classification or reclassification of 
+an existing job the requirements of such job as to training, skill, responsibility, 
+effort  and  surroundings  shall  have  been  altered  to  the-  extent  of  a  whole 
+numerical classification of 1.0 or more or if such Committee shall believe that 
+a new job has been established and that the Management has failed to present a 
+description and classification of such job to the Committee, it may submit a 
+written,  grievance  with  respect  to  such  job  classification  to  the  designated 
+representative  of  the  Management  which  shall  be  handled  in  the  manner 
+provided in subparagraph (c)(3) of this Section. If such grievance is submitted 
+to arbitration, the decision of the impartial umpire shall be in accordance with 
+the  Manual  and  shall  be  effective  as  of  the  date  the  change  in  job  content 
+occurred  or  the  new  job  classification  was  submitted,  but  in  no  event  earlier 
+than 30 days prior to the date the grievance was presented in written form to 
+the Management. 
+  
+
+(e)  Extension of Time Limits: Any of the time limitations set forth in this 
+
+ 
+Section may be extended by agreement between the parties. 
+  
+ 
+(f)  Change in Classification by Agreement: The classification of any job 
+may  be  changed  by  agreement  in  writing  between  the  Management  and  the 
+
+05.01.07  
+
+05.01.08  
+
+  
+05.01.09  
+
+  
+05.01.10  
+
+  
+05.01.11 
+
+  
+05.01.12 
+
+may  be  changed  by  agreement  in  writing  between  the  Management  and  the 
+Plant Union job Evaluation Committee. 
+  
+ 
+(g)  Recorded Changes: Whenever the Management shall record a change 
+on  a  job  description  form  or  a  job  classification  form,  it  shall  give  the  Plant 
+Union job Evaluation Committee written notice of such change. 
+  
+(h)  Apprentice Jobs: Apprentice jobs in any craft job named in Part VI A 
+ 
+of  the  Manual  are  not  to  be  described  or  classified.  Employees  serving 
+apprenticeships in any of such craft jobs shall be assigned job classes as set 
+forth in Appendix 2B. 
+  
+
+ 
+(i)  Learner jobs: Learner jobs are not to be described or classified. Any 
+learner  job  shall  be  assigned  to  job  Class  2;  provided,  however,  that  an 
+Employee who shall be transferred from another job in the particular Plant to a 
+learner job shall remain in the job class for his former job during the learning 
+period unless the Management, a steward of the Union and the Employee shall 
+agree that he shall be placed in a lower job class during his learner period. 
+  
+  Employees may be assigned to learner jobs for the purpose of training them 
+for any regular job subject to the following limitations: 
+  
+
+  
+(1)  An Employee shall be assigned to a learner job only until he can 
+perform satisfactorily the job for which he is being trained, but in no event 
+shall he be assigned to such job for more than 520 hours of actual work 
+therein as a learner; 
+
+  
+
+  
+
+  
+
+  
+(2)  The job for which the Employee is being trained is a job for which 
+another  job  to  which  he  has  previously  been  assigned has not provided 
+adequate training; 
+
+ 
+(3)  The  job  for  which  the  Employee  is  being  trained  has  been 
+classified  with  a  value  of  B  (3  to  6  months)  or  more  in  Factor  2 
+(Employment Training and Experience); 
+
+(4)  The Employee is being trained for a specific job to which he 
+
+ 
+will be assigned upon successful completion of his training period, 
+unless circumstances, such as a reduction in the force assigned to 
+that job, make such assignment impossible; and 
+
+(5)  The job is not a craft helper, maintenance helper, or repair 
+
+  
+ 
+helper job. 
+  
+  The limitation set forth in paragraph (4) above does not preclude 
+the training of an Employee for the purpose of having a substitute for a 
+regularly assigned Employee available. That limitation does not require 
+the assignment of the Employee to the position for which he is in 
+
+  
+05.01.13 
+
+  
+05.01.14 
+
+  
+05.01.15 
+
+05.01.16 
+
+  
+05.01.17 
+
+  
+05.01.18 
+
+  
+05.01.19 
+
+  
+05.01.20 
+
+  
+05.01.21 
+
+05.01.22 
+
+the assignment of the Employee to the position for which he is in 
+training if he fails to qualify for the job upon completion of his training 
+period. The term "specific job" as used in paragraph (4) above does not 
+mean a job which is distinguished from another only by its location. 
+
+  
+ 
+(j)  Multiple  Rated  Jobs:  Except  as  otherwise  agreed  in  writing  by  the 
+Company and the Union, each job in the following general categories which 
+has been a multiple rated job shall continue to be a multiple rated job:*
+  
+
+ 
+
+Inspectors  
+Observers  
+Platers  
+Die Reamers  
+Wire Gaugers  
+Wheel Rollers  
+Mechanical Repairmen  
+Laboratory Workers (including testers and samplers)  
+Electrical Repairmen  
+Machine Operators  
+Template Makers  
+Layerouts  
+Bench Hands  
+Floor Hands  
+Fabricating Shop Jobs 
+  
+
+The  description  of  each  such  job  shall  reflect  the  duties  which  a  fully 
+qualified Employee may be called upon to perform in the department and the 
+classification shall reflect the requirements for such duties as to training, skill, 
+responsibility, effort and surroundings. 
+
+  
+Three grades shall be established for each such job as follows: 
+
+  
+
+  
+
+05.01.23 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+05.01.24 
+
+05.01.25 
+
+  
+  
+  
+
+05.01.26 
+
+  
+
+at the job class for a fully qualified Employee;  
+at a job class two job classes below A; and  
+at a job class four job classes below A. 
+
+A(cid:190)
+B(cid:190)
+C(cid:190)
+  
+
+  Any employee who shall enter any of such jobs shall be assigned to 
+grade  C,  whether  or  not  he  shall  first  work  as  a  learner  on  the  job.  
+Upon  completion  of  1,040  hours  of  actual  work  for  the  Company  in 
+such grade C he shall be advanced to grade B and upon completion of 
+an additional 1,040 hours of such work in grade B he shall be advanced 
+to grade A. 
+  
+
+                                                   
+* Subject to the Memorandum of Understanding Concerning Multiple Rated jobs. 
+
+  Section 2. 
+
+Incentives 
+
+  
+(a)  Existing  Incentives:    Each  incentive  now  in  effect  or  hereafter 
+ 
+established  shall  remain  in  effect,  except  as  changed  in  accordance  with  the 
+provisions  of  this  Section  or  of  the  Supplemental  Agreement  dated  May  25, 
+1956, between the parties hereto. The term "incentive" as used in this Section 
+means any incentive plan and the incentive rates under such plan (including: 
+tonnage  rates;  premium  rates;  piece  rates  of  continuing  application;  and 
+standards and guides used in the calculation of piece rates other than those of 
+continuing application). The term "standard hourly wage rate" as used in this 
+Section means the applicable standard hourly wage rate shown in Appendix 2. 
+  
+
+the 
+
+  
+
+(1)  Union 
+
+Incentive  Committee:  In 
+
+  
+interest  of  effective 
+administration  of  the  Incentive  Programs  and  effective  processing  of 
+incentive  grievances  under  this  Section,  a  Local  Union  Committee  on 
+incentives  (hereinafter  called  the  Union  Incentive  Committee)  shall  be 
+established  in  each  Local  Union.  The  Union  Incentive  Committee  shall 
+consist of three members, two of whom shall be permanent members of the 
+Committee and shall be appointed by the President of the Local Union, one 
+of  whom  shall  be  designated  as  Chairman.  The  third  member  shall  be  a 
+Department  Representative  from  the  zone  or  area  involved.  The  local 
+parties  shall  develop  a  familiarization  program  designed  to  make  the 
+permanent  members  of  the  Union  Incentive  Committee  informed  on 
+matters relative to the development and administration of incentives. 
+
+  
+(2)  Complaints  and  Grievances:  The  Union  Incentive  Committee 
+shall  assist  the  Grievance  Committeemen  and  participate  in  handling 
+incentive  complaints  or  grievances  with  respect  to  new  or  changed 
+incentives  in  Step  No.  2  and  Step  No.  3  of  the  complaint and grievance 
+procedure  and  may  participate  in  Step  No.  4  of  the  grievance  procedure 
+when  the  certified  Step  No.  4  representatives  deem  it  advisable.  The 
+Chairman  of  the  Plant  Union  Incentive  Committee  shall  be  permitted  to 
+initiate complaints into the complaint and grievance procedure on behalf of 
+Employees affected by alleged violations of Article V, Sections 2 and 3. 
+  
+
+  
+Incentive Checklist:  In order that the parties develop all the facts 
+in Step No. 2 of the complaint and grievance procedure on matters relating 
+to  incentive  complaints,  an  Incentive  Checklist  shall  be  designed  by  the 
+parties to serve as a guide for development of the facts for proper review in 
+the complaint and grievance procedure. All information developed from the 
+Incentive Checklist should be embodied in the written record of Step No. 2. 
+  
+
+(3) 
+
+05.02.00 
+
+05.02.01 
+  
+
+05.02.02 
+
+  
+05.02.03 
+
+  
+05.02.04 
+
+ 
+(b)  Right  to  Establish  Incentives:  The  Management  shall  have  the 
+exclusive right to establish an incentive (1) for any new job (other than a new 
+job  which  replaces  a  job to which an incentive had been applicable), (2) for 
+work which shall not at the time be paid on an incentive basis, or (3) where the 
+Management shall eliminate an incentive in accordance with the provisions of 
+paragraph (g) of this Section. Any such new  incentive shall be established in 
+accordance with the procedure set forth in paragraph (d) of this Section, shall 
+be  based  upon  the  applicable  standard  hourly  wage  rate  and  shall  provide 
+equitable compensation.* 
+
+in  equipment,  changes 
+
+  
+ 
+(c)  Recognized Change: The parties hereto recognize that it may become 
+necessary  or  desirable  from  time  to  time  that  a  then  existing  incentive  be 
+adjusted  or  replaced  because  of  changes 
+in 
+manufacturing processes or in materials processed or in methods or standards 
+of  manufacture  or  production,  the  development  of  new  manufacturing 
+processes or methods, or mechanical improvements made by the Company in 
+the interest of improved methods or products. Whenever any of such changes 
+or such other events occurs and for that reason the Management shall deem it 
+necessary or desirable to adjust an existing incentive (or, if appropriate in view 
+of  the  changes,  to  replace  an  existing  incentive  plan),  the  Management  shall 
+establish  a  new  incentive  in  accordance  with  the  procedure  set  forth  in 
+paragraph  (d)  of  this  Section.  Such  new  incentive  shall  be  based  upon  the 
+applicable  standard  hourly  wage 
+rate  and  shall  provide  equitable 
+compensation,* provided that, giving due effect to the change or other event by 
+reason  of  which  the  new  incentive  shall  have  been  established,  the  new 
+incentive shall be designed to provide compensation (including all guarantees, 
+allowances and payments in connection with such new incentive) at least equal 
+to the compensation that would have been provided under the incentive which 
+it replaced. 
+  
+ 
+in accordance with the following procedure: 
+  
+
+(d)  Procedure for New Incentives: Any new incentive shall be established 
+
+ 
+(1)  Develop, Explain, Make Effective: The Management shall develop 
+the incentive and present it to the Union Incentive Committee. It shall also 
+furnish  to  the  Union  Incentive  Committee  and  a  reasonable  number  of 
+representatives  of  the  affected  Employees  as  the  parties  deem  advisable 
+information and explanation with regard to the proposed incentive as shall 
+reasonably  be  required  to  enable  them  to  understand  the  new  incentive. 
+After  notifying  the  Union  Incentive  Committee  of  the  date  on  which  the 
+incentive shall be made effective, the Management may put the incentive 
+into effect. 
+
+  
+
+                                                   
+*The term "equitable compensation" is defined in the Memorandum of 
+Understanding of January 4, 1960. 
+
+05.02.05 
+
+  
+05.02.06 
+
+  
+05.02.07 
+
+  
+05.02.08 
+
+  
+
+05.02.09 
+
+  
+05.02.10 
+
+  
+05.02.11 
+
+  
+
+  
+
+ 
+(2)  Trial  Basis:  Any  incentive  may  be  installed  on  a  trial  or 
+experimental  basis,  provided  the  Management  and  the  Union  Incentive 
+Committee  so  agree,  in  which  case  such  agreement  shall  include  the 
+duration  of  such  trial  or  experimental  period  and  any  special  guarantees 
+which may be made applicable. 
+
+(3)  Complaint  or  Grievance  Time  Period:  The  grievance 
+ 
+committeeman may, at any time after 30 days but not later than 180 days 
+following the effective date of a new incentive, initiate a complaint in Step 
+No.  2  regarding  such  incentive,  in  which  event  such  complaint  shall  be 
+handled in accordance with the procedure set forth in Article XI hereof. If a 
+trial or experimental period has been agreed upon, the applicable time limit 
+for initiating a complaint regarding such incentive shall apply as of the end 
+of  such  trial  or  experimental  period.  If  such  complaint  shall  not  be  so 
+initiated before the expiration of said 180 days, the Union shall be deemed 
+to  have  agreed  that  such  new  incentive shall become established. If such 
+complaint  or  subsequent  grievance  shall  be  submitted  to  arbitration  as 
+provided in said Article XI, the decision of the impartial umpire with regard 
+thereto shall be effective as of the date when the Management shall have 
+put such new incentive into effect. 
+
+(4) 
+
+Interim  Rates:  If  the  Management,  in  accordance  with  the 
+ 
+provisions  of  this  Section,  shall  cancel  an  existing  incentive  applicable  to 
+any work prior to the establishment of the new incentive which is to replace 
+it,  or  if  an  Employee  shall  perform  work  which,  except  for  one  of  the 
+changes specified in paragraph (c) of this Section, would have continued to 
+be  paid  for  on  an  incentive  basis,  during  the  period  preceding  the 
+establishment of the new incentive on such work each Employee who shall 
+perform such work shall be paid, for all such work performed by him, at an 
+interim hourly rate. Such interim hourly rate shall be equal to the average 
+hourly earnings (not including overtime compensation or  shift or Sunday 
+premiums)  of  all  Employees  who  were  assigned  to  the  job  on  which  the 
+work  was  performed  during  the  3  months'  period  next  preceding  the 
+cancellation or non-payment of such existing incentive or, in the case of a 
+new job as to which there is a requirement to install an incentive, such rate 
+as shall be reasonably related to the average excess above standard hourly 
+wage rates paid on the related jobs being replaced, giving due regard to the 
+relationship of earnings in the promotional sequence involved. In any event, 
+it  may  be  such  other  interim  hourly  rate  as  shall  be  agreed  to  by  the 
+Management and the Union Incentive Committee. If they fail to agree, then 
+it  may  be  such  other  interim  hourly  rate  as  shall  be  agreed  to  by  the 
+respective  Step  No.  4  representatives  of  the  parties.  Such  interim  hourly 
+rate  shall  be  paid  to  such  Employee  only  so  long  as  he  maintains  the 
+average performance on such job during such prior 3 months' period. If he 
+voluntarily  maintains  a  performance  appreciably  below  such  average 
+performance  of  such  prior  3  months'  period,  after  notification  to  such 
+Employee  and  the  Union  Incentive  Committee,  the  Management  may 
+
+Employee  and  the  Union  Incentive  Committee,  the  Management  may 
+suspend payment of such interim hourly rate. 
+
+  
+ 
+(e)  Unfair  and  Unreasonable  Incentives:  Subject  to  the  provisions  of 
+Section 1 of Article XI of this Agreement, if any Employee shall claim that by 
+reason of any change or other event specified in paragraph (c) of this Section 
+which shall occur, his incentive has become unreasonable and unfair, he may 
+initiate a complaint in respect thereof and such complaint shall be handled in 
+accordance  with  the  procedure  set  forth  in  Article  XI  hereof.  If  in  the 
+determination of such complaint or subsequent grievance such incentive shall 
+be  changed,  the  new  incentive  shall  be  established  in  accordance  with  the 
+principles set forth in paragraph (c) of this Section. 
+  
+ 
+(f)  Agreement  to  Revise  or  Replace:  Any  incentive  may  be  revised  or 
+replaced  by  agreement  in  writing  between  the  Management  and  the  Union 
+Incentive Committee for the applicable Local Union. 
+  
+ 
+(g)  Elimination  and  Replacement:  If  the  average  straight-time  hourly 
+earnings of the Employees paid under a particular incentive plan, for the pay 
+periods ended during the preceding calendar quarter, are lower than or equal to 
+the standard hourly wage rates of such Employees, the Company may eliminate 
+such plan provided the Management replaces such plan with a new or adjusted 
+plan in accordance with the provisions of paragraph (b) of this Section. 
+
+  
+
+  Section 3.  Due Effect Revisions 
+
+  
+ 
+If prior to the time when an existing incentive plan shall be replaced with a 
+new  incentive  plan  under  the  provisions  of  Section  5  of  the  Supplemental 
+Agreement  dated  May  25,  1956,  an  existing  incentive  wage  rate  shall  be 
+adjusted because of the occurrence of any of the changes or events set forth in 
+Section 2(c) of this Article, such adjustment shall be made in accordance with 
+the procedure of Section 2 of this Article and the adjusted incentive shall be 
+developed  by  the  Management  in  accordance  with  the  usual  practice  now  in 
+effect  with  it  at  the  Plant  and  on  the  principle  that  the  new  incentive  shall, 
+giving  due  effect  to  the  change  or  other  events  by  reason  of  which  the  new 
+incentive  shall  have  been  established,  be  in  equitable  relationship  to  the 
+incentive which it replaced and provide equitable compensation. 
+
+  
+ 
+ 
+ 
+ 
+
+ARTICLE VI(cid:190)SHIFT AND SUNDAY PREMIUMS 
+
+  
+  Section 1. Shift Definitions 
+
+  
+05.02.12 
+
+  
+05.02.13 
+
+  
+05.02.14 
+
+05.03.00 
+
+05.03.01 
+
+06.00.00 
+
+06.01.00 
+
+(a)  All  shifts  beginning  between  6  a.m.  and  9  a.m.,  inclusive,  shall  be 
+
+(b)  All  shifts  beginning  between  2  p.m.  and  5  p.m.,  inclusive,  shall  be 
+
+  
+  
+  
+06.01.01 
+
+  
+06.01.02 
+
+  
+06.01.03 
+
+  
+
+         
+
+6.02.00 
+
+        
+
+06.02.01 
+
+        
+
+06.03.00 
+
+        
+
+06.03.01 
+
+        
+
+06.04.00 
+
+06.04.01 
+
+06.04.02 
+
+06.04.03 
+
+  
+  For the purpose of this Article:  
+
+  
+
+ 
+considered day shifts.  
+  
+ 
+considered middle shifts.  
+  
+ 
+  
+  Section 2.  Amount of Shift Premiums  
+
+        (c) 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+Each  Employee  scheduled  to  work  on  the  middle  shift  shall  be  paid  a 
+ 
+middle shift premium of 30 cents per hour for all hours worked by him on that 
+shift, and each Employee scheduled to work on the night shift shall be paid a 
+night shift premium of 45 cents per hour for all hours worked by him on that 
+shift.  
+    
+ 
+
+Section 3. Payment of Shift Premiums  
+
+  
+  An Employee who begins work at a time not specified in Section 1 of this 
+Article  shall  be  paid  the  middle  shift  premium  for  all  hours  worked  by  him 
+within the hours of the prevailing middle shift in his department and the night 
+shift premium for all hours worked by him within the hours of the prevailing 
+night  shift  in  his  department.  If  there  is  no  such  prevailing  middle  shift  or 
+prevailing night shift, such Employee shall be paid the middle shift premium for 
+all  hours  worked  by  him  between  3  p.m.  and  11  p.m.  and  the  night  shift 
+premium for all hours worked by him between 11 p.m. and 7 a.m.  
+  
+ 
+
+Section 4. Determination of Shift Worked  
+
+  
+ 
+(a)  Shift Definitions: For the purposes of this Article, except as hereinafter 
+in  this  Section  provided,  all  consecutive  hours  (exclusive  of  meal  periods) 
+worked  by  an  Employee  who  begins  work  at  a  time  specified  in  Section  1 
+hereof shall be deemed to be worked by him on the shift on which he begins 
+work. 
+  
+ 
+(b)  Premium Pay-Long Turn: If an Employee who is scheduled to work 
+on the day shift works throughout such shift and continues to work for more 
+than 4 hours into the middle shift, he shall be paid the middle shift premium for 
+all hours worked by him after such 4 hours.  
+  
+ 
+(c)  Premium Pay-Employee Recalled: If an Employee who is scheduled to 
+work on the day shift works throughout that shift and, after leaving the Plant, is 
+
+Section 5. Shift Premiums-Overtime Pay  
+
+work on the day shift works throughout that shift and, after leaving the Plant, is 
+called back to work on the middle  shift or the night shift, he shall be paid the 
+middle shift premium for all hours worked by him on the middle shift and the 
+night shift premium for all hours worked by him on the night shift.  
+  
+ 
+  
+Shift premiums payable under the foregoing provisions of this Article shall 
+ 
+be  included  as  part  of  the  Employee's  regular  rate  of  pay  for  the  purpose  of 
+computing  overtime  under  Article  VII  of  this  Agreement,  but  such  premiums 
+shall not be added to hourly base rates for the purpose of calculating incentive 
+earnings. 
+  
+ 
+
+Section 6. Sunday Premium  
+
+  
+ 
+For all time worked on Sunday which is not paid for on an overtime basis, a 
+premium of 50% based on the regular rate as defined in Section 5 of Article VII 
+of  this  Agreement  shall  be  paid;  provided,  however,  that  Sunday  premium  in 
+addition  to  overtime  premium  shall  be  paid  for  the  hours  worked  on  Sunday 
+which are paid on an overtime basis pursuant to Article VII, Section 3(a) clause 
+(1) as a result of work performed on the preceding Saturday, it being understood 
+that such overtime and Sunday premium payments shall not be compounded. 
+For the purpose of this provision, Sunday shall be deemed to be the 24 hours 
+beginning at 12:01 a.m. Sunday or the turn-changing time nearest thereto. 
+
+ 
+ 
+ 
+ 
+
+  
+
+  
+
+06.05.00 
+
+06.05.01 
+
+06.06.00 
+
+ 
+
+   
+
+   
+
+ 
+
+07.00.00 
+  
+07.01.00 
+  
+07.01.01 
+
+Section 1. Normal Hours of Work  
+
+ARTICLE VII—HOURS OF WORK AND OVERTIME 
+  
+ 
+  
+  
+(a)  Scheduling the Norm:  In accordance with the practice prevailing at the 
+respective Plants, the normal daily hours of work shall be 8 consecutive hours, 
+excluding luncheon periods and rest periods where such periods are provided, 
+and the normal weekly hours of work shall be 40 hours. The Management Will 
+make a diligent effort so to schedule Employees for work that at least 85% of the 
+Employees at any Plant shall be scheduled for work on a normal work pattern of 
+5  consecutive  workdays  followed  by  2  consecutive  days  off  in  each  7 
+consecutive days. If an Employee shall receive 4 consecutive days off in each 14 
+consecutive  days  pursuant  to  an  agreement  between  the  Management  and  the 
+Grievance Committee,, such Employee may be included in computing such 85%. 
+Each Employee assigned to a working schedule agreed to by the Management 
+and the Grievance Committee and which does not provide 2 consecutive days off 
+in each 7 consecutive days or 4 consecutive days off in each 14 consecutive days 
+may be included in computing such 85%. if an Employee shall be paid at the 
+
+may be included in computing such 85%. if an Employee shall be paid at the 
+overtime rate hereinafter in this Article specified for all hours worked by him on 
+any day, then, for the purpose of computing such 85%, that day shall be counted 
+as a day off. The Management will also endeavor to give Employees notice of 
+any changes in their weekly working schedules in time to enable them to make 
+changes in their plans in order to meet such schedules.  
+  
+(b)  Posing  of  Schedules:    Schedules  of  the  Employees  regular  workdays 
+  
+shall  be  posted  or  otherwise  made  known  to  Employees  in  accordance  with 
+prevailing practices at  the respective Plants, when practicable on Thursday but 
+not later than Friday of the week preceding the calendar week in which they shall 
+be  effective;  provided,  however,  that  in  the  case  of  breakdowns  or  other 
+conditions beyond the control of the Management or because of the requirements 
+of the business the Management may change such schedules after Friday of the 
+week  preceding  the  calendar  week  in  which  they  shall  be  effective.    Should 
+changes be made in schedules contrary to this Section 1(b) so that an Employee 
+is laid off and does not work on a day that he was scheduled to work, he shall be 
+deemed to have reported for work on such day and shall be eligible for reporting 
+allowance in accordance with provisions of Section 7 of this Article VII. 
+  
+ 
+(c)  Guarantee of Hours: The foregoing provisions of this Section shall not 
+be construed as guaranteeing to any Employee any number of hours of work per 
+day  or  per  week.  The  Management  will  from  time  to  time  furnish  to  the 
+Grievance  Committee  such  information  as  such  Committee  shall  reasonably 
+request with regard to the compliance by the Management with the provisions of 
+this Section. 
+
+  
+
+ 
+
+Section 2. Starting Times 
+
+  
+
+  
+
+  The starting times of regular turns at the respective Plants shall be determined 
+from time to time by the Management, and, in so far as practicable, notice of any 
+change  in  any  such  starting  time  shall  be  posted  on  the  bulletin  boards  in  the 
+departments affected thereby at least 48 hours before such change shall become 
+effective. 
+
+Section 3. Conditions Under Which Overtime Rates 
+
+ 
+Shall Apply  
+  
+(a)  Overtime  compensation  at  the  rate  of  one  and  one-half  times  the 
+ 
+Employee's  regular  rate  of  pay  (as  hereinafter  in  Section  5  of  this  Article 
+defined) shall be paid for all time worked by such Employee,  
+  
+
+(1) 
+
+in excess of 8 hours within a workday; provided, however, that the 
+
+ 
+same hours shall not be included in more than one workday, or  
+  
+
+  
+07.01.02 
+
+  
+07.01.03 
+
+07.02.00 
+
+07.02.01 
+
+07.03.00 
+
+  
+07.03.01 
+
+  
+07.03.02 
+
+  
+
+(2) 
+
+in excess of 40 hours within a payroll week, or  
+
+ 
+  
+(3)  on any workday within a payroll week after he shall have worked on 
+ 
+5 previous days in that week; provided, however, that for the purpose of this 
+clause (3) an Employee shall be deemed to have worked on any of such 5 
+previous workdays on which he shall have been scheduled to work and on 
+which he did not work because his schedule was changed after Friday of the 
+preceding  week,  but  this  proviso  shall  not  be  applicable  to  changes  in 
+schedules in the case of breakdowns or other conditions beyond the control 
+of the Management, or  
+  
+ 
+(4)  on  any  sixth  or  seventh  workday  of  a  7-consecutive-day  period 
+during which the first 5 days were worked by the Employee whether or not 
+all of such days fall within the same payroll week as defined in Section 5(b) 
+of  this  Article,  except  when  that  day  is  worked  pursuant  to  a  schedule 
+approved by the Grievance Committee; provided, however, that no overtime 
+compensation  under  this  provision  will  be  due  unless  the  Employee  shall 
+notify his foreman of a claim for overtime within a period of one week after 
+such  sixth  or  seventh  day  is  worked  or,  if  he  fails  to  do  so,  initiates  a 
+complaint claiming such overtime within 30 days after such day is worked; 
+and  provided  further  that  on  shift  changes the 7-consecutive-day period of 
+168 hours may become 152 consecutive hours depending upon the change in 
+the  shift.  For  the  purposes  of  this  clause  (4)  all  working  schedules  now 
+normally used (where approval has not been withdrawn) in any department of 
+any  Plant  shall  be  deemed  to  have  been  approved  by  the  Grievance 
+Committee. Such approval may be withdrawn by the Grievance Committee 
+by giving 60 days' prior written notice thereof to the Management, or  
+
+  
+
+(5)  on a second reporting in the same workday where the Employee has 
+ 
+been recalled or required to report to the Plant after working less than 8 hours 
+on  his  first  shift,  provided  that  his  failure  to  work  8  hours  on  his  first 
+reporting was not caused by any of the factors mentioned in Section 7 of this 
+Article for purposes of disqualifying an Employee for reporting allowance.  
+
+  
+ 
+(b)  Overtime  compensation  shall  be  paid  for  all  time  worked  by  an 
+Employee on a holiday as defined in Article VIII of this Agreement at the rate of 
+two and one-half times the Employee's regular rate of pay.  
+  
+ 
+(c)  Where local practices or agreements with respect to the distribution of 
+overtime  currently  allow  overtime  work  opportunities  to  be  distributed 
+unequally, the Management and the Local Union shall conclude by July 1, 1990, 
+an  agreement  providing  for  equitable  overtime  distribution  consistent  with  the 
+efficiency  of  the  operation.  If  agreement  is  not  reached  by  July  1,  1990,  the 
+Management  may 
+implement  necessary  equitable  overtime  distribution 
+procedures, changed to the extent necessary to provide equitable distribution of 
+overtime work opportunities.  
+
+07.03.03 
+  
+07.03.04 
+
+  
+07.03.05 
+
+  
+07.03.06 
+
+  
+07.03.07 
+
+  
+07.03.08 
+
+  
+07.04.00 
+
+  
+07.04.01 
+
+  
+07.04.02 
+
+  
+07.05.00 
+  
+07.05.01 
+
+  
+07.05.02 
+  
+07.05.03 
+
+  
+07.05.04 
+
+Section 4. Overtime Computation Non-
+
+  
+ 
+Compounding  
+  
+ 
+(a)  Highest  Rate  Applicable:  For  the  purpose  of  computing  overtime 
+compensation  under  this  Article,  if  more  than  one  of  the  provisions  of  this 
+Agreement  with  regard  to  the  payment  of  overtime  compensation  shall  be 
+applicable to any time worked by any Employee, he shall be paid for such time at 
+the  highest  overtime rate specified in any of such applicable provisions but he 
+shall not be entitled to additional overtime compensation for such time under any 
+other of such provisions. 
+  
+ 
+(b)  Holiday Liability: Hours compensated for at overtime rates shall not be 
+counted further for any purpose in determining overtime liability under the same 
+or  any-other provisions; provided, however, that a holiday, whether worked or 
+not,  shall  be  counted  for  purposes  of  computing  overtime  liability  under  the 
+provisions of clause (3) or (4) of Section 3(a) of this Article, and hours worked 
+on a holiday shall be counted for purposes of computing overtime liability under 
+the provisions of clause (1) of Section 3(a) of this Article. Except as provided in 
+this  paragraph  (b),  hours  paid  for  but  not  worked  shall  not  be  counted  in 
+determining overtime liability.  
+  
+ 
+  
+  The  following  provisions  shall  apply  in  the  computation  of  overtime 
+compensation under this Agreement:  
+  
+ 
+  
+
+Section 5. Overtime Compensation Computation  
+
+(a)  The term "regular rate of pay" shall mean  
+
+(2) 
+
+(1)  Nonincentive:  in  the  case  of  an  Employee  who  shall  be  paid  at  a 
+
+ 
+fixed rate of pay per hour, such rate of pay; or  
+  
+Incentive Basis: in the case of an Employee who shall be paid on 
+ 
+any incentive basis, the amount of his average rate of earnings per hour on 
+the  position  on  which  he  shall  work  the  particular  overtime  for  the  payroll 
+week  (or  for  the  other  period  for  which  such  earnings  are  regularly 
+computed) during which such overtime shall be worked; provided, however, 
+that if he works on a position for which it is the regular practice to compute 
+such average rate of earnings for the position as such, such average rate shall 
+continue to be computed on that basis for the purposes of this paragraph; and 
+provided,  further,  that  overtime  compensation  and  shift  and  Sunday 
+premiums shall not be included in computing such average rate of earnings 
+per  hour,  but  any  shift  premium  to  which  such  Employee  shall  be entitled 
+under Article VI of this Agreement for the overtime hours worked shall be 
+added to such average rate of earnings per hour in computing such regular 
+rate of pay.  
+
+(c)  Computation of Days Worked: 
+
+representative 
+
+from  his  office  will  notify 
+
+Section 6. Recall Employees or Work Overtime  
+
+  
+ 
+(b)  A payroll week means a period of 7 successive days (of 24 hours each) 
+beginning at 12:01 a.m. Sunday or at the turn-changing time nearest thereto; and 
+a  workday  means  the  24-hour  period  beginning  with  the  time  the  Employee 
+begins  work,  except  that  the  workday  of  an  Employee  who  reports  late  shall 
+begin at the time it would have begun had he not reported late.  
+  
+In computing the number of workdays 
+ 
+in which an Employee has worked for the purposes of this Section:  (1) if a shift 
+includes a part of each of 2 workdays, an Employee who works on that shift shall 
+be deemed to have worked only on the first of such days; (2) if an Employee 
+works beyond the end of his scheduled shift into the next succeeding workday, 
+he shall not be deemed to have worked on such succeeding day, unless he shall 
+work more than I hours on that day or shall have been called back to work on 
+that  day  after  leaving  the  Plant;  (3)  if  an  Employee  begins  work  before  the 
+regular starting time of his shift and the time at which he so begins work falls 
+within the workday preceding the workday on which such shift so starts and he 
+has not previously worked on such preceding day, it shall not be counted as a day 
+worked by him unless he shall have worked at least 4 hours on that day. 
+  
+ 
+  
+  When Employees qualified to perform the work could be recalled from layoff 
+because it is reasonably foreseeable that there will be work for such Employees 
+for a period of two or more weeks, then the superintendent of the department or a 
+designated 
+the  appropriate 
+representative of the Union for the department if he decides to have such work 
+performed on an overtime basis instead of recalling Employees. Upon the request 
+of  the  appropriate  Union  representative,  the  superintendent  or  a  designated 
+representative  from  his  office  will  discuss  with  the  Union  representative  the 
+reason  for  his  decision  and  any  suggested  alternative.  Such  discussion  will 
+constitute  full  compliance  with  the  requirements  of  this  provision,  without 
+prejudice to any other rights which may exist under any other provision of the 
+Agreement. 
+  
+ 
+  
+ 
+If an Employee shall be required by the Management to report  for work on 
+any day and he shall report at the time and place at which he was required so to 
+report, he shall be paid a minimum of 4 hours' pay at the standard hourly wage 
+rate set forth in Appendix 2 which would have been applicable had he worked 
+such  4  hours in the position for which he was required so to report. When an 
+Employee who starts to work is released from duty before he works a minimum 
+of 4 hours, he shall be paid for the hours worked by him in accordance with the 
+provisions of Article IV hereof and credited with an amount equal to the standard 
+hourly  wage  rate  which  would  have  been  applicable  had  he  worked  in  the 
+position  for  which  he  was  scheduled  or  notified  to  report  multiplied  by  the 
+
+Section 7. Reporting Pay  
+
+  
+07.05.05 
+
+  
+07.05.06 
+
+  
+07.06.00 
+  
+07.06.01 
+
+  
+07.07.00 
+  
+07.07.01 
+
+(a) 
+
+position  for  which  he  was  scheduled  or  notified  to  report  multiplied  by  the 
+unutilized  portion  of  the  4-hour  minimum.  Any  pay  under  this  Section  shall 
+include any applicable overtime, shift and Sunday premium (computed solely on 
+the basis of the standard hourly wage rate). The provisions of this Section shall 
+not apply to an Employee if 
+  
+ 
+at his own request or because of his own fault, he shall not be put to 
+work or shall not complete 4 hours of such work after having been put to work, 
+or  
+  
+
+ 
+(b)  he shall be assigned to another position of at least equal job class which 
+he  shall  be  qualified  to  fill  and  shall  refuse  to  work  at  such  other  position  or 
+because of his own fault shall not complete 4 hours of such work after having 
+been put to work at such position, or  
+  
+  
+(c)  he shall not be put to work or shall not complete 4 hours of work after 
+having been put to work by reason of any strike or other stoppage of work in 
+connection with any labor dispute or any failure of utilities beyond the control of 
+Management or Act of God.  
+ 
+ 
+ 
+ 
+
+ARTICLE VIII (cid:190)HOLIDAYS 
+
+Section 1. Holidays 
+
+  
+
+ 
+  
+
+Whenever  used  in  this  Agreement,  the  term  "holiday"  means  one  of  the 
+following  days:  January  1,  Washington's  Birthday  (which  shall  be  the  third 
+Monday in February), April 28 (Workers Memorial Day), Memorial Day (which 
+shall be the last Monday in May), July 4, Labor Day, Thanksgiving Day, the day 
+following Thanksgiving Day, the day preceding Christmas and Christmas Day, 
+and one Floating Holiday in each of the years 2000, 2001, 2002, 2003 and 2004 
+(the local parties shall agree on which day the Floating Holiday shall be observed 
+by not later than October 1 of the preceding year). If any of such holidays shall 
+fall on a Sunday, the following Monday (and not such Sunday) shall be observed 
+as such holiday. The local parties may agree to observe any one of the foregoing 
+holidays  on  a  date  other  than  that  designated,  provided  agreement  as  to  the 
+holiday and the alternate observance date for that holiday is reached by not later 
+than October 1 of the preceding year.  
+  
+ 
+  
+  An eligible Employee who does not work on a holiday shall be paid 8 
+times the employee's applicable vacation straight time rate, as calculated 
+under the provisions of Article IX, Section 6(a); provided, however, that if 
+
+Section 2. Eligible Employee  
+
+  
+07.07.02 
+
+  
+07.07.03 
+
+  
+
+ 
+
+08.00.00 
+
+  
+8.01.01 
+
+  
+08.02.00 
+  
+08.02.00  
+
+an eligible employee does not have an established vacation rate he shall 
+be paid 8 times his average hourly earnings exclusive of shift, Sunday 
+and overtime premiums for-the lost pay period worked prior to the 
+holiday. if an eligible Employee is scheduled to work on any such holiday, 
+but fails to report and perform his scheduled or assigned work, he shall 
+become ineligible to be paid for the unworked holiday, unless he has 
+failed to perform such work because of sickness or because of death in 
+the immediate family (mother, father (including in-laws), children, 
+brother, sister, husband, wife and grandparents) or because of similar 
+good cause. As used in this Article, an eligible Employee is one who 
+  
+
+ 
+
+(1)  has worked 30 turns since his last hire;  
+
+ 
+(2)  performs  work  or  is  on  vacation  in  the  pay  period  in  which  the 
+holiday is observed (or where there are weekly pay periods, the pay period in 
+which  the  holiday  is  observed  or  the  next  preceding  pay  period)  or  is  on 
+layoff in the pay period in which the holiday is observed but performed work 
+or  was  on  vacation  in  both  the  pay  period  (2  pay  periods  in  the  case  of 
+weekly  pay  periods)  immediately  preceding  and  the  pay  period  (2  pay 
+periods  in  the  case  of  weekly  pay  periods)  immediately  following  the  pay 
+period in which the holiday is observed; and  
+  
+ 
+(3)  works as scheduled or assigned both on his last scheduled workday 
+prior  to  and  his  first  scheduled  workday  following  the  day  on  which  the 
+holiday is observed, unless he has failed so to work because of sickness or 
+because of death in the immediate family or because of similar good cause.  
+
+  
+
+  
+ 
+
+Section 3. Vacation and Holiday Pay  
+
+  
+ 
+(a)  Eligible  Employee  on  Vacation:  An  eligible  Employee  who  would 
+otherwise be entitled to pay for an unworked holiday and who shall be scheduled 
+pursuant to the provisions of Article IX to take a vacation during a period when a 
+holiday occurs shall be paid for the unworked holiday in addition to his vacation 
+pay. The provisions of clause (3) of Section 2 of this Article shall not apply to a 
+day on which an Employee is scheduled on vacation.  
+  
+ 
+(b)  Vacation-Layoff-Holiday  Pay:  The  provisions  of  paragraph  (a)  shall 
+apply to (1) an Employee whose vacation has been scheduled prior to his layoff 
+and  who  thereafter  is  laid  off  and  takes  his  vacation  as  scheduled,  or  (2)  an 
+Employee  who  is  not  at  work  at  the  time  his  vacation  is  scheduled,  but  who 
+thereafter returns to work and then is absent from work during a holiday week 
+because of his scheduled vacation. An Employee who is not at work at the time 
+of  scheduling  his  vacation  and  is  not  working  at  the  time  his  vacation 
+commences  is  not  eligible  for  holiday  pay  for  a  holiday  occurring  during  his 
+vacation within the meaning of Section 2 or 3 of this Article.  
+  
+
+08.02.02 
+  
+08.02.03 
+
+  
+08.02.04 
+
+  
+08.03.00 
+  
+08.03.01 
+
+  
+08.03.02 
+
+  
+
+Section 5. Limitation of Holiday Pay  
+
+Section 6. Duration of Holiday  
+
+Section 4. Part-Time Employees(cid:190)Hourly Pay  
+
+No  Employee  shall  receive  more  than  the  compensation  specified  in 
+
+ 
+  
+  An eligible part-time Employee shall receive pay for holidays in accordance 
+with the foregoing provisions of this Article, but the pay that he shall receive for 
+any  such  holiday  shall  be  an  amount  equal  to  his  applicable  hourly  rate  (as 
+defined in Section 2) times the lesser of 8 or the average number of hours worked 
+by him per day in the preceding 2 pay periods. 
+  
+ 
+  
+ 
+Section 3 (b) of Article VII for hours worked on any holiday. 
+  
+ 
+  
+  A holiday shall be deemed to be the 24-hour period beginning  at 12:01 a.m. 
+of the holiday or at the turn-changing time nearest thereto.  
+  
+ 
+  
+  Holiday allowances shall be adjusted by an amount per hour to reflect 
+any general wage changes in effect at the time of such holiday, but not 
+in effect in the period used for calculating holiday allowance.  
+
+Section 7. Holiday Pay(cid:190)General Wages Changes  
+
+ 
+ 
+ 
+ 
+ 
+
+ARTICLE IX (cid:190)VACATIONS 
+
+Section 1. Vacation Benefits 
+
+  
+ 
+  
+ 
+Subject to the provisions of this Article, an Employee who has completed the 
+years of continuous service indicated in the following table in any calendar year 
+during  the  term  of  this  Agreement  shall  receive  during  such  year  a  vacation 
+corresponding to such years of continuous service and vacation pay as follows:  
+  
+                        Years of Continuous                                              Vacation Time  
+                           Service                                                          Off and Pay 
+                           1 to 3                                                             1 week 
+                           3 to 10                                                           2 weeks  
+                         10 to 17                                                           3 weeks 
+                         17 to 25                                                           4 weeks  
+                         25 and over                                                      5 weeks 
+  
+
+08.04.00 
+  
+08.04.01 
+
+  
+08.05.00 
+  
+08.05.01 
+
+  
+08.06.00  
+  
+08.06.01  
+
+  
+08.07.00  
+  
+
+ 
+
+09.00.00 
+  
+9.01.00 
+  
+09.01.01 
+
+  
+09.01.02 
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+09.01.02 
+  
+  
+  
+  
+  
+  
+  
+09.02.00 
+  
+09.02.01 
+
+  
+09.02.02 
+  
+09.02.03 
+
+  
+09.02.04 
+
+  
+09.03.00 
+  
+09.03.01 
+
+1 to 3 
+3 to 8  
+8 to 15 
+15 to 24 
+24 and over 
+
+  Effective January 1, 2000, the following table shall apply: 
+  
+                        Years of Continuous                                              Vacation Time  
+                           Service                                                          Off and Pay 
+ 
+1 week 
+2 weeks  
+ 
+3 weeks 
+ 
+ 
+4 weeks  
+ 
+5 weeks 
+  
+ 
+  
+ 
+Agreement, the Employee must:  
+  
+
+Section 2. Employee Eligibility  
+
+To  be  eligible  for  a  vacation  in  any  calendar  year  during  the  term  of  this 
+
+ 
+
+(a)  have one year or more of continuous service and  
+
+  
+
+ 
+(b)  have  worked  at  least  520  hours  in  the  preceding  calendar  year; 
+provided, that an Employee with more than one year of continuous service 
+who, in any year, shall be ineligible for a vacation by reason of the provisions 
+of this paragraph as a result of an absence on account of layoff or illness shall 
+receive one week's vacation with pay in such year if he shall have worked at 
+least 520, hours or more in that calendar year. If an Employee worked during 
+part  of  the  preceding  calendar  year  he  shall  be  deemed,  for  purposes  of 
+vacation  eligibility  requirements,  to  have  worked  during  any  part  of  the 
+balance  of  such  year  during  which  he  was  absent  on  account  of  an 
+occupational  disability  or  while  in  military  service  in  the  year  of  his 
+reinstatement to employment.  
+
+Section 3. Continuous Service  
+
+  
+  An Employee, even though otherwise eligible under this Article, forfeits the 
+right  to  receive  vacation  benefits  under  this  Article  if  he  quits,  retires,  or  is 
+discharged prior to January 1 of the vacation year.  
+  
+ 
+  
+ 
+For the purposes of this Article, continuous service shall date from: (a) the 
+date of first employment at the Plant (in the case of transferred Employees from 
+any Plant listed in Appendix 1, the date shall be the date of first employment at 
+the Plant from which first transferred); or (b) a subsequent date of employment 
+following a break in continuous service, whichever of the above two dates is the 
+later.  Such  continuous  service  shall  be  computed  in  accordance  with  the 
+provisions of Section 2 and Section 3 of Article X of this Agreement, except that 
+there shall be no accumulation of service in excess of the first two years of any 
+continuous period of absence on account of layoff or physical disability (except, 
+in the case of compensable disability, as provided in Section 3(c) of Article X-
+Seniority) in the calculation of service for vacation eligibility.  
+
+  
+ 
+  
+ 
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Section 4. Scheduling of Vacations* 
+
+(a)  General  
+
+ 
+(1)  October  1  Preferences:  On  or  promptly  after  October  1  of  each 
+year, each Employee entitled or expected to become entitled to take vacation 
+time off in the following year will be requested to specify in writing (not later 
+than 30 days after the receipt of such request), on a form provided by the 
+Company, the vacation period or periods he desires.  
+
+ 
+(2)  Vacation Notice: Notice will be given an Employee at least 60 days 
+in advance of the date his vacation period is scheduled to start, but in any 
+event not later than January 1 of the year in which the vacation is to be taken.  
+
+ 
+(3)  Allocation  of  Vacation  Periods:  Vacations  will,  so  far  as 
+practicable,  be  granted  at  times  most  desired  by  Employees  (Employees 
+having longer service at the Plant being given preference as to choice); but 
+the  final  right  to  allot  vacation  periods  and  to  change  such  allotments  is 
+exclusively reserved to the Company in order to insure the orderly operation 
+of the Plants.  
+
+ 
+(4)  Vacation Schedules-Absent Employees: Any Employee absent from 
+work because of layoff, disability or leave of absence at the time Employees 
+are  requested  to  specify  the  vacation  periods  they  desire  and  who  has  not 
+previously  requested  and  been  allotted  a  vacation  period  for  the  calendar 
+year, may be notified by Management that a period is being allotted as his 
+vacation period but that he has the right within 14 days to request some other 
+vacation  period.  If  any  such  Employee  notifies  Management  in  writing, 
+within 14 days after such notice is sent, that he desires some other vacation 
+period, he shall be entitled to have his vacation scheduled in accordance with 
+the provisions of Section 4(a) (3) above.  
+
+ 
+(5)  Vacation in Lieu of Layoff:   If an Employee is on layoff from the 
+Plant at any time before the beginning of his scheduled vacation hereunder, 
+he may request to have his vacation start at any time during such layoff and if 
+Management  agrees  to  grant  his  request,  it  shall  have  the  right  to  set  the 
+appropriate conditions under which it grants his request.  
+
+ 
+(6)  Vacation  Schedules-Transferred  Employees:  Where  an  Employee 
+transfers from one seniority unit to another subsequent to January 1 in any 
+given  year,  he  shall  take  his  vacation  in  accordance  with  the  schedule 
+established in his old seniority unit except as orderly operations of his new 
+
+                                                   
+
+*  See Appendix 28, Paragraph 4. 
+
+  
+09.04.00 
+  
+09.04.01 
+  
+09.04.02 
+
+  
+09.04.03 
+
+  
+09.04.04 
+
+  
+09.04.05 
+
+  
+09.04.06 
+
+  
+09.04.07 
+
+established in his old seniority unit except as orderly operations of his new 
+seniority  unit  preclude  it.  He  shall  not  be  entitled  to  have  any  vacation 
+schedule previously established in his new seniority unit changed because of 
+his  entry  into  that  unit;  should  there  be  a  conflict  between  the  transferred 
+Employee and in Employee in the unit, the Employee in the unit shall retain 
+his  preference  in  competition  with  the  transferred  Employee  regardless  of 
+continuous service. 
+
+(b)  Vacation Schedules  
+
+(1)  Vacation Scheduling Period: Vacations provided under this Article 
+
+ 
+may be scheduled throughout the calendar year.  
+
+ 
+(2)  Pay in lieu of Vacation: The Company may, with the consent of the 
+Employee, pay him vacation allowance, in lieu of time off for vacation, for 
+any weeks of regular vacation in excess of two weeks in any one calendar 
+year.  
+
+(3)  Calendar  Week  Containing  New  Year's  Day:  The  calendar  week 
+ 
+containing New Year's Day may be taken as a week of vacation for either the 
+year preceding New Year's Day or the year in which New Year's Day falls, 
+except when New Year's Day falls on Sunday, provided such vacation week 
+has  been  scheduled  as  vacation  in  accordance  with  this  Section.  If  the 
+Company in its sole discretion schedules a shutdown of any operation during 
+the  calendar  week  containing  Christmas  Day,  any  Employee  who  is  not 
+scheduled to work due to the shutdown in such week and who has completed 
+his  vacation  entitlement  for  that  year  may  elect  to  reschedule  a  week  of 
+regular vacation for which the Employee has qualified and will be entitled in 
+the following calendar year into the shutdown week; provided, however, that 
+vacation  pay  for  such  vacation  week,  calculated  as  though  the  week  were 
+scheduled  and  taken  in  the  next  following  year  will  be  paid  on  the  regular 
+payday for the pay period in which the shutdown vacation falls; and provided 
+further that no vacation pay for a vacation rescheduled hereunder will be paid 
+to an Employee who quits, retires, dies or is discharged prior to January 1 of 
+the  year  from  which  the  shutdown  vacation  was  rescheduled.  In  the 
+application  of  this  Section  4(b)(3),  when  the  basis  for  calculation  of  an 
+Employee's vacation pay for the following calendar year is not available, his 
+vacation payment hereunder shall be made on the basis for calculation of his 
+vacation pay in the current calendar year with appropriate  adjustment to be 
+made when the basis for the following calendar year becomes available.  
+
+ 
+(c)  Vacation Pay Advance: If an Employee makes a written request for 
+payment of his vacation allowance at least two weeks in advance of the time 
+he  is  scheduled  to  take  such  vacation,  he  will  receive  the  estimated  net 
+amount due him for such vacation period not later than the Friday before he 
+takes the vacation 
+
+  
+ 
+  
+
+  
+
+  
+
+  
+
+  
+09.04.08 
+  
+09.04.09 
+
+  
+09.04.10 
+
+  
+09.04.11 
+
+  
+09.04.12 
+
+Section 5. Vacation Scheduling Complaints and 
+
+  
+ 
+Grievances  
+  
+ 
+(a)  Procedure: It is recognized that the parties locally have the burden of 
+resolving disputes relating to the scheduling of individual vacations pursuant to 
+Section 4 of this Article. Should they be unable to do so, any such dispute must 
+be submitted as a complaint in Step No. 1 not later than 15 days after notification 
+of  the  scheduled  vacation  (or  changed  scheduled  vacation)  is  given  to  the 
+Employee.  
+  
+ 
+Such complaint or grievance must be handled in the complaint and grievance 
+procedure  in  order that: the Step No. 3 meeting is held and a draft of minutes 
+prepared  not  later  than  80  days  prior  to  the  starting  date  of  the  scheduled 
+vacation; the Step No. 4 meeting is held and a draft of minutes prepared not later 
+than  70  days  prior  to  the  start  of  the  scheduled  vacation;  and,  if  necessary,  a 
+decision  in  arbitration  is  issued  by  the  earlier  of  (1)  30  days  prior  to  the 
+scheduled starting date of the vacation, or (2) 30 days prior to the starting date 
+requested by the Employee, except that:  
+  
+
+(1) 
+
+ 
+Time  Limits—Employee  Date:  In  the  event  the  Employee  is 
+seeking a vacation starting earlier than that scheduled by the Company, 
+the  time  limits  described  above  shall  be  applied  to  the  starting  date 
+requested by the Employee;  
+
+(2) 
+
+ 
+Notice  of  Starting  Date—100  Days:  If  the  period  between 
+notice to the Employee and the starting date of the vacation is less than 
+100 days, the time limit set out above shall be reduced by the number of 
+days by which such period is less than 100 days; and  
+
+  
+
+  
+
+(3) 
+
+ 
+Untimely Complaint or Grievance: Failure to meet any of the 
+time limits set forth above shall not affect the Company's right to require 
+the Employee to take the vacation as scheduled by the Company unless 
+such failure is the fault of the Company.  
+
+  
+ 
+(b)  Vacation Schedules and Operations: In the resolution of complaints or 
+grievances presented under this Section, the Company's determination as to the 
+scheduling  required  to  conform  to  the  requirements  of  operations  shall  be 
+evaluated on the same basis as heretofore.  
+  
+ 
+  
+ 
+(a)  Rate Calculation: Each Employee granted a vacation under this Article 
+will  be  paid  at  his  average  straight  time  rate  (standard  hourly  wage  rate plus 
+incentive)  for  the  prior  calendar  year.  The  average  straight  time  rate  (for  the 
+purposes of this Section) shall be computed by:  
+
+Section 6. Vacation Pay Computation  
+
+  
+09.05.00 
+
+  
+09.05.01 
+
+  
+09.05.02 
+
+  
+09.05.03 
+
+  
+09.05.04 
+
+  
+09.05.05 
+
+  
+09.05.06 
+
+  
+09.06.00 
+  
+09.06.01 
+
+ 
+(1)  Totaling  (a)  pay  received  for  all  hours  worked  (excluding 
+premium  for  overtime,  holiday,  Sunday  and  shift  differential),  (b) 
+vacation pay, including pay in lieu of vacation, and (c) pay for unworked 
+holidays, and  
+
+ 
+(2)  Dividing  such  earnings  by  the  total  of  (a)  hours  worked,  (b) 
+vacation hours paid for, including hours for which pay in lieu of vacation 
+was paid, and (c) unworked holiday hours which were paid for.  
+
+  
+ 
+Such average straight time rate will be adjusted to reflect intervening general 
+wage  changes  and  retroactive  pay  adjustments,  if  any,  for  the  job  or  jobs 
+performed or paid for.  
+  
+(b)  Hours Calculation: Hours of vacation pay for each vacation week shall 
+ 
+be  the  average  hours  per  week  worked  by  the  Employee  in  the  prior  calendar 
+year. Any weeks not having 32 hours of actual work shall be excluded from the 
+calculation. Average hours per week worked shall be computed by:  
+  
+
+(1)  Totaling  the  following  hours  in  payroll  weeks  with  32  or  more 
+
+ 
+hours of actual work:  
+
+  
+
+  
+
+  
+
+  
+
+ 
+ 
+
+(a)  Hours worked 
+(b)  Hours  paid  for  unworked  holiday  or  vacation  hours  falling  in 
+
+such week  
+
+(c)  Hours paid for funeral leave 
+(d)  Hours paid for jury service  
+(e)  Hours paid for witness service 
+(f)  Hours excused from scheduled work and not paid for because of 
+
+ 
+ 
+ 
+ 
+Union business  
+
+(2)  Dividing such hours by the number of such weeks in which 32 or 
+
+ 
+more hours were worked.  
+
+The minimum number of hours paid for each week of vacation shall be 40 
+
+  
+ 
+and the maximum number of hours paid for each week of vacation shall be 48.  
+  
+  Any Employee who did not work in the prior year shall have his vacation pay 
+computed on the basis of his last calculated vacation rate and hours, adjusted in 
+accordance with the last sentence of paragraph (a) above.  
+  
+ 
+exclusively for the purpose of calculating vacation pay.  
+  
+ 
+  
+
+The  definitions  contained  herein  are  designed  for  and  shall  be  used 
+
+Section 7. Vacation Opportunities  
+
+  
+09.06.02 
+
+  
+09.06.03 
+
+  
+09.06.04 
+
+  
+09.06.05 
+
+  
+09.06.06 
+
+  
+09.06.07 
+09.06.08 
+
+09.06.09 
+09.06.10 
+09.06.11 
+09.06.12 
+
+  
+09.06.13 
+
+  
+09.06.14 
+
+  
+09.06.15 
+
+  
+09.06.16 
+
+  
+09.07.00 
+  
+
+(b)  Pay  in  Lieu  of  Vacation:  The  vacation  allowance  paid  to  such  an 
+
+ 
+(a)  Company and Union Objective: The Union and the Company agree that 
+their mutual objective is to afford maximum opportunity to afford the Employees 
+to  obtain  their  vacations  and  to  attain  maximum  production.  All  Employees 
+eligible for vacation shall be granted their vacation from work except as provided 
+in Section 4(b)(2).  
+  
+ 
+Employee shall be computed as set forth in Section 6 above.  
+  
+ 
+not require the Company to reschedule the vacation of any other Employee.  
+  
+ 
+  
+  Effective August 1, 2001, a vacation bonus of two hundred fifty dollars 
+($250.00) per week will be paid to employees for each week of vacation taken 
+in  the  ten  (10)  consecutive  week  period  beginning  with  the  first  full  week 
+following the week containing New Year's Day. 
+
+(c)  Rescheduling Not Required: Any payment of vacation allowance shall 
+
+Section 8. Vacation Bonus 
+
+09.07.01 
+
+  
+09.07.02 
+
+  
+09.07.03 
+
+  
+09.08.00 
+  
+09.08.01 
+
+ 
+ 
+ 
+ 
+
+ARTICLE X (cid:190) SENIORITY 
+
+Section 1. Factors Affecting  
+
+  
+ 
+  
+  Except  where  a  local  seniority  agreement  provides  for  some  greater 
+measure  of  service  length  than  Plant  continuous  service,  Plant  continuous 
+service shall be used for all purposes in which a measure of continuous service 
+is utilized.  
+  
+ 
+In  the  promotion  of  Employees  to  non-supervisory positions and for the 
+purpose  of  demotions,  or  layoffs  in  connection  with  the  decreasing  of  the 
+working  force  and  of  the  recalling  to  work  of  Employees  so  laid  off,  the 
+following  factors  shall  be  considered,  and  if  factors (b) and (c) are relatively 
+equal, length of continuous service shall govern:  
+  
+
+10.00.00 
+  
+10.01.00 
+  
+10.01.01 
+
+  
+10.01.02 
+
+  
+10.01.03 
+  
+10.01.04 
+  
+10.01.05 
+  
+10.01.06 
+
+ 
+  
+ 
+  
+ 
+
+(a)  Length of continuous service;  
+
+(b )  Ability to perform the work; and  
+
+(c)  Physical fitness.  
+
+  
+  Filling A temporary Vacancy: In the filling of a temporary vacancy within 
+a  seniority  unit,  the  Management  shall,  to  the  greatest  degree  that  shall  be 
+consistent with efficiency of the operation and the safety of Employees, fill the 
+
+vacancy  with  the  Employee,  in  the  seniority unit or on the particular turn in 
+such  unit  in  which  the  vacancy  shall  occur,  having  the  greatest  length  of 
+continuous service.  
+  
+  Temporary  Vacancy(cid:190)3  or  More  Weeks'  Duration:  In  the  filling  of  a 
+temporary vacancy known to be of 3 or more weeks' duration, the Management 
+shall,  to  the  greatest  degree  that  shall  be  consistent  with  efficiency  of  the 
+operation and the safety of Employees, fill the vacancy with the Employee in 
+the  seniority  unit  having  the  greatest  length  of  continuous  service,  at  the 
+earliest date on which such Employee can be so assigned without payment of 
+overtime;  provided,  however,  that  for  purposes  of  this  provision  the  parties 
+may  hereafter  agree  locally  upon  a  period  other  than  the  3  weeks  specified 
+above.  Existing  local  agreements  or  practices  applicable  to  temporary 
+vacancies of less than 3 weeks' duration shall be retained, except as they may 
+hereafter be modified by local agreement.  
+
+  
+
+Section 2. Continuous Service  
+
+ 
+  
+ 
+(a)  Starting  Date-Break  In: Subject to the provisions of Section 3 and 
+Section 6 of this Article and the provisions of Article XV hereof, the length of 
+continuous service of an Employee shall be computed from the date on which 
+he  first  began  work  at  the  Plant,  except  that  such  length  of  service  shall  be 
+broken and no prior period or periods of employment shall be counted  
+  
+
+ 
+
+(1) 
+
+if he shall voluntarily quit his employment; 
+
+  
+
+  
+
+(3) 
+
+(2) 
+
+if he shall be discharged;  
+
+ 
+  
+ 
+if his employment shall  be terminated by the Company, because 
+he  shall  have  been  absent  from  work  for  10  days  or  more  without 
+reasonable cause (notice of which shall be given to the Local Union at least 
+48 hours prior to the termination) or because he shall have failed without 
+such  cause  promptly  to  return  to  work  after  a  leave  of  absence  or  when 
+recalled to work after a layoff;  
+
+if he shall be absent due to layoff or disability beyond the period 
+
+(4) 
+
+ 
+specified in Section 3 below; or  
+  
+ 
+provisions of Article XVIII or Section 13 of this Article.  
+
+(5) 
+
+if  his  length  of  service  shall  be  broken  in  accordance  with  the 
+
+Section 3. Continuous Service  
+
+  
+ 
+  
+ 
+(a)  Continuation When Absent: Subject to the provisions of paragraph (c) 
+below, if an Employee is absent from the Plant because of layoff or physical 
+disability,  he  shall  continue  to  accumulate  continuous  service  during  such 
+absence for two years, and for an additional period equal to (i) three years, or 
+
+  
+10.01.07 
+
+10.02.00 
+  
+10.02.01 
+
+  
+10.02.02 
+  
+10.02.03 
+  
+10.02.04 
+
+  
+10.02.05 
+
+  
+10.02.06 
+
+  
+10.03.00 
+  
+10.03.01 
+
+absence for two years, and for an additional period equal to (i) three years, or 
+(ii) the excess, if any, of his length of continuous service at commencement of 
+such absence over two years, whichever is less. Any accumulation in excess of 
+two years during such absence shall be counted, however, only for purposes of 
+this  Article,  including  local  agreements  thereunder, and shall not be counted 
+for any other purpose under this or any other agreement between the Company 
+and  the  International  Union.  In  order  to  avoid  a  break  in  service  within  the 
+above  period  after  an  absence  in  excess  of  two  years,  an  Employee  absent 
+because  of  layoff  or  physical  disability  must  report  for  work  promptly  upon 
+termination of either cause, provided, in the case of layoff, the Company has 
+mailed  a  recall  notice  to  the  last  address  furnished  to  the  Company  by  the 
+Employee.  
+  
+(b)  Absence(cid:190)Non-Occupational  Disability:  The  length  of  continuous 
+ 
+service of an Employee who was unable to work because of non-occupational 
+disability  and  who  returned  to  work  prior  to  January  4,  1960,  shall  not  be 
+deemed to have been broken on account of such absence but the excess of his 
+period of absence over 6 months shall not be included as a part of his length of 
+continuous service.  
+  
+(c)  Absence(cid:190)Compensable  Disability:  Absence  due  to  a  compensable 
+ 
+disability incurred during the course of employment shall not break continuous 
+service, provided such individual is returned to work within 30 days after final 
+payment of statutory compensation for such disability or after the end of the 
+period used in calculating a lump sum payment. (See Appendix 28, paragraph 
+11)  
+  
+ 
+  
+ 
+In computing the length of continuous service of an Employee at a Plant, if 
+such Plant shall have been acquired by the Company, there shall be included 
+the  period  of  continuous service of such Employee at such Plant prior to its 
+acquisition by the Company.  
+  
+ 
+  
+  An  Employee  who  has  attained  a  higher  position  than  other  Employees 
+through the failure of such other Employees to accept promotions shall have a 
+higher  seniority  standing  than  such  other  Employees  for  the  purpose  of  the 
+provisions set forth in Section 1 of this Article relating to promotions.  
+  
+ 
+  
+  A  new  Employee  and  one  who  shall  be  re-employed after a break in his 
+continuous service shall not acquire any seniority until the expiration of 520 
+hours of actual work following his employment and shall not receive any credit 
+for continuous service during such period. For all such employees hired after 
+
+Section 6. New or Reemployed Employees 
+
+Section 4. Employees-Acquired Plants  
+
+Section 5. Promotional Seniority  
+
+  
+10.03.02 
+
+10.03.03 
+
+  
+10.04.00 
+  
+10.04.01 
+
+  
+10.05.00 
+  
+10.05.01 
+
+  
+10.06.00 
+  
+10.06.01 
+
+for continuous service during such period. For all such employees hired after 
+August  1,  1999,  the  probationary  period  will  be  one  thousand  (1,000) 
+hours.    If  he  shall  be  continued  in  the  employ  of  the  Company  after  the 
+expiration  of  such  520  hours  of  actual  work,  the  length  of  his  continuous 
+service shall be computed from the date of his employment or re-employment 
+in accordance with the provisions of Section 2, Section 3 and Section 4 of this 
+Article. During the first 520  [or one thousand(1,000)]  hours of actual work, 
+he may be laid off or discharged as the Management shall determine and his 
+layoff  or  discharge  shall  not  be  made  the  basis  of  any  claim,  complaint  or 
+grievance  against  the  Company;  provided  that  this  will  not  be  used  for 
+purposes  of  discrimination  because  of  race,  color,  religious  creed,  national 
+origin, handicap, disabled veterans and veterans of the Viet Nam era, sex or 
+age  (except  where  sex  or  age  is  a  bona  fide  occupational  qualification)  or 
+because of membership in the Union.  
+  
+  Where a new Employee is relieved from work because of lack of work and 
+his  employment  status  terminated  in  connection  therewith,  and  he  is 
+subsequently rehired at the same Plant within one year from the date of such 
+termination, the hours of actual work accumulated by such Employee during 
+his first employment shall be added to the hours of actual work accumulated 
+during  his  second  employment  in  determining  when  the  Employee  has 
+completed  five  hundred  twenty  (520)  [or  one  thousand(1,000)]  hours  of 
+actual work; provided, however, that should such an Employee complete five 
+hundred  twenty  (520)  [or  one  thousand(1,000)]  hours  of  actual  work  in 
+accordance with this sentence, his continuous service date will be the date of 
+hire of his second hiring.  
+
+ 
+
+Seniority shall be applied in the seniority units, which may be an entire 
+Plant or any subdivision thereof, as established or agreed upon. A job may be 
+in  one  seniority  unit  for  one  purpose,  such  as  promotions,  and  may  be  in  a 
+different  seniority  unit  for  another  purpose,  such  as  layoffs.  The  existing 
+seniority unit or units and departments to which the seniority factors shall be 
+applied  and  the  rules  for  application  of  the  seniority  factors,  covered  by 
+existing  local  agreements,  shall  remain  in  effect  unless  or  until  modified  by 
+local written agreement signed by the Superintendent of Labor Relations and 
+
+Section 7. Breaking Ties  
+
+  
+ 
+If,  however,  such  an  Employee  is  rehired  within  two  weeks  of  his  last 
+termination from employment at the same plant, his continuous service date 
+will be the date of hire for his prior employment.  
+  
+ 
+  
+  The  Grievance  Committee  and  Management  shall  establish  rules  (where 
+such  rules  do  not  exist)  for  breaking  ties  where  Employees  have  the  same 
+continuous service dates.  
+  
+ 
+  
+
+Section 8. Seniority Units  
+
+10.06.02 
+
+  
+10.06.03 
+
+  
+10.07.00 
+  
+10.07.01 
+
+10.08.00 
+  
+10.08.01 
+
+local written agreement signed by the Superintendent of Labor Relations and 
+the  chairman  and  secretary  of  the  Grievance  Committee.  Local  seniority 
+agreements in effect as of the date of this Agreement shall be consistent with 
+Appendix 38. Hereafter all future local seniority agreements shall provide that: 
+all promotions (including step ups), decreases in forces (including demotions 
+and layoffs), recalls after layoff and other practices affected by seniority shall 
+be in accordance with Plant service provided that, (a) demotions,  layoffs and 
+other  reductions  in  force  shall  be  made  in  descending  job  sequence  order 
+starting  with  the  highest  affected  job  and  with  the  Employee  on  such  job 
+having the least length of Plant continuous service, and (b) the sequence on a 
+recall shall be made in the reverse order so that the same Employees return to 
+jobs in the same positions relative to one another that existed prior to the force 
+reductions. Future local agreements may provide for a procedure varying from 
+the foregoing upon joint approval by designated officials of the Company and 
+the  International  Union.  Hereafter  local  seniority  agreements,  including 
+agreements covering departments or units thereof, shall be signed on behalf of 
+the Union by the chairman and secretary of the Grievance Committee and shall 
+be posted in the Plant. 
+  
+  New Jobs: In any case in which local agreement cannot be consummated as 
+to the seniority units in which a new job or new jobs, including those in new, 
+merged or transferred operations, are to be placed, or the rules for application 
+of the seniority factors to such jobs (including the appropriate progression and 
+regression structure), Management shall include such job or jobs in the most 
+appropriate  seniority  unit  or,  if  more  appropriate,  establish  a  new  seniority 
+unit,  and  establish  rules  for  application  of  the  seniority  factors  to  such  jobs 
+(including  its  determination  of  the  appropriate  progression  and  regression 
+structure), subject to the grievance procedure of this Agreement.  
+  
+ 
+  
+ 
+It  is  recognized  that  conflicting  seniority  claims  among  Employees  may 
+arise when Plant or department facilities are created, expanded, added, merged, 
+or discontinued, involving the possible transfer of Employees. It is agreed that 
+such  claims  are  matters  for  which  adjustment  shall  be  sought  between 
+Management and the appropriate grievance representatives or committees.  
+  
+  Failure  to  Agree:  In  the  event  the  above  procedure  does  not  result  in 
+agreement,  the  International  Union  and  the  Company  may  work  out  such 
+agreement  as  they  deem  appropriate  irrespective  of  existing  seniority 
+agreements  or  may  submit  the  matter  to  arbitration  under  such  conditions, 
+procedures, guides and stipulations as to which they may mutually agree.  
+  
+ 
+  
+  Purpose: The purpose of this Section is to increase intra-plant job security 
+for  longer-service  Employees.  The  application  of  seniority  provisions  other 
+
+Section 9. Conflicting Seniority Claims  
+
+Section 10. 
+
+Seniority Pools  
+
+  
+10.08.02 
+
+  
+10.09.00 
+  
+10.09.01 
+
+  
+10.09.02 
+
+  
+10.10.00 
+  
+10.10.01 
+
+for  longer-service  Employees.  The  application  of  seniority  provisions  other 
+than those established under this Section to jobs in a seniority unit shall not be 
+affected by the inclusion of such jobs in the pool except to the extent necessary 
+to comply with the provisions of this Section.  
+  
+  Establishment of Seniority Pools: It is the objective of the parties that there 
+shall  be  at  each  Plant  the  minimum  number  of  seniority  pools  as  described 
+below consistent with the efficient operation of the Plant. As a minimum, the 
+agreed-upon  area  covering  a  single  seniority  pool  in  each  case  shall  be  as 
+broad as practicable and in no event shall be less than a major operating unit 
+such  as  Blast  Furnace,  Coke  Plant,  Open  Hearth,  etc.;  however,  rolling 
+facilities need not necessarily be considered as one unit but shall nevertheless 
+be as broad as practicable.  
+  
+
+(a)  Pool  Composition:  Each  seniority  pool  within  an  agreed-upon 
+ 
+area  as  established  or  revised  pursuant  to  the  above  objectives  shall  be 
+regarded  as  being  a  single  seniority  pool  for  the  purposes  of  layoff  and 
+recall. Each such pool shall be made up of all jobs in job Classes 1, 2, and 3 
+and such jobs in job Class 4 or higher as shall be agreed upon by the local 
+parties. The number of jobs in job Class 4 or higher to be included in the 
+pool shall be no less than the number of all of the job Class 4 jobs in the 
+agreed-upon area. The job opportunities provided by the jobs in job Class 4 
+or higher included in the pool as of the pay period including the 90th day 
+after the effective date of this Agreement shall be approximately equivalent 
+to the job opportunities provided by all job Class 4 jobs in the agreed-upon 
+area as of such date. If a particular job required to be included in the pool 
+by the foregoing provisions is inappropriate for inclusion in the pool, the 
+local  parties  may  agree  to  remove  it  from  the  pool-provided that another 
+suitable  job  (or  jobs)  is  concurrently  added  to  the  pool  which  does  not 
+reduce significantly the number of job opportunities provided by the job 
+which  was  removed  from  the  pool.  The  jobs  in  the  pool  shall  also  be 
+included  in  appropriate  seniority  units  for  the  application  of  seniority 
+provisions other than those included in this Section. 
+  
+(b)  Assignment Within A Pool:  An Employee who at the time he is or 
+ 
+otherwise  would  be  laid  off  has  two  or  more  years  of  Plant  continuous 
+service shall be assigned to a job for which he is qualified in his seniority 
+pool if a job in his seniority pool is held by an Employee having less Plant 
+continuous service; provided, however, that the Management shall  not be 
+required to assign him to any such job before the expiration of 30 days (or 
+such shorter period as may have been heretofore agreed upon by the local 
+parties)  after  the  date  of  his  layoff.  In  filling  other  than  temporary 
+vacancies  in  jobs  in  any  seniority  pool,  the  Management  will  recall 
+Employees laid off from the seniority units covered by the pool in the order 
+of their Plant continuous service; however, the Employee must be qualified 
+to perform the job. Where practicable, however, Management will make a 
+reasonable  effort  to  assign,  on  the  basis  of  Plant  continuous  service,  an 
+
+  
+10.10.02 
+
+  
+10.10.03 
+
+  
+10.10.04 
+
+reasonable  effort  to  assign,  on  the  basis  of  Plant  continuous  service,  an 
+Employee laid off from his seniority unit to a pool job he prefers which is 
+not held by an Employee of that unit. However, Management shall have the 
+right, to the extent necessary, to designate the specific job in any pool to 
+which an Employee shall be assigned (and to change such assignments) in 
+order to provide jobs for longer-service Employees who would otherwise 
+be unable to qualify for an available job in the pool. in order to maintain 
+efficiency, the Management need not assign laid-off Employees to a job in 
+any operating or service unit where such assignment would result in less 
+than  the  required  minimum  of  experienced  Employees  in  such  unit.  The 
+local parties may by agreement determine whether there are circumstances 
+under which an Employee need not accept a pool job.  
+
+(c)  Permanent Shutdowns/Extended Layoffs: In a Plant in which there 
+ 
+is  established  more  than  one  agreed-upon  area  as  defined  above,  the 
+following shall apply: In the event of a permanent shutdown of a facility as 
+defined in Article XVIII or a layoff of one or more Employees for a period 
+which extends for three months or more (or any lesser period which may 
+be agreed to by the local parties) or  which the parties believe will extend 
+for  such  a  period,  an  Employee  affected  who  has  two  or  more  years  of 
+Plant continuous service at time of layoff shall be given the right to a job in 
+any seniority pool in the Plant if a job in that pool is held by an Employee 
+in the pool with less Plant service provided he is qualified to perform the 
+job  and  has  the  necessary  qualifications  required  in  the  promotional 
+sequence involved. Such assignments to jobs shall be subject to the same 
+rules as apply in paragraph (b) above. An Employee who has been assigned 
+to a job in a different seniority pool under this provision and who has been 
+subsequently  laid  off  from  that  pool  shall  have  recall  rights  to  that  pool 
+until  he  is  recalled  to  a  job  in  the  agreed-upon  area  from  which he was 
+originally  laid  off;  provided,  however,  that  such  recall  rights  shall  be 
+limited  to  his  own  pool  and  the  pool  from  which  he  was  laid  off;  and 
+provided,  further,  that  the  Management  shall  not  be  required  under  this 
+paragraph  to  displace  a  shorter-service  Employee  with  such  laid-off 
+Employee before the expiration of 30 days after the date of any such layoff. 
+
+  
+
+  
+
+  
+(d)  Retention  Rights:  An  Employee  assigned  under  any  pool 
+arrangement  to  a  seniority  unit  for  purposes  of  retention  shall  have no 
+seniority rights for promotional purposes in that unit, except in competition 
+with an Employee in such unit who has been employed less than 31 days 
+prior to the retained Employee's assignment in that seniority unit 
+  
+(e)  Liability – Recall – Wrong Employee: Employees shall be recalled 
+ 
+directly to jobs in their seniority units or promotional sequences above the 
+seniority  pool,  if  that  is  in  accord  with  applicable  seniority  practices  or 
+agreements. if the Company recalls the wrong Employee from a layoff to a 
+
+                                                   
+*  May be modified by Appendix 28, paragraph 14. 
+
+  
+10.10.05 
+
+  
+10.10.06 
+
+  
+10.10.07 
+
+*
+agreements. if the Company recalls the wrong Employee from a layoff to a 
+job in a pool, it will not be liable for any retroactive pay to the Employee 
+who should have been recalled, with respect to any period prior to 4 days 
+or the beginning of the payroll week, whichever is later, after receipt by the 
+Company  of  specific  written  notice  by  him  (on  a  form  to  be  provided 
+therefor) of its alleged error.  
+  
+Schedule  Changes:  If  the  local  parties  deem  it  helpful  in 
+ 
+facilitating the assignment of Employees in the pool, they are empowered 
+to  agree  in  writing  that  schedule  changes  arising  from  movements  of 
+Employees into, within or out of the seniority pools in accordance with the 
+provisions of this Section shall not be deemed a violation of the provisions 
+relating  to  schedule  changes  or  provide  a  basis  for  a  claim  for  sixth  or 
+seventh day overtime compensation or reporting allowance.  
+
+(f) 
+
+  
+  Section 11.  Manning New Facilities  
+  
+ 
+In the manning of jobs on new facilities in the Plants, the jobs shall be 
+filled by qualified Employees who apply for such jobs in the order of length of 
+Plant continuous service from the following categories in the following order 
+but subject to paragraph (b) below. 
+
+(a) 
+
+  
+(1)  Displaced By Replacement Facilities: Employees displaced from 
+
+ 
+any facility being replaced in the Plant by the new facilities.  
+
+(2)  Displaced  By  New  Facilities: Employees being displaced as the 
+
+ 
+result of the installation of the new facilities.  
+
+(3)  Employed On Like Facilities: Employees presently employed on 
+
+ 
+like facilities in the Plant.  
+
+(4)  Laid  Off  From  Like  Facilities:  Employees  presently  on  layoff 
+
+ 
+from like facilities in the Plant.  
+
+  
+
+  
+
+  
+
+  
+
+(5)  Other Employees: Employees in the Plant with two or more years 
+ 
+of Plant continuous service, provided, that if sufficient qualified applicants 
+from  this  source  are  not  available,  Management  shall  fill  the  remaining 
+vacancies as it deems appropriate.  
+
+  
+(b)  Type  of  Service  For  Qualification:  The  local  parties  shall  meet  to 
+ 
+seek  agreement  on  the  standards  to  be  used  to  determine  the  qualifications 
+entitling Employees otherwise eligible to be assigned to the jobs in question. 
+Should  the  local  parties  fail  to  agree  on  the  standards  for  determining 
+qualifications, an applicant otherwise eligible shall have:  
+  
+
+(1)  Necessary  Qualifications:  The  necessary  qualifications  for 
+
+ 
+performing the job. 
+
+  
+10.10.08 
+
+  
+10.11.00 
+  
+10.11.01 
+
+  
+10.11.02 
+
+  
+10.11.03 
+
+  
+10.11.04 
+
+  
+10.11.05 
+
+  
+10.11.06 
+
+  
+10.11.07 
+
+  
+10.11.08 
+
+(3)  Qualifications 
+
+performing the job.  
+  
+(2)  Ability to Absorb Training:  The ability to absorb such training for 
+ 
+the  job  as  is  to  be  offered  and  is  necessary  to  enable  the  Employee  to 
+perform the job satisfactorily.  
+  
+in  Sequence:  The  necessary 
+ 
+qualifications to progress in the promotional sequence involved to the next 
+higher  job  to  the  extent  that  Management  needs  Employees  for  such 
+progression. In determining the necessary qualifications to advance in the 
+promotional  sequence  involved,  the  normal  experience  acquired  by 
+Employees in such sequence shall be taken into consideration. However, it 
+is  recognized  that  Management  can  require  that  a  sufficient  number  of 
+occupants of each job in a promotional sequence be available to assure an 
+adequate number of qualified replacements for the next higher job.  
+
+to  Progress 
+
+  
+  Alternate  Methods:  In  lieu  of  or  in  addition  to  the  foregoing,  the  local 
+parties  may  develop  a  method  for  filling  permanent  vacancies  in  the  new 
+facility between the time of initial manning and the final election to transfer.  
+  
+ 
+(e)  Temporary Assignment to Regular Job: Should Management deem it 
+necessary to assign an Employee to his regular job on the old facility in order 
+to  continue  its  efficient  operation,  it  may  do  so  on  the  basis  of  establishing 
+such Employee on the new job and temporarily assigning him to his former job 
+until a suitable replacement can be trained for the job or its performance is no 
+longer required. In such event, such Employee shall be entitled to earnings not 
+
+  
+ 
+(c)  Disqualified  Applicant-Right  to  Apply:  An  applicant  who  is 
+disqualified  under  paragraph  (b)(3)  above  shall  have  the  right  to  apply  for 
+another job for which he believes he can qualify.  
+  
+
+ 
+(d)  Local Rules for Second Opportunity Transfers: When new facilities 
+are to be manned pursuant to this Section, the local parties shall meet and may 
+establish,  in  appropriate  circumstances,  rules  for  allowing  an  Employee  not 
+placed  initially,  a  second  opportunity  to  elect  transfer  to  the  new  facility 
+consistent  with  its  efficient  operation.  In  establishing  such  rules,  the  local, 
+parties shall consider matters such as:  
+  
+
+(1)  Job Level in Sequence: The job level in the promotional sequence 
+ 
+in  the  new  unit  up  to  which  an  Employee  will  be  allowed  a  second 
+opportunity to elect transfer.  
+  
+(2)  Time  Limits  on  Second  Opportunity:  The  date  on  which  the 
+ 
+second  opportunity  must  be  exercised  following  start-up  of  the  new 
+facility, but not more than three years thereafter. (in determining such date, 
+the  parties  shall  give  due  consideration 
+to  possible  Management 
+abandonment of the old facility or an extended period of its non-use.)  
+
+  
+10.11.09 
+
+  
+10.11.10 
+
+  
+10.11.11 
+
+  
+10.11.12 
+
+  
+10.11.13 
+
+  
+10.11.14 
+
+  
+10.11.15 
+
+  
+10.11.16 
+
+  
+10.11.17 
+
+  
+10.12.00 
+
+  
+10.12.01 
+
+  
+10.12.02 
+
+Section 12. 
+
+Permanent Vacancies and Transfer 
+
+longer required. In such event, such Employee shall be entitled to earnings not 
+less than what he would have made had he been working on the job on which 
+he has been established.  
+  
+ 
+(f)  Facilities  at  More  Than  One  Plant:    Where  new  facilities  replace 
+facilities  of  more  than  one  Plant  in  the  same  general  locality,  appropriate 
+representatives  of  the  Company  and  the  International  Union  shall  meet  in 
+conjunction with the local parties for the purpose of seeking an agreement on 
+manning  consistent  with  the  parties'  mutual  intent  to  facilitate  efficient 
+manning  and  preserve  job  security  for  longer-service  Employees.  In  such 
+situations, Company service may be considered in addition to Plant service.  
+  
+ 
+Rights  
+  
+ 
+Permanent  transfers  shall  not  be  made  through  the  operation  of  the  pool 
+procedures. An Employee who is assigned under a pool arrangement to a unit 
+for purposes of retention shall not be able to effectuate a permanent transfer to 
+that  unit  by  refusing  a  recall  to  his  home  unit.  (However,  nothing  contained 
+herein shall preclude such an Employee from effectuating a permanent transfer 
+by bidding for a permanent vacancy in such a unit or any other unit. Moreover, 
+nothing  contained  herein  shall  affect  the  rights  of  such  Employees  under  a 
+permanent  shutdown  situation.)  In  addition,  such  a  retained  Employee  shall 
+have  only  such  promotional  rights  in  the  unit  to  which  he  is  assigned  for 
+retention purposes as are provided for by Section 10(d). 
+  
+ 
+(a)  Subject to the exception provided by paragraph (c) below for entry 
+into Trades and Crafts, a three-step procedure for filling permanent vacancies 
+shall be retained as presently agreed to. A permanent vacancy shall be filled 
+from  within  the  first  step  of  competition  (whether  it  be  unit,  line  of 
+progression, etc.). Each succeeding vacancy shall be filled in the same manner, 
+and the resulting vacancy in the entry level job shall thereafter be filled on a 
+departmental basis (the second step of competition) by Employees who have 
+satisfactorily completed their probationary periods (for employees hired on or 
+after  August  1,  1999,  six  months  of  plant  service  or  the  end  of  such 
+employees' probationary period, whichever is later) on the date the vacancy 
+is  posted  or  such  lesser  period  as  has  been  mutually  agreed  to  by  the  local 
+parties. Resulting entry level departmental vacancies shall be filled on a Plant-
+wide  basis  (the  third  step  of  competition)  by  Employees  who  have 
+satisfactorily completed their probationary periods (for employees hired on or 
+after  August  1,  1999,  six  months  of  plant  service  or  the  end  of  such 
+employees' probationary period, whichever is later) on the date the vacancy 
+is  posted  or  such  lesser  period  as  has  been  mutually  agreed  to  by  the  local 
+parties. An Employee transferring under Article X, Section 18, shall be eligible 
+to  bid  on  vacancies  notwithstanding  the  plant  service  requirement  set  forth 
+above.  
+
+  
+ 
+(b)  However,  in  Plants  where  operating  circumstances  so  warrant (such 
+as  size,  geography,  job  relationships,  physical  proximity,  safety,  and  other 
+appropriate factors), a two-step procedure for filling permanent vacancies shall 
+be retained as presently agreed to. Under a two-step procedure, a permanent 
+vacancy shall be filled from within the first step of competition (whether it be 
+unit, line of progression, department, etc.). Each succeeding vacancy shall be 
+filled in the same manner and the resulting vacancy in the entry level job shall 
+thereafter be filled on a Plant-wide basis by Employees with at least 6 months 
+of Plant service (for employees hired on or after August 1, 1999, six months 
+of  plant  service  or  the  end  of  such  employees'  probationary  period, 
+whichever is later)  on the date the vacancy is posted or such lesser period as 
+has been mutually agreed to by the local parties.  
+  
+(c)  As an exception to the procedures for filling vacancies provided for 
+ 
+by  paragraph  (a)  above,  all  permanent  vacancies  in  apprenticeships  and  in 
+entry level jobs in lines of promotion containing occupations which in fact lead 
+to craft jobs shall be filled on a Plant-wide basis from among qualified bidding 
+Employees.  Similarly,  permanent  vacancies  in  craft  jobs  which  are  not  filled 
+by  the  promotion  or  assignment  of  apprenticeship  graduates,  or  by  the 
+promotion of an Employee from a non-craft job in a line of promotion leading 
+to a craft job, or by the transfer of a craft Employee from one unit to another 
+within  the  same  Trade  or  Craft  shall  be  filled  on  a  Plant-wide  basis  from 
+among  qualified  bidding  Employees.  An  Employee  shall  not  be  disqualified 
+for bidding on any such vacancy by reason of any minimum length of service 
+requirement. Should Management deem it necessary to retain an Employee on 
+his former job in order to continue efficient operation, it may do so on the basis 
+of establishing such Employee on the new job and temporarily assigning him 
+to his former job until a suitable replacement can be trained for the job or its 
+performance  is  no  longer  required.  In  such  event,  such  Employee  shall  be 
+entitled  to  earnings  not  less  than  what  he  would  have  made  had  he  been 
+working  on  the  new  job  on  which  he  has  been  established  and,  where 
+applicable,  shall  be  paid  as  though  such  hours  were  credited  to  any 
+apprenticeship. 
+  
+ 
+factors set forth in Section 1 of this Article subject to the following:  
+  
+
+(d)  Vacancies  shall  be  made  available  in  accordance  with  the  seniority 
+
+(1)  Qualified to Perform: An Employee must be qualified to perform 
+
+ 
+the job.  
+  
+ 
+(2)  With respect to entry level jobs classified at job Class 5 and below 
+that  are  filled  on  a  departmental  or  plant-wide  basis,  such  jobs  shall  be 
+filled from among qualified bidding Employees in order of length of plant 
+continuous service, subject, however, to paragraph (3) below.  
+  
+
+  
+10.12.03 
+
+  
+10.12.04 
+
+  
+10.12.05 
+
+  
+10.12.06 
+
+  
+10.12.07 
+
+  
+
+ 
+(3)  Qualified  to  Progress  in  Sequence:  With  respect  to  jobs  in 
+promotional  sequences  leading  to  Trade  or  Craft  or  special-purpose 
+maintenance  jobs  or  to  highly  skilled  operating  or  technical  jobs, 
+Management may require an Employee to have the necessary qualifications 
+to progress in the promotional sequence involved to the next higher job to 
+the  extent  that  Management  needs  Employees  for  such  progression.  In 
+determining  the  necessary  qualifications  to  advance  in  the  promotional 
+sequence involved, the normal experience acquired by Employees in such 
+sequence shall be taken into consideration. However, it is recognized that 
+Management can require that a sufficient number of occupants of each job 
+in  a  promotional sequence be available to assure an adequate number of 
+qualified replacements for the next higher job.  
+
+  
+ 
+(e)  Results of Transfer:  An Employee who transfers under this Section 
+shall have the right to voluntarily return to the unit from which he transferred 
+within a 30-calendar day period commencing from the date of his transfer or 
+Management may, within the same period, return him to that unit because he 
+cannot  fulfill  the  requirements  of  the  job.  In  either  event,  his  return  to  his 
+former  unit  within  such  30-calendar  day  period  shall  be  without  loss  of 
+seniority standing in such unit. In the event an Employee voluntarily returns to 
+the  unit  from  which  he  transferred,  such  Employee  shall  not  be  eligible  for 
+transfer for twelve months following his return.  
+  
+
+ 
+(1)  An Employee who bids and prevails under a plant-wide posting of 
+a job vacancy and accepts the transfer to that vacancy shall not be eligible 
+to bid on any other plant-wide job vacancy posting during the next twelve 
+months  following  that  transfer  unless  he  is  displaced  from  the  new  unit 
+transferred to by a reduction in force or other cause.  
+  
+ 
+(2)  An  Employee  who  bids  and  prevails  on  either  a  plant-wide  or 
+department-wide posting of a job vacancy and declines the transfer to that 
+vacancy, shall not be eligible to bid on any other posting of a vacancy in 
+the unit to which the transfer was declined during-the next twelve months 
+following that event.  
+
+  
+
+ 
+(3)  Sub-paragraphs  (1)  and  (2)  above  shall  not  apply  to  plant-wide 
+postings of permanent vacancies in apprenticeships or in entry level jobs in 
+lines of promotion containing occupations which in fact lead to craft jobs. 
+However, they shall apply to plant-wide postings of permanent vacancies in 
+journeyman trade or craft jobs.  
+
+  
+ 
+(f)  Where a job sequence or line of progression includes jobs in the pool, 
+such pool jobs in that job sequence or line of progression shall be considered 
+as a single job in filling permanent vacancies above the pool.  
+  
+ 
+
+Intraplant Transfers  
+
+Section 13. 
+
+10.12.08 
+
+  
+10.12.09 
+
+  
+10.12.10 
+
+  
+10.12.11 
+
+  
+10.12.12 
+
+  
+10.12.13 
+
+  
+10.13.00 
+
+  
+  Subject  to  the  provisions  of  Section  2  and  Section  6  of  this  Article,  the 
+following  provisions  shall  apply  in  respect  of  transfers  of  Employees  within 
+any Plant:  
+  
+
+(a)  Employee Transfer(cid:190)Not Requested: If an Employee has been or 
+ 
+shall be transferred from one seniority unit to another seniority unit other 
+than at his own request; he shall retain and continue to accumulate seniority 
+rights in the seniority unit from which he was or shall be transferred for a 
+period  of  not  longer  than  6  months  or  for  such  other  period  as  shall  be 
+agreed upon by the Management and the Grievance Committee.  
+
+ 
+(b)  Promotion to Supervisory Position: If an Employee has been or 
+shall be promoted to a supervisory position, he shall retain and continue to 
+accumulate seniority rights in the seniority unit from which he was or shall 
+be so promoted.  
+
+ 
+(c)  Assignment of Disabled Employees: If an Employee (1) who was 
+or  shall  be  disabled  while  in  military  service  and  was  or  shall  be  re-
+employed  in  accordance  with  the  provisions  of  Article  XV  of  this 
+Agreement  or  (2)  who  was  or  shall  be  disabled  in  the  course  of  his 
+employment with the Company, was or shall be transferred by agreement 
+between the Management and the Grievance Committee from one seniority 
+unit  to  another  to  accomplish  his  rehabilitation  or  to  restore  him,  after  a 
+period  of  rehabilitation  deemed  reasonable  by  the  Company's  medical 
+department, to the seniority unit from which he shall originally have been 
+transferred,  he  may,  by  agreement  between  the  Management  and  the 
+Grievance Committee, carry with him his total accumulated seniority rights 
+in any and all seniority units from which he shall be so transferred.  
+
+(d)  Furnish  Return  Notice:  The  Management  shall  furnish  to  each 
+ 
+Employee who shall be transferred from a seniority unit, and to his Local 
+Union, a copy of the Return Notice on which shall be indicated whether the 
+transfer  is  at  the  request  of  the  Employee  or  at  the  direction  of  the 
+Management.  
+
+  
+
+  
+
+  
+
+  
+
+(e)  Reemployment(cid:190)Laid-Off Employee: An Employee who shall be 
+ 
+laid  off  from  the  Plant  and  who  thereafter  shall  be  employed  by  the 
+Company  in  another  seniority  unit  shall  not  be  deemed  to  have  beep 
+transferred for the purposes of this Section and Section 12 of this Article.  
+
+  
+  Section 14.  Seniority of Union 
+Officers  
+  
+ 
+(a)  Each member of the Grievance Committee and each Employee who 
+at  the  time  shall  be  the  President,  Vice-President,  Recording  Secretary, 
+
+  
+10.13.01 
+
+  
+10.13.02 
+
+  
+10.13.03 
+
+  
+10.13.04 
+
+  
+10.13.05 
+
+  
+10.13.06 
+
+  
+10.14.00 
+
+  
+10.14.01 
+
+at  the  time  shall  be  the  President,  Vice-President,  Recording  Secretary, 
+Financial Secretary and Treasurer of the Local or Locals of the Union at any 
+Plant shall, for their respective terms of office, have top seniority rights in the 
+area  within  the  Plant  which  they  represent  for  the  purposes  of  layoffs  in 
+connection with the decreasing of the working forces in such area; provided, 
+however, that a Grievance Committeeman or an officer of a Local of the Union 
+shall not be retained in the employ of the Company unless work which he can 
+perform is available in such area. Notwithstanding the provisions of any local 
+seniority agreement, retention at work in accordance with this Section shall not 
+enable any such Employee to claim relative seniority status in excess of that 
+which he otherwise would have had prior to such retention.  
+  
+ 
+(b)  Designated Union Officer:   At each Plant the District Director of the 
+Union shall designate in writing to the Superintendent of Labor Relations the 
+names of the Grievance Committeemen (not exceeding 10 at any Plant) who 
+shall have top seniority rights in accordance with the foregoing provisions of 
+this Section.  
+  
+(c)  Leave of Absence(cid:190)Union Officers: Any Employee having a length of 
+ 
+continuous  service  with  the  Company  of  one  year  or  more  who  shall  be 
+appointed or elected to an office in the Union at the Plant at which he shall be 
+employed, may, upon the written request of the Union, be granted a leave of 
+absence for a period of one year. By agreement of the Company and the Union, 
+such leave of absence may be extended or renewed for a further period of one 
+year  or  for  such  other  period  or  periods  as  shall  be  agreed  upon.  Such 
+Employee's  length  of  service  record  shall  be  computed  as  though  he  were 
+continuously employed by the Company during such leave of absence.  
+  
+ 
+Week  
+  
+
+Reduction of Work Force-32 Hr. 
+
+Section 15. 
+
+If, as a result of a decrease in work other than decreases which may occur 
+from day to day, the average scheduled hours of work of the Employees in a 
+seniority unit shall be reduced for a period of 2 consecutive weeks to less than 
+32 hours per week and in the judgment of the Management that level of work 
+will  continue  for  an  extended  period  of  time,  the  head  of  the  department 
+affected will discuss with the Grievance Committeeman in such department the 
+question  whether  a  decrease  of  the  working  force  shall  be  effected  in 
+accordance with the provisions of this Article or whether the available hours of 
+work shall be distributed among the Employees in such unit so far as shall be 
+practicable  with  due  regard  for  the  particular  skills  and  abilities  required  to 
+perform  the  work  available  there.  If  the  head  of  the  department  and  such 
+Grievance  Committeeman  shall  fail  to  agree,  the  working  force  in  such  unit 
+shall be reduced to an extent which shall be sufficient to enable the Employees 
+working there to average 32 hours of work per week.  
+  
+
+  
+10.14.02 
+
+  
+10.14.03 
+
+  
+10.15.00 
+
+  
+10.15.01 
+
+  
+
+Section 16. 
+
+Posting of Permanent Vacancies  
+
+ 
+  
+ 
+(a)  When a permanent vacancy in any job in a seniority unit shall occur 
+which is to be filled by promotion, the Management shall, so far as shall be 
+practicable, post a notice of such vacancy in the department for a period of 30 
+days.  
+  
+(b)  A  permanent  vacancy  on  an  entry  level  job  in  department-wide 
+ 
+competition  shall  be  brought  to  the  notice  of  all  Employees  within  the 
+department  in  accordance  with  administrative  rules  presently  in  effect  or  as 
+may  be  mutually  changed  by  Plant  Management  and  the  Grievance 
+Committee. Where necessary such notice shall be posted and, in any event, the 
+rules  developed  shall  insure  complete  and  adequate  notice  to  all  affected 
+Employees of (i) the vacancies and, subsequently, (ii) the Employees selected, 
+including their Plant continuous service dates.  
+  
+ 
+(c)  A permanent vacancy on an entry level job in Plant-wide competition 
+shall be posted on a Plant-wide basis in accordance with administrative rules 
+presently in effect or as may be mutually changed by Plant Management and 
+the Grievance Committee, as to location of posting, duration of posting period, 
+method  of  bidding,  period  for  selection,  notice  of  selection,  and  method  or 
+procedure for contesting a selection. Such rules shall require that (i) the notice 
+of vacancy posted shall indicate the department, job title, job class, estimated 
+number of Employees needed, date of posting, and the time and location where 
+bids can be filed for the vacancy involved, (ii) the bids shall be in writing, and 
+(iii)  the  subsequent  notice  of  the  prevailing  bidders  shall  indicate their Plant 
+continuous service dates.  
+  
+ 
+(d)  A  permanent  vacancy  may  be  filled  by  temporary  assignments  in 
+accordance  with  applicable  seniority  agreements  until  such  time  as  the 
+prevailing bidder is selected and assigned.  
+  
+(e)  The term entry level job -refers to the job or jobs in a seniority unit or 
+ 
+line  of  promotion  in  which  permanent  vacancies  remain  after  all  Employees 
+with incumbency status in such unit or line have exercised their promotional 
+and other seniority rights.  
+  
+ 
+(f)  An  employee  temporarily  held  for  more  than  30  days  from 
+assignment to any position to which he has successfully bid pursuant to the 
+provisions of Article X, Sections 12 and 16 of this Agreement, shall be paid 
+the  greater  of  the  earnings  applicable  to  the  job  he  is  performing  or  the 
+earnings applicable to the job to which he would otherwise be assigned to as a 
+result of his bid or transfer.  
+  
+ 
+  
+
+Section 17. 
+
+Seniority Lists  
+
+10.16.00 
+  
+10.16.01 
+
+  
+10.16.02 
+
+  
+10.16.03 
+
+  
+10.16.04 
+
+  
+10.16.05 
+
+  
+10.16.06 
+
+  
+10.17.00 
+  
+
+

@@ -1,0 +1,1938 @@
+Metadata header 
+
+This contract is provided by UC Berkeley's Institute of Industrial Relations Library (IIRL). The 
+information provided is for noncommercial educational use only. It may have been reformatted 
+from the original and some appendices or tables may be absent. Note that subsequent 
+changes, revisions, and corrections may apply to this document.             
+
+For more information about the IIR Union Contracts Project, contact:
+Lincoln Cushing, lcushing@library.berkeley.edu
+
+21
+
+Language English
+
+Country United States
+
+State MI
+
+IDnum
+
+Union
+
+Local Fraternal Order of Police Lodge 141
+
+Police and detectives 
+
+ Occupations Represented
+
+Bargaining Agency Michigan State University
+Agency industrial classification (NAICS):
+92 (Public Administration)
+
+BeginYear 2000
+
+EndYear 2003
+
+Source
+
+http://www.hr.msu.edu/Docweb/contracts/default.htm
+
+Original_format PDF (unitary)
+
+Notes
+
+Contact
+
+Full text contract begins on following page.
+
+TABLE OF CONTENTS 
+
+ARTICLE PARAGRAPH PAGE 
+
+ 
+
+ 
+Preface 1 1 
+Agreement 3 1 
+1 Recognition of the Lodge 4 1 
+2 Management Rights 8 2 
+3 Management Security 11 3 
+4 Lodge Security and Checkoff 13 3 
+5 Lodge Bargaining Committee 27 6 
+6 Probationary Period 29 6 
+7 Grievance Procedure 30 7 
+8 Discharge and Discipline 45 10 
+9 Special Meetings 55 12 
+10 Seniority 58 13 
+11 Layoff and Recall 61 14 
+12 Loss of Seniority 72 15 
+13 Scheduling 73 16 
+14 Vacation Leave 80 18 
+15 Personal Leave Time 90 19 
+16 Overtime 97 20 
+ARTICLE PARAGRAPH PAGE 
+17 Holidays/Special Pass Days 113 23 
+18 Longevity Pay 119 24 
+19 Health-Dental Care Coverage 126 26 
+20 Employee Paid Life Plan 128 26 
+21 Sick Leave 130 27 
+22 Medical Dispute 142 28 
+23 Funeral Leave 143 29 
+24 Leave for Lodge Conferences or Conventions 148 30 
+25 Death Benefit Insurance 150 30 
+26 Extended Disability Plan 153 31 
+27 Long-Term Disability Plan 155 31 
+28 Retirement Benefits 161 32 
+29 Uniforms 167 33 
+30 Automobiles and Equipment 170 33 
+31 Liability Insurance 173 34 
+32 Educational Assistance 175 34 
+33 Wages 182 37 
+34 Savings Clause 187 38 
+35 Terms of this Agreement 188 38 
+Memorandum of Understanding 40 
+Index 43 
+ 
+
+PREFACE 
+
+-1 Michigan State University and Lodge 141 of the Fraternal Order of Police recognize 
+their moral and legal responsibilities under federal, state, and local laws relating to fair 
+employment and affirmative action practices. 
+ 
+-2 The University and the Lodge recognize the moral principles involved in the area of 
+civil rights and have reaffirmed in their Collective Bargaining Agreement their 
+commitment not to discriminate because of race, religion, color, sex, age or national 
+origin. Wherever personal pronouns are used in this Agreement, it shall be understood 
+that the gender is neuter. 
+ 
+
+AGREEMENT 
+
+ 
+-3 This Agreement is entered into this First day of July, 2000, between the Michigan 
+State University, hereinafter referred to as the "Employer" and Lodge No. 141, of the 
+Fraternal Order of Police, Michigan State University Division, hereinafter referred to as 
+the "Lodge." It is the intent and purpose of this Agreement to assure sound and mutually 
+beneficial working and economic relationships between the parties hereto, to provide an 
+orderly and peaceful means of resolving any misunderstandings or differences which may 
+arise, and to set forth herein the basic agreement between the parties concerning rates of 
+pay, wages, hours of employment and other conditions of employment. 
+ 
+
+ARTICLE 1 
+
+RECOGNITION OF THE LODGE 
+
+ 
+A. Recognition 
+ 
+-4 Pursuant to and in accordance with all applicable provisions of Act No. 379 of the 
+Public Acts of the State of Michigan of 1965 as amended, the Employer hereby grants 
+sole and exclusive recognition to the Lodge for the purpose of collective bargaining for 
+all employees covered by the bargaining unit. 
+ 
+B. Definition of the Bargaining Unit 
+ 
+-5 The Bargaining Unit consists of all regular, full-time sworn employees of the 
+Department of Police and Public Safety (Protective Services) whose positions are 
+classified as Police Officers V through I and Sergeants V through I. All other employees 
+in this department are excluded from recognition in this bargaining unit such as 
+employees in positions classified as Director, Assistant Chief, Deputy Chief, Captain, 
+Lieutenant, Crossing Guard, Student, Clerical Personnel and full-time parking 
+enforcement personnel. 
+ 
+C. Notification 
+ 
+-6 The Lodge will furnish to the Director of Employee Relations in writing within thirty 
+(30) days of the signing of this Agreement, a list of officers of the Lodge and shall within 
+thirty (30) days of any change in said list, advise the Director of Employee Relations in 
+
+writing of such changes. 
+ 
+-7 In the event of a change in the departmental rank structure, the change will not affect 
+the membership of the bargaining unit. 
+ 
+
+ARTICLE 2 
+
+MANAGEMENT RIGHTS 
+
+ 
+-8 The Lodge recognizes that the Employer reserves and retains, solely and exclusively, 
+all rights to manage and direct its work force and to manage and operate the Employer's 
+affairs. 
+ 
+-9 All rights, functions, powers and authority which the Employer has not specifically 
+abridged, delegated or modified by this Agreement are recognized by the Lodge as being 
+retained by the Employer. 
+ 
+-10 The Employer shall have the right to amend, supplement or add to its rules and 
+regulations during the term of this Agreement, provided however, the Employer shall 
+notify the Lodge whenever possible of any such amendments, supplements or additions at 
+least fifteen (15) days in advance of their effective date. Such rules shall be reasonable 
+and shall relate to the proper performance of employee's duties and shall not be applied in 
+a discriminatory manner. Any rule or regulation may be discussed under the provisions of 
+Article 9 of this Agreement. A rule may be subject to the grievance procedure (Article 7) 
+only when it is applied to an employee of this bargaining unit in an unreasonable or 
+discriminatory manner. 
+ 
+
+ARTICLE 3 
+
+MANAGEMENT SECURITY 
+
+ 
+-11 The parties of this Agreement mutually recognize that the services performed by 
+employees covered by this Agreement are services essential to the public health, safety 
+and welfare. The Lodge, therefore, agrees that there shall be no interruption of these 
+services, for any cause whatsoever, by the employees it represents, nor shall there by any 
+concerted failure by them to report for duty, nor shall they absent themselves from their 
+work, stop work, or abstain in whole or in part from the full, faithful and proper 
+performance of the duties of their employment or picket the Employer's premises. The 
+Lodge further agrees that there shall be no strikes, sit-downs, slowdowns, stay-ins, 
+stoppages of work or any acts or other alterations of existing work performance patterns 
+that interfere in any manner or to any degree with the services of the University. 
+ 
+-12 Any violation of the foregoing shall be made the subject of disciplinary action or 
+discharge from employment as to employees, and/or of exercise of any legal right or 
+remedy as to the Lodge, and/or cancellation of the Agreement by the Employer, subject 
+to the provision of Article 8 of this contract. 
+ 
+
+ARTICLE 4 
+
+LODGE SECURITY AND CHECKOFF 
+
+ 
+-13 The Employer will not discriminate against any employee because of membership in 
+the Lodge. 
+ 
+A. Checkoff 
+ 
+-14 The Employer agrees to deduct from the regular monthly pay of each Lodge member 
+who has an executed Check-off Authorization Form on file, the Lodge's dues or service 
+charge for the following month subject to all of the following subsections. The Employer 
+shall have no responsibility for the collection of initiation fees and membership dues, or 
+service charges or any other assessments that are not in accordance with this Article. 
+ 
+-15 The Lodge's Check-off Authorization Form shall conform to the respective State and 
+Federal law(s) concerning that subject, or any interpretation(s) made thereof. 
+ 
+-16 The Lodge shall exclusively use and provide the Employer with Check-off 
+Authorization Forms as herein provided for: 
+VOLUNTARY CHECK-OFF AUTHORIZATION CAPITOL CITY LODGE 141 
+Print________________________________________________________________ 
+Last Name First Name Middle Initial 
+I certify that Capitol City Lodge 141, Fraternal Order of Police is my designated 
+collective bargaining representative and I hereby authorize and direct to my Employer 
+_____________________to deduct from my earnings during this month and each 
+successor month an amount determined by Capitol City Lodge 141 and request that this 
+amount be forwarded to the Treasurer of Capitol City Lodge 141. This authorization and 
+direction shall be irrevocable for the period of the joint bargaining agreement between 
+Lodge 141 and my Employer, and I agree and direct that this authorization and direction 
+shall be automatically renewed with each succeeding applicable joint bargaining 
+agreement between the Lodge and my Employer, unless written notice is given to the 
+Lodge and my Employer by me. 
+Date: ________________________ Signature _______________________ 
+ 
+-17 The Employer will present employees with check-off authorization cards at the time 
+of initial employment. If the employee chooses not to authorize payroll deduction at the 
+time the card is presented, the Employer will notify the Lodge. 
+ 
+-18 All Check-Off Authorization Forms shall be filed with the Employer's Payroll Office 
+who may return any incomplete, or incorrectly completed form to the Lodge's Treasurer, 
+and no checkoff shall be made until such deficiency is corrected. 
+ 
+-19 The Employer shall check off only obligations which come due at the time of 
+checkoff, and will make check-off deduction only if the employee has enough pay due to 
+cover such obligation, and will not be responsible for refund to the employee if he/she 
+has duplicated a check-off deduction by direct payment to the Lodge. 
+ 
+
+-20 The Employer's remittance will be deemed correct if the Lodge does not give written 
+notice to the Employer's Controller, within two (2) calendar weeks after a remittance is 
+sent, of its belief, with reason(s) stated therefore that the remittance is incorrect. 
+ 
+-21 The Lodge agrees to indemnify and save the Employer harmless against any and all 
+claims, suits or other forms of liability arising out of its deduction from employee's pay 
+of Lodge dues or service charge or in reliance on any list, notice, certification or 
+authorization furnished under this Article. The Lodge assumes full responsibility for the 
+disposition of the deductions so made, once they have been sent to the Lodge. The 
+Employer shall not be liable to the Lodge by reasons of the requirements of this 
+Agreement for the remittance or payment of any sum other than that constituting actual 
+deductions made from wages earned by employees. 
+ 
+B. Agency Shop Provision 
+ 
+-22 Employees covered by this Agreement at the time it becomes effective and who are 
+members of the Lodge at that time shall be required as a condition of continued 
+employment to continue membership in the Lodge for the duration of this Agreement. 
+ 
+-23 Employees hired, rehired, reinstated or transferred into the bargaining unit after the 
+effective date of this Agreement and covered by this Agreement shall be required as a 
+condition of continued employment to become members of the Lodge for the duration of 
+this Agreement on or before the 10th day after the 30th day following the beginning of 
+their employment in the unit or pay to the Lodge a sum equivalent to the initial fee and 
+membership dues as a charge for representation services. 
+ 
+-24 An employee who shall tender an initial fee (if not already a member) and the 
+periodical dues or a sum equivalent to the initial fee and periodical dues uniformly 
+required of all employees in the bargaining units that are represented by the Lodge shall 
+be determined to meet the conditions of this Section. 
+ 
+-25 Employees of the bargaining units that are represented by the Lodge shall be 
+determined to be in compliance with this Lodge security clause if they are not more than 
+60 days in arrears in payment of membership dues or the sum equivalent to membership 
+dues as a charge for representation services. The Employer shall be notified in writing by 
+the Lodge of any employees in the bargaining unit that are represented by the Lodge who 
+are 60 days in arrears in payment of the membership dues or the sum equivalent. 
+ 
+-26 The Lodge shall indemnify and save the Employer harmless from any and all claims, 
+demands, suits or any other action arising from this Article or from complying with any 
+request for termination under this Article. 
+ 
+
+ 
+-27 The bargaining committee of the Lodge will include not more than six (6) 
+
+ARTICLE 5 
+
+LODGE BARGAINING COMMITTEE 
+
+representatives. These representatives shall be composed of four (4) Lodge members of 
+the Michigan State University bargaining unit, and two (2) non-Michigan State 
+University employee representatives. No more than three (3) representatives will be on 
+duty during the day bargaining takes place. The Lodge will furnish the Office of 
+Employee Relations with a written list of the Lodge's bargaining committee, and any 
+alternates, prior to the first bargaining meeting, and substitution changes thereto, if 
+necessary. 
+ 
+-28 Employee members of the Lodge bargaining unit will be paid for the time spent in 
+negotiations with the Employer, including one-half (1/2) hour prior to and one-half (1/2) 
+hour after the bargaining meeting is over, but only for straight time hours they would 
+otherwise have worked, had they worked their regularly scheduled shift. If the employee 
+is scheduled to work on the day of a regularly scheduled bargaining session, the 
+employee will be credited with the number of hours spent in bargaining as time worked 
+during this tour of duty of that day. The time of the hours to be worked to complete 
+his/her normal tour of duty for that day will be determined by the employee's shift 
+supervisor. 
+ 
+
+ARTICLE 6 
+
+PROBATIONARY PERIOD 
+
+ 
+-29 When a new employee is hired in the unit, he/she shall be considered as a 
+probationary employee for the first twelve (12) months of his/her continuous, regular, 
+full-time employment. The probationary period may be extended by written notice to the 
+employee in cases where the regular probationary period was interrupted by medical 
+leave or any injury restricting regular duty of the employee. The period of extension shall 
+equal the period of the intervening impairment. In no event shall the extension exceed a 
+period of six (6) months. If any extension of probation occurs under this section, it should 
+not result in the delay of wage increments or other contract benefits. The Lodge shall 
+represent probationary employees for the purposes of collective bargaining in respect to 
+rates of pay, wages, hours of employment, and other conditions of employment, except 
+no matter concerning the discipline, layoff, or termination of a probationary employee 
+shall be subject to the grievance and arbitration procedures. For the first six (6) months of 
+the probationary period, assignment to overtime events for eligible employees shall be 
+with the sole discretion of the Assistant Chief or his/her designee. 
+ 
+
+ARTICLE 7 
+
+GRIEVANCE PROCEDURE 
+
+ 
+-30 Any employee having a dispute over the interpretation or application of the terms of 
+this agreement, shall present it to the Employer as follows: 
+A. Step I 
+ 
+-31 If any employee believes he/she has a problem in connection with his/her 
+employment, he/she shall discuss it with his/her immediate supervisor and/or other 
+appropriate superior within five (5) working days after the date the facts have occurred or 
+
+should have reasonably been known to occur. 
+ 
+B. Step II 
+ 
+-32 If the problem is not resolved by the immediate supervisor, the shift coordinator or an 
+officer of the Lodge must reduce the grievance to writing on the official grievance form 
+used by the Lodge and present it to the Director of Police and Public Safety or his/her 
+designee within five (5) working days after its alleged occurrence or oral discussion in 
+order to be a proper matter for the grievance procedure. A grievance shall be defined as a 
+written dispute concerning the interpretation, application, and alleged violation of any of 
+the terms of this agreement. The grievance shall be dated and signed by the aggrieved 
+employee and his/her shift coordinator or an officer of the Lodge and shall set forth the 
+facts including dates and provisions of the agreement that are alleged to have been 
+violated and the remedy desired. The grievance shall not be considered submitted until 
+the Director of Police and Public Safety or his/her designee receives the written 
+grievance. At the time it is received, it shall be dated and a copy returned to the aggrieved 
+employee. A meeting will be scheduled between the Director of Police and Public Safety 
+or his/her designee to discuss the grievance within five (5) working days from the day the 
+written grievance was received. 
+ 
+-33 A grievance may be withdrawn without prejudice, and, if so withdrawn, all financial 
+liabilities shall be canceled. If the grievance is reinstated, the financial liability shall date 
+only from the date of reinstatement. If the grievance is not reinstated within three (3) 
+months from the date of withdrawal, the grievance shall not be reinstated. Where one or 
+more grievances involve a similar issue, those grievances may be withdrawn without 
+prejudice pending the disposition of the appeal of a representative case. In such event the 
+withdrawal without prejudice will not affect financial liability. 
+ 
+-34 Unless the grievance is withdrawn as provided above, the Director of Police and 
+Public Safety or his/her designee will then answer the grievance in writing within five (5) 
+working days from the meeting at which the grievance was discussed. 
+ 
+-35 If the Employer requests that the aggrieved employee be present in any step or step of 
+the grievance procedure, he/she will be required to do so. 
+ 
+C. Step III 
+ 
+-36 If the answer from the Director of Police and Public Safety or his/her designee is not 
+satisfactory, the local division president or his/her designee shall submit his/her appeal 
+within five (5) working days of the receipt of the Step II answer to the Director of 
+Employee Relations or his/her representative indicating the reasons why the written 
+answer of the Director of Police and Public Safety or his/her designee was unsatisfactory. 
+A meeting between no more than three (3) representatives of the Lodge and three (3) 
+representatives of the Employer will be scheduled within five (5) working days from the 
+date the appeal is received by the Office of Employee Relations to discuss the grievance. 
+The Director of Employee Relations or his/her representative will then answer the 
+
+grievance in writing within ten (10) working days from the date of the meeting at which 
+the grievance was discussed. 
+ 
+-37 The Lodge representatives may meet, if on the Employer's property at a place 
+designated by the Employer, for at least one-half (1/2) hour preceding the meeting with 
+the representatives of the Employer for which a written request had been made. 
+ 
+-38 The local division President or his/her representative shall be allowed time off his/her 
+job without loss of pay to investigate a grievance he/she is to discuss or has discussed 
+with the Employer, upon having received permission from his/her supervisor to do so. 
+The supervisor will normally grant permission and provide sufficient time to the local 
+division President or his/her representative to leave his/her work for these purposes 
+subject to necessary emergency exceptions. The privilege of the local division President 
+leaving his/her work during working hours without loss of time or pay is subject to the 
+understanding that the time will be devoted to the proper handling of the grievances and 
+will not be abused; and the local division President or his/her representative will perform 
+his/her regularly assigned work at all times except when necessary to leave his/her work 
+to handle grievances as provided herein. Any alleged abuse by either party will be a 
+proper subject for a Special Meeting. 
+ 
+D. Step IV 
+ 
+-39 If the Office of Employee Relations' answer was unacceptable, settlement may be 
+determined by decision of an arbitrator selected by the parties. The Lodge President will 
+notify the Office of Employee Relations indicating why the Office of Employee 
+Relations' answer was not satisfactory. In the event the Lodge and the Office of 
+Employee Relations do not agree on an arbitrator within seven (7) working days, the 
+Lodge shall file a demand for arbitration with the American Arbitration Association 
+within five (5) working days of failing to mutually agree on an arbitrator who shall select 
+an arbitrator and the arbitrator shall establish a mutually acceptable hearing date. The fees 
+and approved expenses of an arbitrator will be paid by the parties equally. The rules of 
+AAA apply to all arbitration hearings. 
+ 
+-40 The arbitrator shall have no power to add to or subtract from or modify any of the 
+terms of this agreement nor shall he/she substitute his/her discretion for that of the 
+Employer or the Lodge where such discretion has been retained by the Employer or the 
+Lodge nor shall he/she exercise any responsibility or function of the Employer or the 
+Lodge. 
+ 
+-41 Finality of Decisions - There shall be no appeal from the arbitrator's decision. Such 
+decision shall be final and binding upon the Lodge and its members, the employee or the 
+employees involved and the Employer. 
+ 
+E. Time Limits 
+ 
+-42 When reference to working days is made, only weekdays, Monday through Friday 
+
+will be considered. Saturday, Sunday and holidays shall not be considered in these time 
+periods. Time limits set forth in this grievance procedure shall be strictly adhered to 
+unless time shall be extended by mutual written agreement of the parties. If the Lodge 
+requests an extension of the time limits in writing, the Employer will not unreasonably 
+deny such a request. 
+ 
+-43 If the Employer fails to schedule a meeting or answer the grievance within the 
+designated time limits, the grievance may be appealed to the next step of this grievance 
+procedure within five (5) working days of the date of the expiration of the applicable time 
+limit. 
+ 
+-44 If a grievance is not appealed within the applicable time limits after 
+
+a) receipt of the previous step answer, 
+b) failure to schedule a meeting, or 
+c) failure to answer the grievance, 
+
+the grievance shall be considered settled on the basis of the Employer's last answer and 
+not be subject to further review. 
+ 
+
+ARTICLE 8 
+
+DISCHARGE & DISCIPLINE 
+
+ 
+-45 Discipline is primarily the responsibility of the first line supervisor and is intended to 
+be a positive or developmental rather than a negative or punishing procedure. 
+ 
+-46 When positive measures fail and the Employer determines that punishment or 
+discharge is necessary, such punishment or discharge shall be imposed by the Director of 
+Police and Public Safety or his/her representative. 
+ 
+-47 The levels of punishment that the Employer may utilize include: oral reprimand, 
+written reprimand, suspension without pay for a period not to exceed thirty (30) days or 
+dismissal. 
+ 
+-48 In the event of disciplinary action other than oral reprimand, the employee involved 
+shall be provided, by the Employer at the time of the discipline, a complete written 
+statement of the charges against him/her, with a brief and concise statement of why this 
+action is being taken. The Lodge shall be provided with a copy of the discipline in a 
+timely fashion. 
+ 
+-49 The employee shall have the opportunity to meet with the Lodge representative 
+and/or Lodge Attorney at the time he/she receives notice of disciplinary action and the 
+Lodge representative and/or Lodge Attorney shall be present if so requested by the 
+employee at the time of the disciplinary action. Only one representative shall serve as a 
+spokesperson during the proceedings. 
+ 
+-50 Should the employee feel that such punishment or discharge is unjust, he/she may 
+have the option of pursuing the challenge to the discipline through the utilization of an 
+
+Appeal Board or the Grievance Procedure in accordance with Step III and IV set forth in 
+Article 7. This election must be made in writing by the employee to the Director of Police 
+and Public Safety within three (3) working days after being advised on the punishment 
+imposed and must include a statement as to whether the Grievance Procedure or the 
+Appeal Board process has been selected. If the employee elects the Appeal Board 
+process, the Director of Police and Public Safety shall refer the matter to the Appeal 
+Board, and the employee, by making the election for an Appeal Board, permanently 
+waives the right to pursue the matter through the Grievance Procedure and agrees to be 
+bound by the Appeal Board's decision. 
+
+ 
+a) The Appeal Board shall consist of three (3) members. One member shall be a 
+representative of the Employer and one member shall be a representative of the Lodge. 
+The third member shall be an independent third person not affiliated with the Department 
+or the Lodge. The members of the Appeal Board herein described shall be selected in the 
+following manner: 
+
+ 
+
+b) The Appeal Board shall be scheduled within three (3) days, for the purpose of 
+reviewing the disciplinary action, and shall render its disposition on the matter in writing 
+within three (3) days, following the Appeal Board meeting. 
+ 
+
+c) After a disciplinary matter has been referred to the Appeal Board, it may not be 
+
+1) Employer Representative: The names of all Employer Representatives 
+shall be placed in a box and the Employer shall draw therefrom five (5) names. 
+Once the names of the Employer Representatives have been drawn, the 
+disciplined employee, or his/her designated representative, shall strike four (4) of 
+the five names from the list. The remaining named representative shall be the 
+Employer's Representative on the Appeal Board. 
+
+2) Employee Representative: The names of all Employee Representatives 
+
+shall be placed in a box and the disciplined employee, or his/her designated 
+representative, shall draw therefrom five (5) names. Once the names of the 
+Employee Representatives have been drawn, the Employer shall strike four (4) 
+names from the list. The remaining named representative shall be the Employee's 
+Representative on the Appeal Board. 
+
+3) Independent Representative: The names of Independent 
+
+Representatives, taken from a list of previously agreed upon members established 
+by mutual agreement of the University and the Lodge, shall then be placed in a 
+box and a name is to be drawn therefrom by either an Employer Representative or 
+a Lodge Representative. The named person drawn will serve as the third member 
+of the Appeal Board. Determination as to whether the Employer or the employee 
+will draw the name of the Independent Representative for the first Appeal Board 
+Proceeding under this system will be determined by a flip of a coin. Thereafter, 
+the parties will alternate the right to draw a name for each Appeal Board. In the 
+event the list of Independent Representatives has not been finalized by the time 
+the first Appeal Board is to commence, a special meeting shall be called under the 
+Special Meetings section of this Agreement, to finalize the list. The list shall have 
+at least seven (7) names. 
+
+withdrawn by either party except by mutual consent. 
+ 
+
+d) When the membership of the Appeal Board is established, each member and 
+
+the Appellant will be provided with copies of the following, three (3) days prior to the 
+scheduled hearings: 
+
+1) statement of charges; 
+2) investigative reports; 
+3) any existing report of the matter prepared by the Appellant. 
+
+ 
+
+e) The Appellant shall be entitled to be represented by an attorney of his/her 
+
+choice at the Appeal Board and shall be given an opportunity to cross-examine witnesses 
+of the Employer and call witnesses of his/her own. The Appeal Board shall be closed to 
+the general public. 
+ 
+-51 Whenever a criminal charge or charges are preferred by a warrant against an 
+employee, it shall be the prerogative of the Employer to suspend the employee without 
+prejudice and without pay until the charges, if any, within the criminal justice system are 
+concluded. 
+ 
+-52 While it is considered that an employee who is charged in the criminal justice system 
+with violation of a criminal act should be suspended without pay until final determination 
+of the case, an exception may be made if the Director or his/her designee shall conclude 
+that the charge appears flimsy and fanciful with strong probability of innocence, in which 
+event he/she will authorize alteration in suspension to one with pay. 
+ 
+-53 Acquittal of disciplinary charges entitles the employee to back pay at regular rate for 
+the time of his/her suspension without pay minus any compensation derived from the 
+Employer (for example, but not limited to unemployment insurance payments) and any 
+compensation derived from other sources during time periods which would have been 
+occupied by scheduled employment with the Employer had the employee not been 
+suspended or dismissed. 
+ 
+-54 A record of oral reprimand shall remain in the employee's Official Personnel 
+Folder(s) for a period of up to six (6) months. Other disciplinary actions shall remain in 
+the employee's Official Personnel Folder(s) for a period of up to twenty-four (24) 
+months. 
+ 
+
+ARTICLE 9 
+
+SPECIAL MEETINGS 
+
+ 
+-55 The Employer and the Lodge agree to meet and confer on matters of clarification of 
+the terms of this Agreement upon the written request of either party. The written request 
+shall be made in advance and shall include an agenda stating the nature of the matters to 
+be discussed and the reason(s) for requesting the meeting. Discussion shall be limited to 
+matters set forth in the agenda, but it is understood that these special meetings shall not 
+be for the purpose of conducting continuing collective bargaining negotiations, nor to in 
+
+any way modify, add to, or detract from the provisions of this Agreement. Special 
+meetings shall be held within ten (10) calendar days of the receipt of the written request 
+and shall be held between 8 a.m. and 5 p.m. at a time and place which is mutually 
+agreeable to the parties. Each party shall be represented by not more than four (4) persons 
+at special meetings. 
+ 
+-56 The Lodge representatives may meet, if on the Employer's property at a place 
+designated by the Employer, for a period not to exceed one-half (1/2) hour immediately 
+preceding a meeting for which a written request has been made. 
+ 
+-57 Employee representatives of the Lodge at special meetings will be paid by the 
+Employer for time spent in special meetings, but only for the straight time hours they 
+would otherwise have worked on their regular work schedule. 
+ 
+
+ARTICLE 10 
+SENIORITY 
+
+ 
+A. Definitions 
+ 
+-58 University Seniority - Length of continuous employment starting with original date of 
+hire with the Employer, including periods of authorized leaves of absence and layoffs 
+consistent with other articles of this Agreement. This date shall be used for benefit 
+purposes. 
+ 
+-59 Unit Seniority 
+ 
+
+a) Police Officer: Total length of employment from date sworn as a Police 
+
+Officer. 
+ 
+B. Seniority Lists 
+ 
+-60 Management shall maintain a roster of employees, arranged according to unit 
+seniority, showing name, position, class, and seniority date, and shall furnish a copy to 
+the Lodge in March of each year. 
+ 
+
+ARTICLE 11 
+
+LAYOFF AND RECALL 
+
+ 
+A. Definition 
+ 
+-61 Layoff shall mean the separation of employees from the active work force due to lack 
+of work or funds or to abolition of positions because of changes in organization. 
+ 
+B. Order of Layoff 
+ 
+-62 No permanent or probationary employee shall be laid off from his/her position in the 
+
+Department of Police and Public Safety while any seasonal, temporary or provisional 
+employees are serving in the same position class in that Department. 
+ 
+-63 Except as provided below, the layoff of probationary or permanent employees in the 
+Department of Police and Public Safety shall be in inverse order of seniority. 
+ 
+C. Demotion in Lieu of Layoff 
+ 
+-64 Except as provided below, an employee subject to layoff who so requests, shall in 
+lieu of layoff, be demoted by seniority to a lower position in the Department of Police 
+and Public Safety. Demotion shall be through those classes in which the employee 
+previously held permanent status, provided that an employee serving a probationary 
+period shall not displace a permanent employee in a class in which he/she has not 
+previously held permanent status. 
+ 
+D. Notice of Layoff 
+ 
+-65 Employees to be laid off shall be given at least twenty-one calendar days prior notice. 
+ 
+E. Preferred Eligibility Lists 
+ 
+-66 Employees demoted in lieu of layoff shall have their names placed on preferred 
+eligible lists in order of seniority for each class from which displaced within the 
+Department of Police and Public Safety. Employees laid off shall have their names placed 
+on preferred eligible lists in order of seniority for each class from which displaced. 
+ 
+-67 Names shall remain on the lists for six (6) months or the length of their seniority 
+whichever is greater for those employees demoted, unless removed as provided below. 
+An employee who is laid off will have his/her name remain on the list for a period of time 
+equal to his/her seniority at the time of his/her layoff or two (2) years whichever is lesser. 
+Employees shall be recalled from layoff or shall be restored to positions from which 
+demoted in the Department of Police and Public Safety before any other persons are 
+selected for employment or promotion in those classes. 
+ 
+-68 Employees to be recalled from layoff shall be given a minimum of ten (10) calendar 
+days to respond after notice has been sent by certified mail to their last known address. 
+ 
+-69 Employees who decline recall or who in absence of extenuating circumstances, fail to 
+respond as directed within the times allowed, shall be presumed to have resigned and 
+their names shall be removed from seniority and preferred eligibility lists. 
+ 
+G. Restoration to Positions from which Demoted 
+ 
+-70 Employees to be restored to positions from which they had been demoted in lieu of 
+layoff shall be given three (3) calendar days in which to accept. Names of those who 
+decline shall be removed from the pertinent preferred eligibility lists. 
+
+ 
+H. Other Provisions 
+ 
+-71 Employment by the Department of Police and Public Safety of temporary, auxiliary, 
+or reserve personnel shall be limited to duties normally performed by students, and may 
+only be supplemental to, and shall not replace members of the bargaining unit. 
+ 
+
+ARTICLE 12 
+
+LOSS OF SENIORITY 
+
+ 
+-72 An employee shall lose his/her status as an employee and his/her University and unit 
+seniority if: 
+
+a) He/She resigns or quits. 
+b) He/She is discharged or terminated and not reinstated. 
+c) He/She retires. 
+d) He/She does not return to work from layoff within ten (10) calendar days after 
+
+being notified to return by certified or registered mail or by telegram addressed to the 
+employee at his/her last address filed with the Office of Human Resource Services. An 
+employee who changes addresses must notify the Employer of the change. 
+
+e) He/She has been on layoff for a period of time equal to his/her unit seniority at 
+
+the time of his layoff or two (2) years, whichever is lesser. 
+
+f) He/She is absent from work, including the failure to return to work at the 
+
+expiration of a leave of absence, vacation, or disciplinary layoff, for three (3) consecutive 
+working days without notifying the Employer, except when the failure to notify and work 
+is due to circumstances beyond the control of the employee. 
+ 
+
+ARTICLE 13 
+SCHEDULING 
+
+ 
+A. Definition 
+ 
+-73 Because Police Officers and Sergeants are required to work regardless of calendar 
+weekends, i.e., Saturdays and Sundays, the Employer schedules days off in lieu thereof 
+and refers to those days as "Pass Days." 
+ 
+B. Scheduling 
+ 
+-74 The use of Pass Days, pursuant to Article 16, Section A, Paragraph 97, a & b, may be 
+requested and may be taken subject to management direction or approval. 
+ 
+-75 Overtime and call-back time shall be authorized by management. A regular scheduled 
+shift shall be posted once each month to determine the normal workday for every member 
+of the bargaining unit. 
+ 
+C. Schedule Deviation 
+ 
+
+-76 For patrol personnel excepting investigative and task force personnel, if there is a 
+deviation from the normal work scheduled, a five (5) days notice shall be given. If a five 
+(5) days notice is not given, those hours worked outside of the posted schedule shall be 
+paid at the rate of time and one-half. 
+ 
+D. Changing 
+ 
+-77 Employees covered hereby, may change a pass day after the schedule has been 
+posted, if they receive permission from the Platoon Supervisor(s) of the shift(s) involved. 
+ 
+E. Trading Shifts 
+ 
+-78 Employees of the bargaining unit may trade shifts with another employee of equal 
+rank, subject to the approval of management, providing the change does not cause the 
+payment of overtime. Management approval shall not be unreasonably withheld. Notice 
+of the requested trade must be submitted by the affected employees at least 28 days in 
+advance of the effective date of the shift period affected by the trade. The duration of the 
+trade will be for the entire shift period. Disputes arising under this provision shall be 
+reduced to a grievance beginning at Step 2 of the grievance procedure. If a Step 3 
+meeting is thereafter required, the Office of Employee Relations will respond to the 
+grievance at this meeting. The Lodge will decide whether to arbitrate the dispute and the 
+parties will select the arbitrator the same day. The dispute shall be submitted to 
+immediate expedited binding arbitration with a bench decision being rendered by the 
+arbitrator the same day of the arbitration hearing.  
+ 
+F. Officer in Charge 
+ 
+-79 An Officer designated as the “Officer in Charge” will be compensated for the time 
+spent in this capacity at his/her regular rate of pay as well as an additional rate as outlined 
+in the following chart: 
+Time spent as “Officer in Charge” Additional Rate 
+Less than two hours None. 
+2-4 hours One-half (1/2) hour at the rate of time and one-half (1 ½) the officer’s regular 
+rate of pay. 
+More than 4 hours One (1) hour at the rate of time and onehalf (1 ½) the officer’s regular 
+rate of pay. 
+ 
+
+ 
+-80 Effective July 1 of each year employees will accumulate vacation in a lump sum 
+according to the following schedule based upon total service months. 
+Date of Hire through 60 months - 12 days (96 hours) 
+61st month through 120 months - 18 days (144 hours) 
+121st month and beyond - 24 days (192 hours) 
+New employees must complete 6 months of service prior to utilization of leave accrual. 
+
+ARTICLE 14 
+
+VACATION LEAVE 
+
+ 
+-81 New employees whose service dates do not correspond to July 1 and who will 
+progress from one level to the next for accrual purposes during the fiscal year shall 
+receive their annual accrual adjusted accordingly. 
+ 
+-82 If an employee terminates or is placed on an unpaid leave of absence, the vacation 
+accrual will be adjusted accordingly and will be reflected in the last paycheck, if 
+necessary. 
+ 
+-83 Vacation accrual is not cumulative and must be taken by June 30th of each year, 
+except that employees will be allowed to carry over to the next year amounts to the 
+maximum shown below: 
+12th month through 60th month 24 hours carry-over 
+61st month through 120th month 36 hours carry-over 
+121st month and beyond 45 hours carry-over 
+In no event will an employee be allowed to carry over amounts in excess of the above 
+credits. 
+ 
+-84 Vacation will not accrue during an approved leave of absence without pay, while on 
+regular Workers’ Compensation, during an extended military leave of absence, during a 
+terminal vacation period, in excess of Special Maximum Accrual, nor while on layoff. 
+ 
+-85 An employee's vacation pay will be based on his/her base rate of pay. 
+ 
+-86 If a University designated holiday falls within an employee's vacation, the employee 
+will be paid for the holiday and will not be charged for vacation that day. When an 
+employee terminates, he/she shall be paid for any unused vacation, but shall not be paid 
+for a University designated holiday which may fall within the terminal vacation period 
+except in the case of transition into University Retirement. 
+ 
+-87 An approved leave of absence for military service will not be counted as a break in 
+the employee's service record when determining his/her vacation allowance under the 
+progressive vacation plan. All other leaves of absence will be considered a break in an 
+employee's service record in determining vacation allowances. 
+ 
+-88 Vacation leaves shall be granted to employees covered hereby, by management of the 
+Department and such vacations will be granted at such times as they least interfere with 
+the efficient operation of the department. Vacation requests must be made by February 28 
+preceding the period required. Officers are granted vacation in accordance with a first 
+come, first serve basis. 
+ 
+-89 If any employee experiences illness or accident during his/her vacation and is 
+hospitalized or presents a physician’s statement satisfactory to the Employer that he/she 
+was under the care of a physician, he/she may submit an amended Report of Absence 
+charging the vacation credits to his/her sick leave account. 
+ 
+
+ 
+-90 Personal leave time, with pay, shall be granted annually to each full-time, regular 
+employee on the payroll as of July 1, for the purpose of attending to, of caring for, 
+personal matters during the course of the fiscal year commencing on such date. Effective 
+July 1 of each year employees will accumulate personal leave time in a lump sum 
+according to the following schedule: 
+Employment date prior to 7/1/84 Employment date after 7/1/84 
+64 hours 24 hours 
+ 
+-91 The forty (40) hour Personal Leave time adjustment is the former compensatory week 
+as identified and transferred from the Memorandum of Understanding. 
+ 
+-92 It is expressly understood that officers employed after 7/1/84 shall be eligible only for 
+24 hours of Personal Leave time. 
+ 
+-93 Personal leave time credited to each full-time, continuous employee shall be utilized 
+and charged to that employee in increments of not less than one (1) full hour. The 
+employee shall obtain the approval of his/her Supervisor prior to utilizing any portion of 
+accrued personal leave time. 
+ 
+-94 No carry-over of unused personal leave time from one fiscal year to another shall be 
+allowed. Employees may, however, be compensated, upon request, prior to July 31st of 
+each year for not more than forty (40) hours of personal leave time not used during the 
+previous fiscal year. Such compensation must be requested by March 31 each year and 
+will be at an employee's straight hourly rate as calculated at the close of the fiscal year. 
+An employee terminating prior to January 1, shall only be eligible for one-half (1/2) of 
+the annual personal leave accrual, to be adjusted on the employee's final payroll check. 
+No portion of the regular 24 hours granted to all employees shall be reimbursable. 
+ 
+-95 An employee may opt to have forty (40) hours of personal leave time (formerly 
+compensatory time) added to their base salary on a one-time basis. The compensation 
+shall be on the basis of a straight-time, hourly rate x forty (40) hours added to the base 
+rate. Any option exercised under this paragraph is an irrevocable decision and constitutes 
+a buy-out for the employee. 
+ 
+-96 The forty (40) hours of personal leave (formerly compensatory time) granted to 
+employees who were employed prior to July 1, 1984, shall not be subject to negotiations 
+without the approval of a majority of those employees receiving the benefit. 
+ 
+
+ARTICLE 16 
+OVERTIME 
+
+ARTICLE 15 
+
+PERSONAL LEAVE TIME 
+
+ 
+A. Definitions 
+ 
+
+-97 a) Normal Work Cycle - A normal work cycle for regular full-time Police Officers 
+and Sergeants shall consist of a twenty-eight (28) day cycle of one hundred sixty (160) 
+hours with no more than eight (8) hours per day, not including meals. Eight (8) pass days 
+are granted within every twenty-eight (28) day work cycle for a total of one hundred four 
+(104) pass days each year. There will be no less than two pass days granted consecutively 
+unless requested by the employee and approved by the Employer. 
+ 
+
+b) Normal Work Week - A normal work week for regular full-time Service 
+
+Officers shall consist of a seven (7) day cycle of forty (40) hours with no more than eight 
+hours per day, not including meals. Two (2) pass days are granted within each seven (7) 
+day cycle for a total of one hundred four (104) pass days each year. There will be no less 
+than two (2) pass days granted consecutively unless requested by the employee and 
+approved by the Employer. 
+ 
+
+c) Normal Work Day - A normal work day for regular full-time employees shall 
+
+be eight (8) hours, unless regularly scheduled otherwise, not including meal periods. 
+-98 On-Call - The term "on-call" means that situation where an off-duty employee is 
+officially advised by a designated representative that he/she should be prepared to return 
+to duty. The employee being so informed shall then remain at home, or at a location no 
+further from his/her home to the station and which is made known to the department, and 
+be in full control of his/her faculties if ordered to return to duty. The on-call status will be 
+terminated by a return telephone call to the individuals placed on call. Employees who 
+are placed on an on-call status shall be credited at the rate of one-half (1/2) hour 
+compensatory time for each hour or portion of an hour they remain on the on-call status. 
+On-call compensations shall not apply to those employees assigned to task forces and/or 
+investigations. 
+ 
+B. Overtime 
+ 
+-99 Hours worked by employees covered hereby for purposes as determined by 
+management in excess of the normal tour of duty shall be compensated as described in 
+Sections C, D, and E below. 
+ 
+C. Time and One-Half the Straight Hourly Rate 
+ 
+-100 Any routine of two (2) hours or less that is an extension of the employee's normal 
+work day shall be compensated at the one-and-one-half rate. Examples of such work 
+include, but are not limited to, complaint investigations, follow-up investigations, etc. 
+ 
+-101 All hours worked during an emergency situation as declared by the Director or 
+his/her designee. (Example: Riots, demonstrations, on and off Campus; tornados and 
+tornado warnings; power failures; snowstorms; floods, or any other declared emergency.) 
+ 
+
+a) In those situations where an employee is called back and where he/she has not 
+
+been notified in advance and the call-back is not continuous with his/her regular work 
+period, the employee shall receive not less than three (3) hours pay at the time and one-
+
+half rate. 
+ 
+
+b) In those situations where an employee is required by the Employer to remain at 
+
+the University because of an emergency situation, the employee shall receive time and 
+one-half compensation for the time he/she is required to remain at the University. 
+ 
+-102 Routinely scheduled events such as Officers' and Supervisory meetings, 
+qualification shoots, training sessions and other Special Events such as football, 
+basketball, registrations, etc., shall be compensated for at the rate of time and one-half for 
+only the actual time the officer is required to be in attendance or work. 
+ 
+-103 Those individuals designated by the department to instruct in recruit schools or 
+other duly authorized training sessions, while off duty, shall be compensated at the rate of 
+time and one-half for only the actual time they are scheduled to instruct, unless 
+reimbursement is provided to the individual by the training agency. 
+ 
+-104 Officers subpoenaed or directed into court including Probate Court and official 
+hearings, during offduty hours shall be compensated at the rate of time and one-half their 
+regular hourly rate for the time they actually spend in court. Officers regularly scheduled 
+for first platoon or night jump shift slated to appear within twelve (12) hours after their 
+shift is due to terminate, shall receive a three (3) hour minimum overtime guarantee; all 
+other officers shall receive a two (2) hour minimum overtime guarantee. Where witness 
+fees are provided, such fees shall be submitted to the Employer. 
+ 
+-105 Officers scheduled to work overtime shall be given a minimum four (4) hours 
+notification if the overtime event is to be canceled. If less than four (4) hours notice is 
+given, the Officer shall be paid one (1) hour at the rate of time and one-half. Notice will 
+be considered given with verification that the department attempted to call to give the 
+four (4) hours notice. 
+ 
+D. Time and One-Half Compensatory Time Rate or Time and One-Half Straight Hourly 
+Rate 
+ 
+-106 All hours worked due to call-back immediately preceding the employee's normal 
+work day for only such time actually worked. 
+ 
+-107 Employees who are required to obtain complaints and warrants and validate 
+complaints while off duty shall be compensated at the rate of time and one-half for a 
+minimum of two (2) hours. Note Paragraph -101. However in those instances where an 
+officer is required to obtain complaints and warrants and validate complaints immediately 
+preceding or following his/her tour of duty, he/she shall be compensated at the rate of 
+time and one-half for only the actual time worked.  
+ 
+-108 Officers may request time and one-half compensatory time in lieu of time and one-
+half pay for overtime hours worked as listed under Section C. These requests must be 
+made through the Deputy Chief or his/her designee and are subject to his or her 
+
+designee's approval. 
+ 
+E. Other Provisions 
+ 
+-109 No compensation shall be provided for time necessitated by the employee's 
+negligence. 
+ 
+F. Approval of Overtime 
+ 
+-110 All overtime shall be authorized by that shift supervisor who is in charge of the 
+department during the period of time when the overtime is actually worked or the 
+individual officer's immediate supervisor, except under those conditions as described in 
+this Article, Paragraph -100. 
+ 
+-111 The individual officer's immediate supervisor shall have the responsibility of 
+communicating the overtime authorized to the shift supervisor who is in charge of the 
+department during the period when the overtime is actually worked. 
+ 
+G. Pyramiding 
+ 
+-112 Payment for overtime, call-back time, and court appearances (paragraph 104) shall 
+not be duplicated for the same hours worked as heretofore provided. 
+ARTICLE 17 
+HOLIDAYS/SPECIAL PASS DAYS 
+ 
+-113 The following holidays (special pass days) are designated by the Employer as: New 
+Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, the day 
+following Thanksgiving Day, Christmas Day, the day before or after Christmas Day, and 
+the day before or after New Year's Day which are considered separately each year. 
+ 
+-114 Whenever one of these holidays falls on a Saturday and the employee does not work 
+on this day or on a scheduled day off in the employee's work week and no other day is 
+observed as a holiday by the Employer, the employee will receive an additional day off 
+with pay, the time to be arranged with management. Whenever one of the above holidays 
+falls on Sunday, the following Monday shall be observed as the designated holiday, 
+except for the day before or after Christmas Day and the day before or after New Year's 
+which shall be considered separately each year. 
+ 
+-115 There will be no holiday pay when: 
+
+a) An employee is absent on the working day immediately preceding or 
+
+immediately following the holiday, unless his/her absence is excused. 
+
+b) The employee is on leave of absence without pay, on layoff, or Regular 
+
+c) A holiday falls during a vacation period preceding termination (except when an 
+
+Workers’Compensation. 
+
+employee is retiring). 
+ 
+
+ARTICLE 18 
+
+LONGEVITY PAY 
+
+-116 If the employee works on a University designated holiday as set forth in paragraph 
+113, he/she shall be paid double time for all hours worked and in addition thereto, be 
+granted a "special pass day" to be scheduled at another time. 
+ 
+-117 When a University designated holiday falls on a Monday or Friday, employees not 
+scheduled to work that holiday shall also be scheduled off for the weekend which 
+immediately precedes or follows the holiday itself to the extent practicable as determined 
+by the Shift Commander. 
+ 
+-118 An employee who is on vacation or sickness and disability leave with pay when a 
+holiday occurs will be paid for the holiday and no charge will be made against accrued 
+vacation or sick leave credits. 
+ 
+
+ 
+-119 All regular full-time employees of the Employer shall be entitled to receive 
+longevity pay for length of continuous service with the Employer according to the 
+following rules and schedule of payment. 
+ 
+-120 Longevity Year - The longevity year is defined as the twelve month period 
+beginning October 1 of each year and ending September 30. For longevity payment 
+purposes only, a year of continuous full-time service is defined as any longevity year in 
+which the employee is actively employed for at least 39 calendar weeks (273 calendar 
+days). 
+ 
+-121 Longevity pay shall be computed as a percentage of the employee's annual base rate 
+of pay, but not to exceed the schedule. Base rate of pay shall be that rate which an 
+employee is being paid on September 1 prior to payment. If an employee is not on the 
+payroll as of September 1, the rate to be used will be the rate upon his/her return. Base 
+rate of pay shall not include overtime or premium pay. 
+ 
+-122 Initial Eligibility - The last date of hire as a full-time employee will be used as the 
+normal longevity date. To qualify for the first longevity payment, an employee must have 
+completed six years of full-time continuous service as of October 1 of any year. To 
+qualify for initial eligibility, the employee must have been on active full-time 
+employment for a least 39 calendar week (273 calendar days) for six consecutive years 
+and an employee on October 1. Periods of active full-time employment of less than 39 
+calendar weeks will be counted toward the employee's years of continuous service. 
+ 
+-123 Continuing Eligibility - After establishing initial eligibility employees must be 
+actively employed fulltime for 39 calendar weeks (273 calendar days) during the 
+longevity year and an employee as of October 1 to receive the longevity payment on 
+December 1. Periods of active employment of less than 39 calendar weeks, while not 
+qualifying the employee for payment of longevity, shall be counted toward the 
+employee's years of continuous service. 
+
+ 
+-124 Payments to employees who are eligible each October 1 will be paid on December 
+1. No longevity payment as shown in the schedule following shall be made for that 
+portion of an employee's regular wage which is in excess of $9,500. 
+ 
+-125 Longevity Pay Schedule: 
+Continuous Service Annual Percentage 
+6 or more and less than 10 years 2% of annual wage 
+10 or more and less than 14 years 3% of annual wage 
+14 or more and less than 18 years 4% of annual wage 
+18 or more and less than 22 years 5% of annual wage 
+22 or more and less than 26 years 6% of annual wage 
+26 or more years 8% of annual wage 
+
+ 
+
+ARTICLE 19 
+
+HEALTH-DENTAL CARE COVERAGE 
+
+ 
+-126 If coverage is desired, full-time regular employees may enroll for health insurance 
+coverage within sixty (60) days of their employment date. The employee can select either 
+Blue Cross/Blue Shield, Blue Care Network or Physicians Health Plan. Upon the 
+establishment of eligibility and enrollment for the health care coverage selected by the 
+regular, full-time employee, the Employer will contribute toward the monthly premium 
+costs as follows: 
+ 
+
+a) The Employer will pay the full amount of the single subscriber rate regardless 
+
+of the medical plan selected. 
+ 
+
+b) The Employer's contribution to the applicable total premium cost of two-party 
+
+or family coverage for the Blue Cross/Blue Shield programs will be equal to that 
+provided to Administrative-Professional employees. The family contribution amount may 
+also be applied to the monthly premium cost of either two-party or family coverage under 
+Blue Care Network or Physicians Health Plan. 
+ 
+-127 Regular full-time employees are provided a dental program. 
+ 
+
+ARTICLE 20 
+
+EMPLOYEE PAID LIFE PLAN 
+
+ 
+-128 If coverage is desired, the University will make available to regular full-time 
+employees a group life plan. The plan is entirely funded from employee premiums, and 
+rates are subject to future group experience. The coverage is decreasing term with no 
+cash or loan value. Employees may select coverage under one option: either salary 
+indexed or fixed benefit. 
+ 
+-129 Participation in the plan is optional. However, if enrollment does not take place 
+within 60 days of employment, the employee forfeits the right to participate at a later 
+
+time without submitting satisfactory evidence of insurability. 
+ 
+
+ARTICLE 21 
+SICK LEAVE 
+
+ 
+-130 Full-time employees accrue leave credits at the rate of four (4) hours for each two 
+(2) weeks of service. Employees may use sick leave after they have completed their first 
+month of service. Maximum accrual is 1,200 hours. 
+ 
+-131 Sick leave shall be available for use by employees for the following purposes: 
+ 
+
+a) Acute personal illness or incapacity over which the employee has no reasonable 
+
+control. 
+ 
+
+b) Absence from work because of exposure to contagious disease which, 
+
+according to public health standards, would constitute a danger to the health of others by 
+the employee's attendance at work. Should any employee of the bargaining unit be 
+quarantined because of exposure to contagious disease during the course of his/her 
+employment, he/she shall not lose sick leave. 
+ 
+
+c) Medical and dental care to the extent of time required to complete such 
+
+appointments when it is not possible to arrange such appointments for non-duty hours. 
+ 
+-132 All employees shall accumulate sick leave from the date they are hired. 
+ 
+-133 A regular full-time employee with ninety (90) days of continuous service who 
+suffers injury compensable under the Workers’ Compensation Act shall continue to 
+receive his/her regular rate for time lost during the first seven (7) days not covered by the 
+Workers’ Compensation Act provided he/she follows the instructions of the University 
+Physician, and provided he/she returns to work not later than the time recommended by 
+the University Physician. Following the first seven (7) days, such employee shall be paid 
+the difference between his/her regular wages and payment received under provisions of 
+the Act, to be deducted from accumulated sick leave until his/her sick leave is exhausted. 
+Should an employee recover sufficiently to return to work, the University will attempt to 
+reassign the employee a job based upon his/her work abilities, experience and 
+qualifications. 
+ 
+-134 Employees who have exhausted their sick leave credit and are still unable to return 
+to work may, as an option, continue to receive their pay by using their accrued vacation 
+credit. 
+ 
+-135 Employees who are laid off shall have available any unused sick leave previously 
+earned, effective at the time they are recalled. 
+ 
+-136 Employees who leave to enter the Armed Services of the United States under 
+provisions of the Selective Service Act, who are members of the Armed Forces and are 
+
+called to active duty, who enlist in the Armed Forces during a declared national 
+emergency shall, upon reemployment by the Employer, have available any unused sick 
+leave previously earned; provided that such reemployment takes place within ninety (90) 
+days after discharge or release from active duty in the Armed Forces. 
+ 
+-137 An employee using sick leave during a period that includes a scheduled holiday will 
+be paid for the holiday. He/She cannot be paid for both on the same day, nor will he/she 
+be charged for a day of sick leave. 
+ 
+-138 Each Supervisor shall be responsible for reviewing employee requests for sick leave 
+and determining their validity, and may request a statement from a personal physician 
+concerning his/her disability. 
+ 
+-139 All payments for sick leave shall be made at the employee's base rate of pay. 
+ 
+-140 An employee may use accrued sick leave credits not to exceed twenty-four (24) 
+hours in a fiscal year for the illness of a member of the immediate family. An additional 
+sixteen (16) hours may be used for the care of dependent children who are ill. The total 
+number of hours shall not exceed forty (40). 
+ 
+-141 The Employer, for cause, may direct an employee to go on sick leave. 
+ 
+
+ARTICLE 22 
+
+MEDICAL DISPUTE 
+
+ 
+-142 In the event of a dispute involving any employee's physical ability to perform 
+his/her job on his/her return to work at the University from a layoff or leave of absence of 
+any kind and the employee is not satisfied with the determination of the University's 
+physician, he/she may submit a report from a medical doctor of his/her own choosing and 
+at his/her own expense. If the dispute still exists, at the request of the Lodge, the 
+University's physician and the employee's doctor shall agree upon a third medical doctor 
+to submit a report to the Employer and the employee, and the decision of such third party 
+will be binding on both parties. The expense of the report of the third party shall be 
+shared equally by the Employer and the employee. 
+ 
+
+ARTICLE 23 
+
+FUNERAL LEAVE 
+
+ 
+-143 If death occurs among members of an employee's immediate family, the employee 
+will be excused from work to attend the funeral and make other necessary arrangements 
+without loss of pay from the day of death until the day after the funeral (including both 
+the day of the death and the day after the funeral). Employees will be paid for the number 
+of scheduled working days excused up to a maximum of three (3) days). 
+ 
+-144 Definition of the Employee’s Immediate Family – The employee’s immediate 
+family shall be interpreted as including spouse, child, stepchild, parents, legal guardian, 
+
+sister, brother, brother-in-law, sister-in-law, father-in-law, mother-in-law, daughter-in-
+law, son-in-law, grandparents, grandparents-inlaw, grandchild, stepparents, half brother, 
+half sister, stepbrother, stepsister, and same-sex domestic partner as provided for in the 
+Board of Trustee resolution dated September 8, 1997. 
+ 
+-145 One day, the day of the funeral, is allowed in the case of the death of an employee's 
+or spouse's uncle, aunt, nephew, or niece. (For the purpose of this article, "aunt" shall 
+include the uncle's wife and "uncle" shall include the aunt's husband.). 
+ 
+-146 Permission will be granted to a reasonable number of employees in a unit who wish 
+to attend the funeral of a fellow employee or former employee, provided they return to 
+work after the funeral. Employees who serve as pallbearers at a funeral of a fellow 
+employee or former employee will be paid during the time they must be off the job. 
+ 
+-147 If scheduling permits, permission will be granted to a maximum of two (2) on-duty 
+employees for one (1) regularly scheduled day, utilizing a department vehicle if available, 
+to attend the funeral of a police officer killed in the line of duty anywhere in the State of 
+Michigan. 
+ 
+
+ARTICLE 24 
+
+LEAVE FOR LODGE CONFERENCES OR CONVENTIONS 
+
+ 
+-148 The Employer will grant leaves of absence with pay to Lodge members of the 
+bargaining unit of the Fraternal Order of Police for the following functions: 
+ 
+
+a) Two (2) persons for five (5) days every other calendar year to attend FOP 
+
+national meetings. Two (2) pass days will be granted at the beginning and two (2) pass 
+days at the end of the requested period, upon request. 
+ 
+
+b) Two (2) persons for three (3) days to attend the FOP State of Michigan meeting 
+
+each calendar year. One (1) pass day will be granted at the beginning and one (1) pass 
+day at the end of the requested period, upon request. 
+ 
+-149 Requests for such leave shall be filed in writing with the Director of Police and 
+Public Safety, or his representative, by the 5th day of the month preceding the month in 
+which the leave is desired. 
+ 
+
+ARTICLE 25 
+
+DEATH BENEFIT INSURANCE (EXPANDED LIFE PLAN) 
+
+ 
+-150 Effective January 1, 1989, the Employer will provide, at no employee cost, a fully 
+paid life plan to all regular full-time employees at the time of hire. 
+ 
+-151 This program will provide a life insurance benefit in the case of death of an eligible 
+employee on active duty status (including leaves of absence of 180 days or less) equal to 
+one year's annual base salary or wage (i.e., basic hourly rate times 2080). Accrued sick 
+
+leave, vacation, personal leave, and longevity pay are included in the expanded life 
+insurance payment; they are not in addition to it. 
+ 
+-152 The employee may designate a beneficiary if desired; if none is designated the 
+expanded life insurance benefit payment will be made to the beneficiary under the 
+Employee Paid Life Program if enrolled; otherwise payment will be made in a lump sum 
+to the estate. 
+ 
+
+ARTICLE 26 
+
+EXTENDED DISABILITY PLAN 
+
+ 
+-153 Eligibility - Regular full-time employees with at least five (5) years of continuous 
+full-time employment are eligible for extended disability leave. 
+ 
+-154 Usage - In cases which are expected to result in total disability (as defined in LTD 
+master contract), eligible employees will be granted extended disability leave with full 
+pay and benefits for up to six months or until all accruals are exhausted, whichever 
+occurs later. This leave will include the aggregate of accumulated sick leave, vacation 
+and personal time to the extent these benefits are due the employee. The total aggregate 
+of all paid leaves, when used for total disability will specifically end in six (6) months or 
+when the total aggregate of all paid leaves is exhausted, whichever occurs later. 
+ 
+
+ARTICLE 27 
+
+LONG-TERM DISABILITY PLAN 
+
+ 
+-155 A University-paid Long-Term Disability plan will be provided for all regular full-
+time employees. 
+ 
+-156 After a 180 day disability waiting period, the Long-Term Disability program 
+provides for a continuation of the monthly wage equal to 60% of the monthly base salary, 
+up to a maximum monthly benefit of $3,000 (including any offsets stipulated in the 
+master contract, e.g. benefits from social security or Workers’ Compensation). The Long-
+Term Disability program includes a 3% cost of living rider and a $50 per month 
+minimum benefit. 
+ 
+-157 The Long-Term Disability program also pays the employee's 5% contribution and 
+the University's 10% contribution to the TIAA-CREF retirement program or other 
+retirement program made available through the University that is selected by the 
+employee. 
+ 
+-158 If disability commences at or prior to age 60, benefits are payable under this 
+program to age 65. If the disability commences after age 60, benefits are payable for five 
+years or to age 70, whichever is sooner. When LTD benefits cease as described above, 
+the employee may begin to receive his/her retirement annuity. 
+ 
+-159 At the University's expense, a disabled employee may continue to participate in the 
+
+ARTICLE 28 
+
+RETIREMENT BENEFITS 
+
+basic group life and health care and dental programs, if the employee is not on the active 
+payroll. 
+ 
+-160 The employee should contact the Benefits Office for information on Long-Term 
+Disability benefits as soon as it appears that he/she may be off work for 180 days or 
+more. 
+ 
+
+ 
+-161 Complete details concerning the provision of the University's retirement plan 
+applicable to this bargaining unit are outlined in a brochure which may be obtained from 
+the Benefits office. The plan shall be available to members of the bargaining unit upon 
+employment and participation will be compulsory for employees who have attained age 
+thirty-five (35) and have two (2) years of service. 
+ 
+-162 Mandatory Age - Termination or retirement shall be compulsory on the first day of 
+the month following attainment of age 70. 
+ 
+-163 University Retirement Defined - University retirement shall be defined as 1) 
+attainment of age 62 with 15 years of continuous full-time employment, or 2) at any age 
+with 25 years of continuous full-time employment. 
+ 
+-164 An employee who retires under the definition in paragraph 163 shall be paid for 
+fifty (50) percent of his/her unused sick leave, but not to exceed a maximum of fifty (50) 
+percent of one thousand two hundred (1,200) hours, as of the effective date of separation. 
+ 
+-165 An employee who does not meet the definition of University Retirement in 
+paragraph 161 but has at least five (5) years, but less than ten (10) years of continuous 
+service and has attained 65 years of age at the time of his/her separation shall be paid 
+fifty (50) percent of his/her unused sick leave as of the effective date of separation. An 
+employee who does not meet the definition of University Retirement in paragraph 162 
+but has at least ten (10) years of continuous service and has attained 65 years of age at the 
+time of his/her separation shall be paid one hundred (100) percent of his/her unused sick 
+leave as of the effective date of separation but not to exceed a maximum of one thousand 
+(1,000) hours unless he/she has received a University contribution to TIAA/CREF, in 
+which case he/she shall be paid as in paragraph 163. 
+ 
+-166 Prorated longevity payments shall be made to those employees who retire under the 
+definition of University Retirement in paragraph 163 prior to October first of any year. 
+This also applies to those employees not under the definition of University Retirement in 
+paragraph 163 but who are 65 years of age at the time of their separation. Such prorated 
+payments as indicated above shall be based on the number of calendar months of full-
+time service credited to an employee from the preceding October first to the date of 
+retirement or separation and shall be made as soon as practicable thereafter. 
+ 
+
+ARTICLE 29 
+UNIFORMS 
+
+ 
+-167 A. In the selection, procurement and issuance of uniforms, the Employer will give 
+due consideration to the items, numbers, materials and quality consistent with the needs, 
+use, function and responsibility of the officer. 
+ 
+B. The Employer will supply all police officers with “Uniform Boots.” These “Uniform 
+Boots” will be replaced by the Employer as needed consistent with the procedures for 
+replacement of other Employer supplied equipment. 
+ 
+-168 The University will be responsible for and pay for the dry cleaning of issued 
+uniforms. 
+ 
+-169 Officers assigned to the Investigations Section as investigators shall be allowed no 
+more than $500.00 to purchase clothing to be used in the performance of their duties. 
+Officers assigned as investigators to the Investigations Section shall also receive a 
+$100.00 allowance for dry cleaning. The cleaning and clothing allowances shall be 
+combined and paid quarterly in advance in increments of $150.00. If an employee leaves 
+or is reassigned, a pro-rata adjustment will be made for the advance payment. 
+ 
+
+ARTICLE 30 
+
+AUTOMOBILES AND EQUIPMENT 
+
+ 
+-170 In the procurement of motor vehicles for patrol purposes the Employer shall use best 
+efforts to secure automobiles and equipment of quality, design and construction 
+commensurate with the function and responsibility to be performed and reasonably 
+related to the safety of the officer involved. 
+ 
+-171 The Employer agrees to meet and confer with the Division President or his/her 
+designee regarding specifications for new vehicles for patrol use. 
+ 
+-172 At the time of fleet changeover, administrative vehicles will be placed, wherever 
+possible, into nonpatrol functions. 
+ 
+
+ARTICLE 31 
+
+LIABILITY INSURANCE 
+
+ 
+-173 It is the policy of the institution to support its officers, faculty and staff in the 
+performance of their official duties to support students and volunteers and when 
+performing services arising out of their employment with and under the direction or 
+approval of the University. The services and duties described herein include but are not 
+limited to participation in a wide range of University committees, panels and boards. 
+Should the above identified parties become involved in litigation because of such 
+activities, the University will assume their defense, provide legal counsel and satisfy 
+resulting judgments against them. 
+
+ 
+-174 Should the Employer fail to obtain the insurance coverage above set forth, it shall be 
+deemed by this contract to have become a self-insurer, and will protect said employees in 
+the same manner and on the same terms and conditions as if it had secured the liability 
+insurance coverage. 
+ 
+
+ARTICLE 32 
+
+EDUCATIONAL ASSISTANCE 
+
+ 
+-175 Full-time employees who meet the following provisions may apply for 
+reimbursement or tuition waiver for up to sixteen (16) credits per academic year, which 
+are job related or promote professional development, under the educational assistance 
+program: 
+ 
+A. Completion of 12 continuous full-time equivalent service months prior to the first day 
+that classes begin at the institution. 
+ 
+B.  
+administrator or designee and submission of Educational Assistance Application to 
+Human Resources 
+Development (HRD), five (5) working days prior to the first day classes begin at the 
+institution. 
+ 
+
+1. Reimbursement: Approval of the credit course(s) by the department 
+
+2. Waiver: Approval of the credit course(s) by the department administrator or 
+
+designee, and submission of the Educational Assistance Application to HRD thirty (30) 
+days prior to the enrollment billing date set by the Fees and Scholarships Office. 
+ 
+C. Completion of the credit course(s) at an accredited college or university with a 2.0 or 
+better grade. 
+ 
+-176 There shall be no released time from the work schedule to attend class. 
+ 
+-177 Reimbursement - To receive reimbursement, the employee shall submit evidence 
+that he/she has successfully completed the course to HRD. 
+ 
+-178 A. Reimbursement for the courses will be at the MSU per credit tuition rate not to 
+exceed sixteen (16) credits per academic year, plus the MSU matriculation fee where 
+applicable. 
+ 
+B. Tuition Waiver: 
+ 
+
+1. Bargaining unit members who are eligible for educational assistance shall be 
+
+eligible for a tuition waiver program. This tuition waiver program will be applicable only 
+to those MSU courses enrolled in through the University's oncampus enrollment 
+procedure. As a condition of tuition waiver, an employee must sign an agreement 
+authorizing payroll deduction for the amount of tuition waived to be used in the event 
+
+she/he does not successfully complete the course(s). 
+ 
+
+2. Employees interested in utilizing the tuition waiver program must submit their 
+educational assistance application complete with departmental approval to HRD 30 days 
+prior to the semester billing date set by the Fees and Scholarships office. The application 
+must be marked with a request for tuition waiver. 
+ 
+
+3. If the above timelines are met and the educational assistance application is 
+approved, HRD will forward a list of employees eligible for tuition waiver to the Fees 
+and Scholarship Office and to the Lodge. 
+ 
+
+4. Employees will be responsible for all charges in excess of the Matriculation 
+
+ 
+-182 Effective 7-1-2000, the base salary for Public Safety Officers in all pay grades and 
+for Sergeants in pay grades V, IV, III, and II shall increase by 3%. Effective 7-1-2000 the 
+base salary for Sergeants in pay grade I shall increase by 5%. 
+PO SGT 
+V $37,443 $40,542 
+IV 41,113 43,886 
+III 43,067 46,824 
+II 45,109 49,427 
+I 48,949 53,893 
+
+Fees and in excess of sixteen (16) credits per academic year. 
+ 
+
+5. Employees who have had their tuition waived will authorize HRD to verify 
+
+completion of approved courses with Enrollment Services upon application for waiver. In 
+cases where tuition waivers are withdrawn (e.g., terminated employee, non-approved 
+course, unsuccessful completion), the Union agrees that the University will payroll 
+deduct the waived tuition. 
+ 
+-179 If the employee is covered by benefits such as scholarships or fellowship aid, 
+government aid, G.I. bill benefits, or similar assistance, reimbursement will be made only 
+for that portion of the tuition fee which exceeds the amount of those benefits. Employees 
+are expected to seek compensation or reimbursement from non-University funds when 
+eligible and where conditions are equal to or better than University benefits. 
+ 
+-180 Educational assistance will terminate on the employee's last day of active 
+employment. An employee must complete a course as an active employee in order to 
+receive tuition reimbursement. 
+ 
+-181 Course Fee Courtesy Program - Employees with 60 continuous full-time equivalent 
+service months are eligible under the Course-Fee Courtesy Program as it is provided to 
+the faculty of the University. 
+ 
+
+ARTICLE 33 
+
+WAGES 
+
+ 
+-183 Effective 7-1-2001, the base salary for each employee in the bargaining unit will be 
+increased by 3%. 
+ 
+
+1. A one percent (1%) lump sum (not in the base) payment, of the July 2, 2001 
+
+base (hourly rate times 2080 hours) shall be made to all employees in the bargaining unit 
+on the payroll as of July 1, 2001 as a one-time payment. 
+PO SGT 
+V $38,566 $41,758 
+IV 42,346 45,203 
+III 44,359 48,229 
+II 46,462 50,910 
+I 50,417 55,510 
+ 
+-184 Effective 7-1-2002, the base salary for each employee in the bargaining unit will be 
+increased by 1%. 
+PO SGT 
+V $38,952 $42,176 
+IV 42,769 45,655 
+III 44,803 48,711 
+II 46,927 51,419 
+I 50,921 56,065 
+ 
+-185 All officers who are assigned to regularly scheduled rotating shifts shall receive an 
+increase in shift differential of fifty dollars ($50.00) per month added to their monthly 
+salary. In the event the department develops and implements a fixed shift schedule, the 
+parties agree to negotiate the shift premium concept. 
+ 
+-186 This Agreement shall be effective from and after July 1, 2000, until and including 
+June 30, 2003, with respect to all provisions of this Agreement. 
+ 
+
+ARTICLE 34 
+
+SAVINGS CLAUSE 
+
+ 
+-187 If any provision of this Agreement, or any supplement thereto, is found invalid by 
+operation of law or by any board or court of competent jurisdiction, or if compliance with 
+or enforcement of any provision should be permanently restrained by any such court, the 
+remainder of this Agreement, and any supplements thereto, shall remain in full force and 
+effect, and the Employer and the Lodge at the request of either party, shall enter into 
+negotiations for the purpose of arriving at a mutually satisfactory replacement for such 
+provision or supplement. 
+ 
+
+ARTICLE 35 
+
+TERMS OF THIS AGREEMENT 
+
+ 
+-188 Ratification - The Employer's Negotiating Committee shall submit to, and shall 
+
+recommend that the University ratify this Agreement only after the Lodge submits this 
+Agreement to, and receives ratification by the employees within the bargaining unit, and 
+the Employer's Director of Employee Relations receives from the Lodge, written 
+notification thereof. 
+ 
+-189 Effective and Termination Dates - This Agreement shall become effective, subject 
+to the ratification process explained in paragraph 187 of this Article, on the 1st day of 
+July, 2000, and it shall continue in full force and effect until 11:59 p.m. on the 30th day 
+of June, 2003, and for successive annual periods thereafter unless, not more than one 
+hundred-eighty (180) days, but at least sixty (60) days prior to the end of its original term 
+or of any annual period thereafter, either party shall serve upon the other written notice 
+that it desires termination, revision, modification, alteration, renegotiation, change or 
+amendment, or any combination thereof, and such written notice shall have the effect of 
+terminating this Agreement in its entirety on the expiration date in the same manner as a 
+notice of a desire to terminate. 
+IN WITNESS WHEREOF THE PARTIES HAVE SET THEIR HANDS THIS 
+________________DAY OF ___________________________, 2001 
+FOR THE LODGE FOR THE EMPLOYER 
+ 
+
+MEMORANDUM OF UNDERSTANDING 
+
+ 
+In the agreement between Michigan State University, hereinafter referred to as the 
+"Employer" and Lodge 141, of the Fraternal Order of Police, Michigan State University 
+Division, hereinafter referred to as the "Lodge" and for the period commencing July 1, 
+1991, the parties further agree as follows: 
+ 
+A. The department will equip its full-marked sedan style patrol cars with: 
+
+1. Shotgun locks placed in the front seat of the vehicle. 
+2. Prisoner transport shields. 
+3. Flood light atop the vehicle. 
+4. Remote control outside rear-view mirror. 
+5. Rear window defrosters. 
+6. Patrol vehicles specifically outfitted to accommodate canines will be provided 
+
+with a canine transport cage. 
+ 
+B. Officers may arrange use of the Intramural Building facilities with that person 
+responsible for the building. Such arrangements shall be between the individual officer 
+and I.M. Building Management. 
+ 
+C. Any member of the negotiating committee who is unable to obtain sufficient sleep 
+between scheduled duty time due to negotiating, may request of the shift supervisor to be 
+excused from the shift, until sufficient sleep can be acquired at which time the employee 
+may be rescheduled to make up the time lost. 
+ 
+D. The University will grant the president or his/her designee of the Michigan State 
+University Division two (2) additional personal leave days per year to be used in 
+
+accordance with Article 15, paragraph 89 to attend to division business. 
+ 
+E. The University will grant the president or his/her designee of the Michigan State 
+University Division a total of ten (10) hours per calendar month non-cumulative to be 
+excused from duty with pay to be taken in increments of no less than one (1) hour to 
+attend to Lodge 141 business provided prior approval is obtained from their supervisor. 
+ 
+F. Any adjustments in the program or University contribution amounts for the 
+Administrative- Professional employees in the following Insurance and Benefit programs 
+during the term of this Agreement shall automatically be extended members of this 
+bargaining unit. 
+
+1. Health Care Coverage 
+2. Employee Paid Life Plan 
+3. Longevity 
+4. Expanded Life Plan 
+5. Long-Term Disability Plan 
+6. Base Retirement Program 
+7. Extended Disability Plan 
+8. Dental Program 
+
+ 
+G. Should the Employer provide Optical Insurance to any bargaining unit at Michigan 
+State University, that coverage shall be automatically extended to members of the Lodge. 
+ 
+H. Should the University, for whatever reason, deem it necessary to specify an off-duty 
+handgun, the University will issue such a gun. Should a sworn officer carry a handgun off 
+duty, the officer must carry a University issued two (2) inch handgun. However, an 
+officer may elect to carry his/her own handgun other than the department-issued handgun 
+if the following criteria are met: (1) the handgun must be a comparable caliber and must 
+be approved by the department; (2) the officer must qualify for training on his/her own 
+time; and (3) the officer must use his/her own ammunition which must be approved by 
+the department, unless their personal weapon chambers departmental ammunition. 
+ 
+I. Should the University provide Administrative-Professional employees with any 
+additional University designated holidays, not already described in Article 17, these 
+holidays shall be extended to the members of the Lodge. 
+ 
+J. When it becomes necessary to provide members of the bargaining unit with meals 
+because of the nature of their particular work assignment, the Employer shall compensate 
+employees for meals purchased, not to exceed 1/4 hour of the employee's overtime rate 
+for six (6) hours or more of overtime worked and an additional 1/4 hour at the employee's 
+overtime rate for ten (10) hours or more of overtime worked. 
+ 
+K. Employees who become parents of or who adopt a child shall be entitled to an unpaid 
+parental or adoption leave of up to three (3) months to commence on or before the date of 
+birth or the date of adoption, as determined by the employee. 
+ 
+
+L. An employee shall be granted a maternity leave of absence upon the submission of a 
+letter from a physician giving the projected delivery date. The Office of Human Resource 
+Services will not require further medical documentation covering absences for a 
+pregnancy when it occurs within a period of four weeks before the projected delivery date 
+and eight (8) weeks following the delivery date. Beyond these periods, a statement will 
+be required from the employee's physician stating the reasons for the requested leave 
+extension. Leaves associated with pregnancy may be either with or without pay, 
+depending on an employee's accumulated sick and/or vacation leave. 
+ 
+M. The Employer will pay a special clothing allowance of $300.00 to an employee who 
+officially notifies the Employer of pregnancy and remains on duty to within four weeks 
+of the projected delivery date. This payment will be made when the employee receives a 
+light duty assignment. Exceptions may be made to this provision for reasons acceptable 
+to the Employer. 
+FOR THE UNIVERSITY FOR THE UNION 
+__________________________ _______________________ 
+Samuel A. Baker Daniel Beachnau 
+Director, Employee Relations President, FOP 
+University Division 
+Date______________________ Date___________________ 
+This Memorandum of Understanding amended pursuant to negotiations in 1988. 
+Specifically, former paragraphs B and D were deleted, and the remaining paragraphs 
+were correctly, sequentially labeled. 
+This Memorandum of Understanding amended pursuant to negotiations in 1994/1995. 
+Specifically, reference to the Board of Trustees was deleted, and the cross reference in 
+paragraph E correctly labeled. 
+This Memorandum of Understanding amended pursuant to negotiations in 1997. 
+Specifically, former paragraph A was deleted, the remaining paragraphs were correctly, 
+sequentially labeled, and the special clothing allowance in paragraph M was increased to 
+$300.00. 
+ 
+
+INDEX 
+
+ 
+TOPIC PAGE 
+Accrual... ...............................................................................18, 27-28 
+Adoption Leave ......................................................................42 
+Agency Shop Provision ...........................................................5 
+Agreement ..............................................................................1, 38 
+Appeal Board .........................................................................10-12 
+Arbitration...............................................................................8-9 
+Automobiles and Equipment.....................................................33, 36 
+Bargaining Committee .................................................6 
+Call-back Time .......................................................................16, 22-23 
+Checkoff. ...............................................................................3-5 
+Clothing Allowance..................................................................33, 42 
+Compensatory Time ................................................................22 
+
+Compensation - Meals.................................................41 
+Course-Fee Courtesy Program....................................36 
+Death Benefit Insurance...........................................................30 
+Definitions 
+Definition of Bargaining Unit.....................................2 
+Employee's Immediate Family..............................................29 
+Layoff ...............................................................................14-15 
+Longevity Year ...................................................................24 
+Normal Work Cycle............................................................20 
+Normal Work Day..............................................................21 
+Normal Work Week ...........................................................21 
+On-Call...............................................................................21 
+Pass Days ...........................................................................16 
+Unit Seniority.......................................................................13 
+University Retirement ..........................................................32-33 
+University Seniority..................................................13 
+Dental Program.......................................................................26, 41 
+Disability Plan .............................................................31-32, 37 
+Discharge & Discipline.................................................10-12 
+Dues. . .... ...............................................................................3-5 
+Educational Assistance.................................................34-36 
+Employee Paid Life Plan . . .....................................................26 
+Emergency Situations...............................................................21-22 
+Equipment ...............................................................................33-34, 40 
+Expanded Life Plan..................................................................30, 41 
+Extended Disability Plan...........................................................31, 41 
+Funeral Leave..........................................................................29 
+TOPIC PAGE 
+Grievance Procedure 
+Step I, II ..............................................................................7-8 
+Step III ................................................................... ...........8 
+Step IV ...............................................................................8-9 
+Group Life Insurance...............................................................26, 41 
+Handgun.. ...............................................................................41 
+Holidays.. ...............................................................................23-24 
+Insurance 
+Adjustments .........................................................................40 
+Death Benefit Insurance........................................................30 
+Extended Disability Plan........................................................31, 41 
+Health Insurance ..................................................................26 
+Liability ...................................................................34 
+Long-Term Disability Plan.....................................................31-32 
+Retirement Benefits...............................................................32-33 
+Layoff & Recall.......................................................................14-15 
+Definition..............................................................................14 
+Order of Layoff....................................................................14 
+
+Demotion in Lieu of Layoff........................................14 
+Notice of Layoff...................................................................14 
+Preferred Eligibility Lists........................................................14-15 
+Recall from Layoff................................................................15 
+Restoration to Positions from which Demoted .......................15 
+Leave for Lodge Conferences or Conventions..............30 
+Liability Insurance....................................................................34 
+Life Insurance..........................................................................26 
+Lodge Bargaining Committee.......................................6 
+Lodge Security & Checkoff.....................................................3-5 
+Longevity Pay..............................................................24-25 
+Longevity Year........................................................................24 
+Initial Eligibility......................................................................25 
+Continuing Eligibility..................................................25 
+Long-Term Disability Plan........................................................31-32, 41 
+Management Rights ................................................................. 2 
+Management Security.................................................. ...........3 
+Mandatory Age .......................................................................32 
+Maternity Leave ......................................................................42 
+Medical Coverage ...................................................................26 
+Medical Dispute ......................................................................28 
+Memorandum of Understanding...............................................40-42 
+Military Leave .............................................................28 
+TOPIC . PAGE 
+Negotiations ............................................................................12,40 
+Notification...........................................................................2 
+On-call. ...............................................................................21 
+Overtime ..............................................................................16, 21 
+Emergency situations.................................................21-22 
+Scheduled events..................................................................22 
+Recruit schools .....................................................................22 
+Court hearings ......................................................................22 
+Officer in Charge .....................................................................17 
+Parental Leave.............................................................42 
+Pass Days ...............................................................................16 
+Personal Leave Time ...............................................................19-20, 40 
+Probationary Period ................................................................ 6 
+Pyramiding ..............................................................................23 
+Ratification..............................................................................38 
+Recognition of the Lodge .........................................................1-2 
+Reimbursement for Classes......................................................34-35 
+Reimbursement for Uniforms....................................................33 
+Released Time, President, Vice President.................................40 
+Reprimand...............................................................................10 
+Retirement Benefits..................................................................32-33 
+Savings Clause ............................................................38 
+
+Scheduling...............................................................................16-17 
+Seniority.. ...............................................................................13 
+Seniority Lists..............................................................13 
+Seniority, Loss of.....................................................................15-16 
+Shift Differential . . . . . . . . . . . . . . . . . . . . .. . ..............38........ 
+Sick Leave ..............................................................................27-28 
+Special Meetings .....................................................................12-13 
+Special Pass Days ...................................................................23-24 
+Terms of This Agreement.........................................................38 
+Time and One-Half Straight Hourly Rate..................................22 
+Time and One-Half Compensatory Time Rate..............22 
+Uniforms . ...............................................................................33 
+Unit Seniority...........................................................................13 
+University Retirement Defined......................................32 
+University Seniority..................................................................13 
+Vacation Accrual.....................................................................18 
+Vacation Leave .......................................................................17-18 
+Wages .... ...............................................................................37-38 
+Workers’ Compensation..........................................................24, 27 
+ 
+
+

@@ -1,0 +1,3993 @@
+Metadata header 
+
+This contract is provided by UC Berkeley's Institute of Industrial Relations Library (IIRL). The 
+information provided is for noncommercial educational use only. It may have been reformatted 
+from the original and some appendices or tables may be absent. Note that subsequent 
+changes, revisions, and corrections may apply to this document.             
+
+For more information about the IIR Union Contracts Project, contact:
+Lincoln Cushing, lcushing@library.berkeley.edu
+
+IDnum
+
+3
+
+Language English
+
+Country United States
+
+State MI
+
+Union AFSCME (American Federation of State, County and Municipal Employees) AFL-CIO
+
+Local Local 1585
+
+Multiple occupations represented
+
+ Occupations Represented
+
+Bargaining Agency Michigan State University
+Agency industrial classification (NAICS):
+61 (Educational Services)
+
+BeginYear 1999
+
+EndYear 2002
+
+Source
+
+http://www.hr.msu.edu/Docweb/contracts/default.htm
+
+Original_format MS Word (unitary)
+
+Notes
+
+Contact
+
+Full text contract begins on following page.
+
+ 
+Agreement between  
+MICHIGAN STATE UNIVERSITY  
+and  
+LOCAL UNION NO. 1585,AFSCME, AFL-CIO  
+   
+
+August 1, 1999 - July 31, 2002  
+
+ 
+
+Preface  
+
+Agreement  
+
+Purpose and Intent  
+
+Rights of the Employer  
+
+Aid to Other Unions  
+
+UNION  
+
+Recognition  
+Union Security - Req. of Union Membership  
+Union Dues, Initiation Fees and Service Charges  
+Representation Districts  
+Stewards & Alternate Stewards  
+Union Bulletin Boards 
+
+UNION SECURITY  
+
+Seniority  
+Seniority Lists  
+Loss of Seniority  
+Seniority of Officers 
+
+GRIEVANCE  
+
+Grievance Procedure - General Conditions  
+Presenting a Grievance  
+Computation of Back Wages  
+
+LAYOFFS  
+
+Reprimand, Suspension or Discharge  
+Special Conferences  
+Medical Dispute 
+
+Temporary Layoffs  
+Layoffs  
+Recall Procedure  
+Work Opportunity for Laid-Off Employees 
+
+LEAVES OF ABSENCE  
+
+Absences  
+
+Paid  
+
+Holidays  
+Vacations  
+Personal Leave Hours  
+Sick Leave  
+Funeral Leave  
+Jury Duty  
+Union Release Time 
+
+Equalization of Overtime Hours  
+Longevity Pay  
+Health Care Coverage  (Recently questions have arisen relating to the Health 
+Plan language of the Local 1585 AFSCME contract.  Click here to view a 
+document advising you of the current Health Plan options available to you.)  
+Dental Program  
+Disability Plans  
+
+Non-Paid  
+
+Unpaid Leaves  
+Military Leave  
+Educational Leave of Absence for Veterans  
+General Conditions 
+
+PROMOTIONS &TRANSFERS  
+
+Filling of Vacancies  
+Transfers 
+
+COMPENSATION & WAGES  
+
+Classifications  
+Wage Rate Increase Plan  
+Red Circle Rates  
+Working Hours  
+Time-and-One-Half in Specific Areas of Work 
+
+BENEFIT PROGRAMS  
+
+RETIREMENT  
+
+Retirement Benefits 
+ADDITIONAL ARTICLES  
+
+Employee-Paid Life Program  
+Death Benefit (Expanded Life Insurance) 
+
+Educational Assistance  
+Supervision Working  
+Student Labor  
+Safety Committee  
+Agreement Copies  
+Supplemental Agreements  
+Maintenance of Conditions  
+Special Provisions  
+Savings Clause  
+Contract Documents  
+Ratification  
+Modification  
+Effective Date  
+Appendix I - Local 1585 AFSCME Classification and Level Schedule  
+Appendix II  
+Appendix III  
+Appendix IV  
+Appendix V  
+Appendix VI  
+Appendix VII  
+Appendix VIII - Definitions 
+
+ 
+
+ 
+PREFACE  
+
+-1 The Board of Trustees of Michigan State University and AFSCME Local 1585 
+recognize their moral and legal responsibilities under federal, state, and local laws.  
+
+- 2 The University and the Union recognize the moral principles involved in the area of 
+civil rights, fair employment practices and affirmative action, and have reaffirmed in their 
+Collective Bargaining Agreement their commitment not to discriminate because of race, 
+creed, color, sex, age, marital status, handicap, sexual preference, political affiliation, or 
+national origin.  
+
+AGREEMENT  
+
+-3 This Agreement, entered into this seventeenth day of September 1999 between 
+Michigan State University, (hereinafter referred to as the "EMPLOYER"), and AFSCME 
+Local Union No. 1585, Council 25, AFL-CIO, (hereinafter referred to as the "UNION").  
+
+ARTICLE 1 - PURPOSE AND INTENT  
+
+-4 The general purpose of this Agreement is to set forth terms and conditions of 
+employment, and to promote orderly and peaceful labor relations for the mutual interest 
+of the Employer, the Employees and the Union.  
+
+-5 The parties recognize that the interest of the Employer and the job security of the 
+employees depend upon the Employer's success in establishing a proper service to the 
+State.  
+
+-6 The Employer and the Union will encourage to the fullest degree friendly and 
+cooperative relations between the respective representatives at all levels and among all 
+employees.  
+
+-7 Accordingly, the officials representing the Employer and the Union will from time to 
+time during the life of this Agreement, at the request of either and the mutual 
+convenience of both, meet for the purpose of appraising the problems which have 
+arisen in the application, administration and interpretation of this Agreement and which 
+may be interfering with the attainment of their joint objective as set forth above. Such 
+meeting shall not be for the purpose of settling grievances nor for conducting continuing 
+collective bargaining negotiations, nor to in any way modify, add to, or detract from the 
+provisions of this Agreement.  
+
+ARTICLE 2 - RIGHTS OF THE EMPLOYER  
+
+-8 The Employer reserves and retains, solely and exclusively, all rights to manage and 
+direct its work forces, except as expressly abridged by the provisions of this Agreement, 
+including by way of illustration but not limitation, the determination of policies, 
+operations, assignments, schedules, discipline, and layoff, for the orderly and efficient 
+operation of the University.  
+
+ARTICLE 3 - AID TO OTHER UNIONS  
+
+-9 The Employer will not aid, promote or finance any labor group or organization which 
+purports to engage in collective bargaining or make any agreement with any such group 
+or organization for the purpose of undermining the Union.  
+
+ARTICLE 4 - RECOGNITION  
+
+A. Employees Covered  
+
+-10 Pursuant to and in accordance with all applicable provisions of Act 379 of the Public 
+Acts of 1965, as amended, the Employer does hereby recognize the Union as the 
+exclusive representative for the purpose of collective bargaining in respect to rates of 
+pay, wages, hours of employment, and other conditions of employment for the term of 
+this Agreement of all employees of the Employer including part-time employees, in the 
+following seniority units, excluding executive, administrative, academic, students, 
+supervisory, professional, technical, clerical personnel, and those employees in other 
+recognized bargaining units.  
+
+B. Seniority Units  
+
+-11 The seniority units shall be:  
+
+Agriculture and Natural Resources, College of  
+Campus Park and Planning, Division of  
+*Clinical Center  
+*Cyclotron  
+Housing & Food Services, Division of  
+Human Ecology, College of  
+Human Medicine, College of  
+Instructional Media Center and Office of Special Programs  
+Intercollegiate Athletics, Department of  
+Natural Science, College of  
+Osteopathic Medicine, College of  
+Physical Plant, Division of  
+Public Safety, Department of  
+**Theatre Department  
+University Health Center  
+University Laboratory Animal Resources  
+University Services and Continuing Education, Divisions of  
+Veterinary Medicine, College of  
+
+*This Unit shall be a separate seniority unit and shall be represented by the Chief 
+Steward (or in his/her absence by the Local President).  
+
+**The addition of this unit shall not change the practice of assignment of the setup crew.  
+
+ARTICLE 5 - UNION SECURITY - REQUIREMENTS OF UNION MEMBERSHIP  
+
+-12 To the extent allowed by the laws of the State of Michigan, it is agreed that:  
+
+a. Employees covered by this Agreement at the time it becomes effective and 
+who are members of the Union at that time shall be required as a condition of 
+continued employment to continue membership in the union for the duration of 
+this Agreement.  
+
+b. Employees covered by this Agreement who are not members of the Union at 
+the time it becomes effective shall be required as a condition of continued 
+employment to become members of the Union for the duration of this Agreement 
+on or before the first (1st) day after the thirtieth (30th) day following such 
+effective date, or pay to the Union a sum equivalent to the initiation fee and 
+membership dues as a charge for representation services.  
+
+c. Employees hired, rehired, reinstated or transferred into the bargaining unit 
+after the effective date of this Agreement and covered by this Agreement shall 
+be required as a condition of continued employment to become members of the 
+Union for the duration of this Agreement on or before the first (1st) day after the 
+thirtieth (30th) day following the beginning of their employment in the unit or pay 
+to the Union a sum equivalent to the initiation fee and membership dues as a 
+charge for representation services.  
+
+d. An employee who shall tender an initiation fee (if not already a member) and 
+the periodic dues, or a sum equivalent to the initiation fee and periodic dues, 
+uniformly required of all employees in the seniority units that are represented by 
+the Union, shall be deemed to meet the conditions of this section.  
+
+e. Employees of the seniority units that are represented by the Union shall be 
+deemed to be in compliance with this Union Security Clause if they are not more 
+than sixty (60) days in arrears in payment of membership dues or the sum 
+equivalent to membership dues as a charge for representation services.  
+
+f. The Employer shall be notified in writing, by the Union, of any employees in 
+the seniority units that are represented by the Union who are sixty (60) days in 
+arrears in payments of membership dues, or the sum equivalent.  
+
+g. The Union shall indemnify and save the Employer harmless from any and all 
+claims, demands, suits, or any other action arising from this Article, or from 
+complying with any request for termination under this Article. 
+
+ARTICLE 6 - UNION DUES, INITIATION FEES AND SERVICE CHARGES  
+
+A. Payment by Checkoff or Direct to Union  
+
+-13 The Employer will check off initiation fees and biweekly dues, or service charges, on 
+the basis of individually signed voluntary checkoff authorization cards in forms that have 
+been furnished by the Union. (The Union will request a Special Conference over its 
+intent to change the content of the authorization cards.) Employees may tender the 
+initiation fee uniformly required as a condition of acquiring membership in the Union and 
+biweekly membership dues, or service charges, by signing the proper authorization. The 
+Employer will present employees with checkoff authorization cards at the time of initial 
+employment within the bargaining unit. If the employee chooses not to authorize payroll 
+deduction at the time the card is presented, the Employer will notify the Union and 
+identify the employee and department where he/she is employed.  
+
+B. Employer Responsibility for Deductions  
+
+-14 The Employer shall have no responsibility for the collection of initiation fees and 
+membership dues, or service charges or any other assessments that are not in 
+accordance with the Union Security Clause of the Agreement.  
+
+C. Delivery of Executed Authorization for Checkoff  
+
+-15 A properly executed copy of the form authorizing checkoff by an employee for whom 
+initiation fees and biweekly membership dues, or service charges, are to be deducted in 
+accordance with the Union Security Clause of the Agreement shall be mailed at the 
+Union expense to the Union before any payroll deductions are made. Deductions shall 
+be made thereafter only under a properly executed authorization for checkoff which is in 
+effect. Any authorization for checkoff form which is incomplete or in error will be 
+returned to the Union by the Employer.  
+
+D. When Deductions Begin  
+
+-16 Deductions under all properly executed authorizations for checkoff shall become 
+effective at the time such authorizations are tendered to the Employer and shall be 
+deducted from the first (1st) pay of the month and each month thereafter.  
+
+E. Refunds  
+
+-17 In cases where a deduction is made that duplicates a payment that an employee 
+already has made to the Union, or where a deduction is not in conformity with the 
+provisions of the Union Constitution or By-Laws, refunds to the employee will be made 
+by the Union.  
+
+F. Remittance of Deductions to Secretary-Treasurer  
+
+-18 Deductions for any calendar month shall be remitted to the designated Secretary-
+Treasurer as soon as possible after the first pay of that month. The Employer shall 
+furnish the designated financial officer, monthly, with a list of those for whom the Union 
+has submitted signed forms authorizing checkoff, but for whom no deductions have 
+been made. The Union will notify the Office of Employee Relations, in writing, regarding 
+changes in designated Secretary-Treasurer and financial officer.  
+
+G. Termination of Checkoff  
+
+-19 An employee shall cease to be subject to checkoff deductions beginning with the 
+month immediately following the month in which he/she signs a dues termination card at 
+the Union office. The designated Secretary-Treasurer will be notified by the Employer of 
+the names of such employees following the end of each month in which the termination 
+took place.  
+
+H. Disputes Concerning Checkoff  
+
+-20 Any disputes between the Union and the Employer which may arise as to whether 
+or not an employee properly executed or properly revoked an authorization for checkoff, 
+shall be reviewed with the employee by a representative of the local Union and the 
+designated representative of the Employer. Should this review not dispose of the 
+matter, the dispute may be referred to Step III of the Grievance Procedure. Until the 
+matter is disposed of, no further deductions shall be made.  
+
+I. Limit of Employer's Liability  
+
+-21 The Employer shall not be liable to the Union by reason of the requirements of this 
+Agreement for the remittance or payment of any sum other than that constituting actual 
+deductions made from wages earned by employees.  
+
+J. List of Members Paying Dues or Service Charges Directly  
+
+-22 The Union will furnish the Employer, within fifteen (15) days after the effective date 
+of this Agreement, the names of all members paying dues or service charges directly to 
+the Union. Thereafter the Union will furnish the Employer a monthly list of any changes.  
+
+K. Disputes Concerning Membership  
+
+-23 Any dispute arising as to an employee’s membership or service charge shall be 
+reviewed by the designated representative of the Employer and a representative of the 
+local Union, and if not resolved, may be submitted to Step III of the Grievance 
+
+Procedure. However, the employee may be retained at work while the dispute is being 
+resolved.  
+
+-24 The Union shall indemnify and save the Employer harmless from any liability 
+resulting from any and all claims, demands, suits or any other action arising from 
+compliance with this Article, or in reliance on any list, notice, certification or 
+authorization furnished under this Article.  
+
+ARTICLE 7 - REPRESENTATION DISTRICTS  
+
+-25 The representation districts and the number of Stewards in each district shall be as 
+follows:  
+   
+
+Representation 
+District 
+Agriculture and Natural 
+Resources, College of  
+    North  
+    South 
+Akers Hall 
+Automotive Services 
+Brody Hall  
+    First Shift  
+    Second Shift  
+    Third Shift 
+Case Hall 
+Crossroads 
+Custodial Services  
+    First Shift  
+    Second Shift  
+    Third Shift 
+Fee Hall 
+Food Processing 
+Food Stores 
+General Stores   
+(including Campus 
+Mail) 
+Holden Hall 
+Holmes Hall 
+
+District  
+Steward 
+   
+
+ 
+1  
+1 
+1 
+1 
+
+Alternate 
+Steward 
+   
+
+ 
+1  
+2 
+1 
+1 
+
+1  
+1  
+1 
+
+1 
+1 
+
+1  
+1  
+1 
+
+1 
+1 
+1 
+
+1  
+  
+
+1 
+1 
+
+1  
+1  
+1 
+
+1 
+1 
+
+1  
+1  
+1 
+
+1 
+1 
+1 
+
+1  
+  
+
+1 
+1 
+
+Hubbard Hall 
+Human Ecology 
+Human Medicine 
+Instructional Media 
+Center*  
+(including Office of 
+Special Programs) 
+Intercollegiate 
+Athletics,   
+Department of 
+Kellogg Center 
+Laundry (including 
+Upholstery and 
+Drapery Shop, 
+Residence Halls, 
+Maintenance Shops, 
+Residence Hall 
+Construction Shop) 
+Mason-Abbott Hall 
+McDonel Hall 
+Natural Science, 
+College of 
+Owen Graduate Hall 
+(including Eppley 
+Center) 
+Printing (including 
+Continuing Education) 
+Public Safety, 
+Department of 
+Recycling & Waste 
+Management 
+Shaw Hall 
+Snyder-Phillips Hall 
+Telephone Office  
+Tool Room 
+Union Building 
+University Laboratory 
+Animal Resources 
+University Apartments  
+
+1 
+1 
+1 
+
+1  
+  
+
+1  
+  
+
+1 
+
+1 
+
+1 
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+1 
+1 
+1 
+1 
+
+1 
+
+1 
+
+1 
+1 
+0 
+
+1  
+  
+
+1  
+  
+
+1 
+
+1 
+
+1 
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+0 
+
+1 
+1 
+2 
+0 
+1 
+
+1 
+
+1 
+
+University Health 
+Center 
+Veterinary Medicine, 
+College of 
+West Circle Complex 
+Wilson Hall 
+Wonders Hall 
+
+1 
+
+1 
+
+1 
+1 
+1 
+
+1 
+
+1 
+
+4 
+1 
+1 
+
+*The areas in parenthesis shall be considered as separate districts for Overtime 
+Equalization, Article 43.  
+
+-26 The number of Stewards may be increased or decreased and the units may be 
+redistricted by mutual written agreement of the Employer and the Union. When more 
+than one Alternate Steward is indicated in a district, the Union shall notify the Employer 
+of the Alternate Steward's jurisdiction.  
+
+-27 It is mutually recognized that the principle of proportional representation which 
+reflects the increase and decrease in the work force is a sound and sensible basis for 
+implementing this section of the Agreement.  
+
+-28 Problems arising under this Article may be resolved by the submission of a 
+grievance at Step III of the Grievance Procedure.  
+
+ARTICLE 8 - STEWARDS AND ALTERNATE STEWARDS  
+
+-29 In each district, employees in the district shall be represented by one District 
+Steward or during his/her absence an Alternate Steward, who shall be a regular 
+employee and working in the district. The District Steward or Alternate Steward shall be 
+notified of scheduled overtime periods. During scheduled overtime periods for more 
+than one employee in his/her district the District Steward or Alternate Steward shall be 
+scheduled to work as long as there is work scheduled in their district that they can 
+perform and shall be so notified and scheduled.  
+
+-30 The District Stewards or Alternate Stewards during their working hours, without loss 
+of time or pay, shall, in their own district, in accordance with the terms of this section, 
+investigate and present grievances to the Employer, upon having received permission 
+from their Supervisor to do so. The Supervisor will normally grant permission and 
+provide sufficient time to the District Stewards or Alternate Stewards to leave their work 
+for these purposes subject to necessary emergency exceptions. The privilege of District 
+Stewards or Alternate Stewards leaving their work during working hours without loss of 
+time or pay is subject to the understanding that the time will be devoted to the proper 
+
+handling of grievances or posting bulletins in their districts and will not be abused; and 
+District Stewards or Alternate Stewards will perform their regularly assigned work at all 
+times, except when necessary to leave their work to handle grievances or posting 
+bulletins in their district as provided herein. Between 5:00 p.m. and 7:00 a.m. two (2) 
+District Stewards (or two (2) Alternate Stewards) may be excused with pay to attend a 
+regularly scheduled steward meeting. Any alleged abuse by either party will be a proper 
+subject for a Special Conference. An executive board member who is also a District 
+Steward or Alternate Steward may be excused for one (1) Stewards' and one (1) 
+executive board or special executive board meeting per month not to exceed two (2) 
+hours per meeting per month.  
+
+-31 Notwithstanding their position on the seniority list, a Steward shall in the event of a 
+layoff of any type within his/her district be continued at work as long as there is work in 
+their district which he/she can perform and shall be recalled to work in the event of a 
+layoff to the first vacancy in their district which they can perform.  
+
+-32 The Union will furnish the Office of Employee Relations with the names of its 
+authorized representatives and such changes as may occur from time to time in such 
+personnel, so that the Employer may at all times be advised as to the authority of the 
+individual representatives of the Union with which it may be dealing. The Employer will, 
+in return, through the Office of Employee Relations keep the Union advised as to its 
+representatives.  
+
+ARTICLE 9 - UNION BULLETIN BOARDS  
+
+-33 The Employer will provide enclosed bulletin boards that may be locked in each 
+district which may be used by the Union for posting notices of the following types:  
+
+a. Notices of Union recreational and social events.  
+
+b. Notices of Union elections.  
+
+c. Notices of results of Union elections.  
+
+d. Notices of Union meetings.  
+
+e. Notices of job openings covered by this contract. 
+
+-34 The Union shall have the exclusive right to the use of its assigned bulletin boards. In 
+the event a dispute arises concerning the appropriateness of material posted on the 
+Union Bulletin Boards, the President of the Local Union will be advised by the Office of 
+
+Employee Relations of the nature of the dispute and the notices or bulletins in question 
+will be removed from the bulletin boards until the dispute is resolved.  
+
+ARTICLE 10 - SENIORITY  
+
+A. Probationary Employees  
+
+-35 New full-time employees, not currently employed at the University, shall be 
+considered as probationary employees for their first 1040 hours of work. Part-time 
+employees shall be considered probationary for their first 520 hours of work. When an 
+employee finishes the probationary period, the employee shall be entered on the 
+seniority list of the unit or occupational group whichever is in effect and shall rank for 
+seniority from the date the probationary period began. There shall be no seniority 
+among probationary employees.  
+
+-36 The Union shall represent probationary employees for the purposes of collective 
+bargaining in respect to rates of pay, wages, hours of employment and other conditions 
+of employment except discharged or disciplined employees for other than Union activity.  
+
+B. Temporary Employees  
+
+-37 Appointments - There shall be no seniority or rights of recall for persons who are 
+employed for specific temporary jobs lasting nine (9) months or less.  
+
+At the time of employment, the temporary appointment shall not be extended beyond 
+nine (9) months, except when a temporary employee fills the position of a regular 
+employee on leave of absence, in which case the employment period may continue for 
+the duration of the leave of absence. The Union will be provided the name of the 
+temporary employee and the name of the employee on leave. Such term shall not 
+exceed two years. After completion of the probationary period, the temporary employee 
+may not be discharged prior to the date certain for termination except for just cause. 
+The temporary employee may not be transferred to a regular job until after compliance 
+with the posting provisions of Article 36.  
+
+a. The Employer shall have the right to "recycle" temporary employees in the 
+bargaining unit. Recycled employees shall continue to receive the job rate.  
+
+b. Temporary employees shall not replace or displace regular employees on a 
+permanent basis except as provided for in applicable provisions of the Collective 
+Bargaining Agreement.  
+
+c. The total number of temporary employees in the bargaining unit at any one 
+time shall be limited to no more than 30% of the regular bargaining unit 
+employee complement, excluding temporary employees.  
+
+d. Beginning January 28, 1999, temporary employees who are recycled shall 
+receive credit for the immediately preceding employment cycle for bidding 
+purposes only, as provided for in Article 10, Section B, paragraph 38 of the 
+Collective Bargaining Agreement. Thereafter, recycled temporary employees 
+shall continue to carry past recycled service for bidding purposes only, as 
+provided for in Article 10, Section B, paragraph 38 of the Collective Bargaining 
+Agreement.  
+
+e. Except as provided for herein, the conditions of employment for temporary 
+employees shall be provided for in Article 10, Section B of the Collective 
+Bargaining Agreement. 
+
+-38 Bidding on Vacancies - Provided he/she has completed a probationary period in 
+his/her original seniority unit within the past 12 months a temporary employee may bid 
+on posted vacancies within that seniority unit under the following conditions, whichever 
+comes first:  
+
+a. Four (4) weeks prior to the end of his/her term of temporary employment.  
+
+b. Upon completion of six (6) months of continuous employment.  
+
+c. For thirty (30) calendar days after completion of the employee's term of 
+temporary employment. 
+
+For bidding purposes only, his/her seniority will be recognized for time actually worked 
+after regular full-time employees in the seniority unit and in the bargaining unit have had 
+an opportunity to bid and transfer in accordance with the requirements of Article 36.  
+
+-39 Benefits - Upon completion of six (6) months of employment, temporary employees 
+will become eligible for vacation on a proportional basis. Temporary employees shall be 
+granted sick leave and holiday pay, on a proportional basis, from their date of hire.  
+
+C. Part-time Employees  
+
+-40 Employees regularly scheduled to work twenty (20) hours per week but less than 
+twenty-six (26) hours per week shall be considered half-time (1/2) time employees; 
+those regularly scheduled to work more than twenty-six (26) hours per week but less 
+than thirty-six (36) hours per week shall be considered three-quarter (3/4) time 
+
+employees and those regularly scheduled to work thirty-six (36) hours per week to forty 
+(40) hours per week shall be considered full-time employees.  
+
+-41 Benefits - The following benefits shall be extended to part-time employees on a 
+proportional basis: Vacation time, holidays, personal leave, sick leave, longevity, 
+retirement, health care, dental, employee paid life and accidental death and 
+dismemberment.  
+
+-42 Seniority - Part-time employees shall retain seniority on the same basis as full-time 
+employees. This seniority shall be exercised during period of layoffs, recall, and for 
+filling of vacancies.  
+
+-43 Funeral Leave shall be granted to part-time employees on the same basis as full-
+time employees.  
+
+ARTICLE 11 - SENIORITY LISTS  
+
+-44 Seniority shall not be affected by the race, creed, color, sex, age, marital status, 
+handicap, sexual preference, political affiliation, or national origin of the employee.  
+
+-45 The seniority lists on the date of this Agreement shall show the names of all 
+employees of the unit entitled to a ranking for seniority, in addition to such other 
+information as may be required by Paragraph 48 of this Agreement. Service records in 
+effect at the date of this Agreement shall be used by the parties hereto as the records of 
+continuous service as of such date.  
+
+-46 The Employer will keep the seniority lists up to date at all times, and whenever a 
+Steward shall raise a question of seniority, shall make the seniority list available for 
+his/her inspection.  
+
+-47 Within thirty (30) days after the ratification of this Agreement and every six (6) 
+months thereafter during the term of this Agreement, the Employer shall give to the 
+Union two (2) copies of the names of all Union members covered by the Agreement 
+together with their addresses as they then appear on the records of the Employer.  
+
+-48 The Employer agrees to give to the Union updated seniority lists five (5) copies, two 
+(2) listed by classification, and three (3) alphabetical every three (3) months. The lists 
+shall include name, classification, date of seniority, rate of pay, division in which they 
+work, and department. Said lists will be given to the Union in January, April, July, and 
+October.  
+
+ARTICLE 12 - LOSS OF SENIORITY  
+
+A. General  
+
+-49 An employee shall lose his/her status as an employee and his/her seniority if:  
+
+a. He/She resigns or quits other than in Paragraphs 51, 52 and 53.  
+
+b. He/She is discharged or terminated (unless reversed through the grievance or 
+arbitration procedures).  
+
+c. He/She retires.  
+
+d. He/She does not return to work from layoff within fourteen (14) calendar days 
+after being notified to return by certified or registered mail or by telegram 
+addressed to the employee at his/her last address filed with the Office of Human 
+Resource Services. An employee who changes their address must notify the 
+Employer of the change.  
+
+e. He/She has been on layoff for a period of time equal to their unit seniority at 
+the time of their layoff or two (2) years, whichever is lesser.  
+
+f. He/She is absent from work including the failure to return to work at the 
+expiration of a vacation, or disciplinary layoff, for three (3) consecutive working 
+days or a leave of absence for five (5) consecutive working days without 
+notifying the Employer, except when the failure to notify and work is due to 
+circumstances beyond the control of the employee. 
+
+-50 A grievance involving compliance with this section shall begin at Step III of the 
+grievance procedure, and may be processed through the grievance and arbitration 
+procedures.  
+
+B. Return Rights to the Union  
+
+-51 An employee returning to the Union within twelve (12) months of his/her termination 
+from University employment shall receive credit for University seniority earned prior to 
+the date of termination, after successful completion of a trial period of 240 hours of 
+work, for calculation of vacation, longevity, and retirement eligibility.  
+
+-52 Employees who return(ed) to the University more than twelve (12) months after 
+terminating will receive credit for past service after working for five (5) continuous 
+additional years. Such prior service credit can only be applied toward retirement. 
+Employees will receive service credit for part-time service to qualify for retirement 
+status.  
+
+-53 The provisions of this article shall only apply to employees returning to the Union 
+after the effective date of this Agreement.  
+
+ARTICLE 13 - SENIORITY OF OFFICERS  
+
+-54 Notwithstanding their position on the seniority list, the President, Vice-President, 
+Secretary-Treasurer, Recording Secretary and Chief Steward of the local Union shall, in 
+the event of layoff, be continued to work at all times when one or more districts or 
+divisions or fractions thereof are at work, provided they can perform any of the work 
+available.  
+
+ARTICLE 14 - GRIEVANCE PROCEDURE - GENERAL CONDITIONS  
+
+-55 The following time limits shall apply to Steps of the Grievance Procedure unless 
+extended by mutual agreement.  
+
+-56 The grievance must be presented in writing by the District Steward to the District 
+Supervisor of a unit or division within fifteen (15) working days after its alleged 
+occurrence in order to be a proper matter for the Grievance Procedure.  
+
+A. Time of Meetings  
+
+-57 A meeting to discuss the grievance will be scheduled between the Union and the 
+District Supervisor, the Administrative Head of a unit, division or college or the 
+Employer's representative within seven (7) working days of receipt of the written 
+grievance or appeal.  
+
+B. Time of Answers  
+
+-58 A written answer will be given to the Union by the District Supervisor and the 
+Administrative Head within seven (7) working days from the date of the meeting at 
+which the grievance was discussed. The Employer's representative will have ten (10) 
+working days after the third step meeting to submit a written answer to the Union.  
+
+C. Time of Appeal  
+
+-59 Any grievance not appealed from an answer at Step I or II of the Grievance 
+Procedure within seven (7) working days from receipt of said answer shall be 
+considered settled on the basis of the last answer and not subject to further review.  
+
+D. Nonconformance  
+
+-60 If the Employer fails to schedule a meeting or to reply in writing within the prescribed 
+time limits, the grievance may be appealed to the next higher step of the Grievance 
+Procedure within seven (7) working days after the expiration of the applicable time 
+limits. Nonconformance will in no way reduce or modify in any way the Employer's good 
+faith effort to meet and/or answer any step of the grievance procedure.  
+
+ARTICLE 15 - PRESENTING A GRIEVANCE  
+
+-61 Any employee having a problem in connection with his/her employment shall 
+present it to the Employer as follows:  
+
+A. Immediate Supervisor  
+
+-62 If an employee feels he/she has a problem, they may discuss it with their Immediate 
+Supervisor or with their District Steward who may then discuss it with the employee's 
+Immediate Supervisor.  
+
+B. Step I  
+
+-63 If the problem is not resolved, the District Steward may reduce the problem to 
+writing and submit the grievance to the District Supervisor. A grievance shall be defined 
+as a written dispute concerning the interpretation, application, and alleged violation of 
+any of the provisions of this Agreement. The grievance shall be dated and signed by the 
+aggrieved employee and his/her District Steward. The grievance shall set forth the facts, 
+including dates, and provisions of the Agreement that are alleged to have been violated 
+and the remedy desired. The grievance shall not be considered submitted until the 
+District Supervisor or his/her designee receives the written grievance. At the time it is 
+received, the grievance shall be dated and signed and a copy (if requested) returned to 
+the District Steward. A meeting will be arranged between the District Steward and the 
+District Supervisor to discuss the grievance. The District Supervisor will then answer the 
+grievance in writing.  
+
+-64 The Chief Steward may be present at any step or steps of the Grievance Procedure 
+as well as an additional representative of the Employer, and if the Employer or the 
+Union request that the aggrieved employee be present at any step or steps of the 
+Grievance Procedure to participate in the discussion, they will be required to do so.  
+
+-65 A written grievance involving a complaint of an individual employee must be signed 
+by the grievant. The Chief Steward may sign and file at Step II a grievance which 
+involves more than one District Steward within the same administrative unit. He/She 
+may also sign and file at Step III a grievance which involves more than one 
+
+administrative unit. The Chief Steward may file a grievance involving more than one (1) 
+employee within an administrative unit at Step II.  
+
+C. Step II  
+
+-66 If the grievance is not resolved, the District Steward may refer the grievance to the 
+Chief Steward who may submit the appeal in writing to the Administrative Head of the 
+unit or division or his/her designee indicating the reasons why the written answer of the 
+District Supervisor was unsatisfactory. A meeting will be scheduled between the Chief 
+Steward, District Steward, and the representatives designated by the Administrative 
+Head to discuss the grievance. The Administrative Head, or his/her designee will then 
+answer the grievance in writing.  
+
+D. Step III  
+
+-67 If the Administrative Head's written answer is not satisfactory, the grievance may be 
+referred to the Union President who may submit his/her appeal to the Office of 
+Employee Relations indicating the reasons why the written answer of the Administrative 
+Head was unsatisfactory. A meeting between no more than three (3) representatives of 
+the Union and three (3) representatives designated by the Director of Employee 
+Relations will be held to discuss the grievance within twenty (20) working days from the 
+date the grievance is received by the Office of Employee Relations. After the Step III 
+meeting the Employer's representative will submit a written answer to the Union.  
+
+-68 The Union representatives may meet at a place designated by the Employer on the 
+Employer's property for at least one-half (1/2) hour immediately preceding the hearing.  
+
+E. Step IV  
+
+-69 If the Office of Employee Relation's answer is not satisfactory, settlement may be 
+determined by decision of an Arbitrator selected by the parties. The Union President 
+within thirty (30) calendar days of the Step III answer will notify the Office of Employee 
+Relations in writing that the Union wishes to appeal the grievance to arbitration.  
+
+-70 In the event the parties cannot agree upon a Arbitrator within ten (10) working days 
+of the date of the appeal, the Union shall, within fifteen (15) working days after failing to 
+mutually agree on an Arbitrator file a Demand for Arbitration with the American 
+Arbitration Association who shall select an Arbitrator and the Arbitrator shall establish a 
+mutually acceptable hearing date. Grievances processed to arbitration by the Union 
+which pose continuing financial liability to the Employer, shall, at the request of the 
+Employer, displace grievances with arbitration dates which pose no financial liability to 
+the Employer. Such displaced grievances shall be scheduled in the next open date.  
+
+-71 In the event the Union fails to appeal the grievance to arbitration within the specified 
+time limit or fails to file the Demand for Arbitration within the specified time limit, the 
+grievance shall be considered settled based upon the Step III answer given by the 
+Office of Employee Relations. The fees and approved expenses of the Arbitrator will be 
+paid by the parties equally. The rules of the American Arbitration Association shall apply 
+to all arbitration hearings.  
+
+-72 Grievances, within the meaning of the grievance procedure and of this arbitration 
+clause, shall consist only of disputes about the interpretation or application of the 
+clauses of this Agreement and about alleged violations of this Agreement. The Arbitrator 
+shall have no power to add to, or subtract from, or modify any of the terms of this 
+Agreement, nor shall he/she substitute his/her discretion for that of the Employer or the 
+Union where such discretion has been retained by the Employer or the Union, nor shall 
+he/she exercise any responsibility or function of the Employer or the Union.  
+
+-73 Finality of Decisions - There shall be no appeal from the Arbitrator's decision. Each 
+such decision shall be final and binding upon the Union and its members, the employee 
+or employees involved, and the Employer. The Union will discourage any attempt of its 
+members and will not encourage or cooperate with any of its members in any appeal to 
+any Court or Labor Board of a decision of the Arbitrator so long as the Arbitrator has not 
+exceeded his/her contractual or legal authority. The Employer shall not appeal the 
+decision of the Arbitrator to any Court or Labor Board so long as the Arbitrator has not 
+exceeded his/her contractual or legal authority.  
+
+ARTICLE 16 - COMPUTATION OF BACK WAGES  
+
+-74 No claim for back wages shall exceed the amount of wages the employee would 
+otherwise have earned at his/her regular rate.  
+
+ARTICLE 17 - REPRIMAND, SUSPENSION OR DISCHARGE  
+
+-75 At the time a written reprimand, suspension or discharge is received, an employee 
+may, and is encouraged to, request the presence of the District Steward, Alternate 
+Steward or designated Union representative.  
+
+A. Notice of Reprimand, Suspension or Discharge  
+
+-76 In the event an employee is disciplined by written reprimand or written suspension 
+or discharged by written notification, a copy of the discipline shall be given to the 
+employee, a copy to the District Steward or Alternate Steward and a copy mailed to the 
+local Union office at the time it is given to the employee. Such notice shall be specific 
+and outline the reasons for the disciplinary action.  
+
+B. Appeal of Reprimand, Suspension or Discharge  
+
+-77 Should the reprimanded, suspended or discharged employee or the Union consider 
+the discipline to be excessive and without just cause, the Chief Steward or his/her 
+designated representative shall, within seven (7) regularly scheduled working days after 
+the Union office receives the written notification of the discipline, submit it as a 
+grievance. A grievance over a written letter of reprimand or suspension shall be 
+submitted by the Chief Steward at Step II of the grievance procedure. A grievance over 
+a discharge shall be submitted by the Chief Steward at Step III. Failure to submit a 
+written grievance within the time limits shall constitute a waiver of all claims concerning 
+such disciplinary action or discharge.  
+
+C. Use of Past Record  
+
+-78 In imposing any reprimand, suspension or discharge on a current charge, the 
+Employer will not take into account any prior infractions of which the Employer had 
+knowledge that occurred more than two (2) years previously. No derogatory inference 
+will result and/or the material relating to disciplinary action be held against an employee 
+in relation to his/her employment because of the need to retain records beyond the two 
+(2) year period. Upon written request from a Local 1585 Bargaining unit employee, the 
+records section will purge the employee's file of disciplinary actions over two (2) years 
+old if there have been no intervening disciplinary actions. At that time, also, the records 
+unit will instruct the originating department to purge its personnel file of the same 
+material.  
+
+ARTICLE 18 - SPECIAL CONFERENCES  
+
+-79 Special Conferences for important matters will be arranged between the local 
+President and the Employer or its designated representative upon request of either 
+party. Such meeting shall be between at least two (2) representatives of the Employer 
+and at least two (2) representatives of the Union. Arrangements for such Special 
+Conferences shall be made in advance and an agenda of the matters to be taken up at 
+the meeting shall be presented at the time the Conference is requested. Matters taken 
+up in Special Conference shall be confined to those included on the agenda. The 
+members of the Union shall not lose time or pay for time spent during their regularly 
+scheduled work hours in such Special Conferences.  
+
+ARTICLE 19 - MEDICAL DISPUTE  
+
+-80 In the event of a dispute involving any employee's physical ability to perform their 
+job at the University, when the employee is not satisfied with the determination of the 
+University's physician, they may submit a report from a medical doctor of their own 
+
+choosing and at their own expense. If the dispute still exists, at the request of the Union 
+or the Employer, the University's physician and the employee's physician shall agree 
+upon a third medical doctor to submit a report to the Employer and the employee, and 
+the decision of such third party will be binding on both parties. The expense of the 
+report of the third party shall be shared equally by the Employer and the employee. The 
+prevailing determination will be effective at a date mutually agreed to by the Union and 
+the University.  
+
+ARTICLE 20 - TEMPORARY LAYOFFS  
+
+-81 Due to vacation periods and conditions beyond the Employer's control, adjustments 
+of the work force can be made without application of the layoff procedure of the 
+Agreement. If such temporary adjustment continues for more than ten (10) working 
+days, the Union can request the Employer to adjust the working force according to the 
+layoff provision of the Agreement and the Employer will do so within five (5) working 
+days thereafter.  
+
+ARTICLE 21 - LAYOFFS  
+
+-82 When there is a decrease in the work force, temporary and probationary employees 
+will be laid off on a seniority unit wide basis provided the seniority employees can do the 
+available work.  
+
+-83 Seniority employees will be laid off according to bargaining unit seniority within a 
+seniority unit, affected by a layoff, provided the greater seniority employees are able to 
+perform the available work. However, the employer shall not be required to promote an 
+employee at the time of layoff unless the employee has previously performed the higher 
+rated job and is able to perform the work. Seniority employees laid off within a seniority 
+unit shall be allowed to displace, by grade level, the least senior employees not affected 
+by the layoff if they are able to perform the work. By grade level shall mean the to be 
+laid off employee(s) shall first displace the least seniority like classified employee(s) in 
+another seniority unit. If the to be laid off employee(s) is unable to perform the work 
+and/or there is no least seniority like classified employee(s) with less seniority in another 
+seniority unit, the to be laid off employee(s) may displace the least seniority 
+employee(s) within the same pay grade level. If the to be laid off employee(s) is unable 
+to perform the work and/or there is no least seniority employee(s) with less seniority 
+within the same pay grade level, the to be laid off employee(s) may displace the least 
+seniority employee(s) in the next immediately lower pay grade level and so on until the 
+to be laid off employee(s) is able to displace another employee(s) or accept the layoff.  
+
+-84 Disposition of these cases may be initiated at Step II or Step III of the grievance 
+procedure.  
+
+-85 Employees to be laid off for an indefinite period of time will have at least fourteen 
+(14) calendar days notice of layoff. The Union President and District Steward will 
+receive a list from the Employer of the employees being laid off on the same date the 
+notices are issued to the employees.  
+
+ARTICLE 22 - RECALL PROCEDURE  
+
+-86 When the working force is increased after a layoff, employees will be recalled 
+according to seniority, provided the greater seniority employees are able to perform the 
+available work.  
+
+-87 Seniority of an employee who is re-employed from a seniority list in the same 
+seniority unit that he/she was laid off from shall be restored to his/her status as of the 
+date he/she left the service of the Employer.  
+
+-88 Notice of recall shall be sent to the employee at his/her last known address by 
+registered or certified mail with Return Receipt Requested. If an employee fails to report 
+for work within fourteen (14) calendar days from the date of first attempt of delivery, it 
+shall be considered a voluntary termination.  
+
+-89 Employees who are recalled to work from a layoff must successfully pass a physical 
+examination to be taken at the Health Center before they return to work.  
+
+ARTICLE 23 - WORK OPPORTUNITY FOR LAID-OFF EMPLOYEES  
+
+-90 The Employer, so far as reasonably practicable, before hiring new employees in any 
+seniority unit, shall give work opportunity to seniority employees who are currently on 
+layoff providing the employees can perform the available work.  
+
+-91 Any employee who is recalled under Paragraph 90 will accrue seniority in the new 
+unit effective as of the date of layoff. He/She shall retain seniority in his/her former unit 
+until his/her seniority in the new unit equals the seniority he/she had in his/her former 
+unit. At this time all of the seniority in his/her former unit shall be cancelled.  
+
+-92 Should there still be seniority employees on layoff the Employer will attempt before 
+hiring new employees to place them in any work opportunity within the University (and 
+not represented by the Union) providing they are capable of performing the available 
+work. Paragraph 92 shall not be a grievable item.  
+
+-93 An employee recalled under Paragraph 92 shall continue to accrue University 
+seniority. However, the employee's unit seniority will be frozen as of the date of 
+reporting for recall.  
+
+ARTICLE 24 - ABSENCES  
+
+-94 An employee is not expected to absent himself/herself from work for any reason 
+other than personal illness without making prior arrangements before the start of their 
+shift with his/her Supervisor. Unless such prior arrangements are made, an employee 
+who, for any reason, fails to report for work must immediately notify his/her Supervisor 
+of his/her reason for being absent. If the absence is to continue beyond the first day, the 
+employee must notify the Supervisor on a daily basis unless otherwise arranged with 
+and specifically approved by the Supervisor. In proper cases, exceptions will be made.  
+
+ARTICLE 25 - HOLIDAYS  
+
+-95 The paid holidays are designated as:  
+
+Labor Day  
+Thanksgiving Day  
+Friday after Thanksgiving Day  
+Christmas (2 days)  
+New Years (2 days)  
+Memorial Day  
+Independence Day  
+
+-96 Whenever one of these holidays falls on a Saturday and the employee does not 
+work on this day or on a scheduled day off in the employee's work week and no other 
+day is observed as a holiday by the Employer, the employee will receive an additional 
+day off with pay, the time to be arranged with his/her Supervisor. Whenever one of the 
+above holidays falls on Sunday, the following Monday shall be observed as the 
+designated holiday.  
+
+-97 Employees who are required to work on any University designated holiday shall be 
+paid at a rate of one and one-half (1 1/2) times their regular rate of pay plus holiday pay. 
+An employee shall not receive more than 2 1/2 times their regular rate of pay for hours 
+worked on a holiday. Employees shall be scheduled to work on a designated holiday in 
+accordance with Article 43 (Equalization of Overtime).  
+
+-98 An employee who is on vacation or sickness and disability leave with pay when a 
+holiday occurs will be paid for the holiday and no charge will be made against accrued 
+vacation or sick leave credits.  
+
+-99 There will be no holiday pay when:  
+
+a. A holiday falls during a vacation period preceding termination (except when an 
+employee is retiring).  
+
+b. The employee is on a leave of absence without pay, on layoff, or on Regular 
+Worker's Compensation, however, if an employee is laid off for the period 
+between the end of fall semester and the beginning of winter semester because 
+of lack of work, they will receive the same holiday pay given to the rest of the 
+employees.  
+
+c. An employee is absent on an unpaid leave the day before or the day after the 
+holiday(s) unless his/her absence is excused. 
+
+ARTICLE 26 - VACATIONS  
+
+A. General Vacation Eligibility  
+
+-100 The following schedule shows the monthly vacation accruals for all full-time 
+employees. For part-time employees see Paragraph 41. Vacation time is credited at the 
+end of each month.  
+   
+
+Service Months 
+
+Accrual 
+
+Completion of 6 months 
+7th month through 60th 
+month 
+61st month through 120th 
+month 
+
+121st month 
+
+48 hours 
+8 hours per 
+
+month 
+
+12 hours per 
+
+month 
+
+16 hours per 
+
+month 
+
+Annual 
+Accrual 
+
+  
+
+96 hours 
+
+144 hours 
+
+180 hours 
+
+Special* Maximum 
+
+Accrual 
+
+  
+
+128 hours 
+
+192 hours 
+
+240 hours 
+
+*Additional time cannot exceed the special maximum amount shown.  
+
+-101 A regular employee in the Housing and Food Services who works only during the 
+school year (normally from September through June) is allowed twelve (12) days 
+vacation for each school year worked. After sixty (60) months of service on a regular 
+basis, an employee is entitled to eighteen (18) days vacation each year and after one 
+hundred twenty (120) months is entitled to twenty-four (24) days vacation each year. 
+Years of service must be consecutive and an employee will be given credit only for time 
+actually worked in meeting the requirements of the progressive vacation plan.  
+
+B. Method of Scheduling Vacation Days  
+
+-102 The Employer is responsible for keeping the records of each employee's vacation 
+account up to date. Upon request and within a reasonable period of time, the employee 
+shall be informed of the number of vacation credits remaining in their account.  
+
+-103 An employee may use his/her accumulated vacation leave in full hour increments 
+at any time during the calendar year with permission of the supervisor(s) as long as it 
+conforms with the requirements of his/her individual department, however, no 
+department shall have a blanket policy which denies vacation in one hour increments. 
+Except for requests originating from a pre-vacation scheduling program, approval or 
+refusal of vacation requests must be returned to the employee within seven (7) working 
+days or less.  
+
+-104 Supervisory approval should be sought a minimum of one (1) working day prior to 
+the desired time off.  
+
+C. Other Provisions  
+
+-105 There shall be no vacation accrual:  
+
+a. During an approved leave of absence without pay.  
+
+b. While on Regular Worker's Compensation.  
+
+c. During an extended military leave of absence (credit for service months is 
+granted).  
+
+d. During a vacation period preceding termination.  
+
+e. Beyond the "Special Maximum Accrual."  
+
+f. While on layoff. 
+
+-106 Employees will receive their base rates of pay during vacation.  
+
+-107 In the event of a dispute regarding the choice of vacation time, whenever possible 
+the seniority employee will be given his/her choice of vacation time.  
+
+-108 If any of the holidays stipulated in the Agreement should occur during an 
+employee's scheduled vacation, the employee shall receive one (1) additional vacation 
+day for each holiday.  
+
+-109 If an employee retires or terminates for any reason, he/she shall be paid for any 
+accrued vacation credits.  
+
+ARTICLE 27 - PERSONAL LEAVE HOURS  
+
+-110 Personal leave with pay is granted to regular employees with the approval of their 
+supervisors for attending to personal matters. Leave is given during each fiscal year in 
+accordance with the following schedule:  
+   
+
+Employed  Hours 
+7/1 - 12/31 
+1/1 - 3/31 
+4/1 - 5/31 
+6/1 - 6/30 
+
+24 
+12 
+6 
+0 
+
+-111 An employee terminating prior to January 1 shall only be eligible for one-half of the 
+annual personal leave accrual, to be adjusted on the employee's final payroll check.  
+
+-112 No carry-over of unused personal leave day credit from one fiscal year to another 
+shall be allowed.  
+
+-113 Supervisory approval should be sought a minimum of one (1) working day prior to 
+the desired time off. It is understood that the use of personal leave is of a private nature.  
+
+-114 The personal leave days or fractions thereof, credited to each full-time, regular 
+employee shall be utilized and charged to him/her in increments of not less than one (1) 
+full hour.  
+
+ARTICLE 28 - SICK LEAVE  
+
+-115 Every regular full-time employee shall accumulate and be credited with 104 hours 
+of paid sick leave per year, to be credited at the rate of four (4) hours for each 
+completed biweekly payroll period. Employees may use sick leave after they have 
+completed their first month of service. Maximum accrual is 1200 hours.  
+
+-116 Sick leave shall be available for use by employees for the following purposes:  
+
+a. Acute personal illness or incapacity over which the employee has no 
+reasonable control.  
+
+b. Absence from work because of exposure to contagious disease which, 
+according to public health standards, would constitute a danger to the health of 
+others by the employee's attendance at work.  
+
+c. Medical and dental care or treatment to the extent of time required to 
+complete such appointment when it is not possible to arrange such 
+appointments for non-duty hours.  
+
+d. Illness or disability associated with pregnancy when a physician indicates that 
+the employee is unable to perform all of the duties of her job. It is intended that 
+absence due to these conditions, or maternity leave use is not a performance 
+issue that adversely influences the appraisal rating on an employee's 
+performance evaluation.  
+
+e. Not to exceed twenty-four (24) hours sick leave credit per year for absence 
+from work because of illness in the immediate family. Defined as: spouse, 
+parents and anyone living within the household of the employee. An additional 
+forty (40) hours may be used for the care of spouse, parent and dependent 
+children. The total number of hours shall not exceed 64. 
+
+-117 All employees shall accumulate sick leave from the date they are hired.  
+
+-118 A regular full-time employee with ninety (90) days of continuous service who 
+suffers injury compensable under the Worker's Compensation Act shall continue to 
+receive his/her regular rate for time lost during the first seven (7) days not covered by 
+the Worker's Compensation Act, provided he/she follows the instructions of the 
+University Health Director, and provided he/she returns to work not later than the time 
+recommended by the University Health Director. In the event of dispute, the Medical 
+Dispute clause of this Agreement shall apply as regards the settlement of such dispute. 
+Following the first seven (7) days, such seniority employee shall be paid the difference 
+between the employee's regular wages and payment received under provisions of the 
+Act, to be deducted from accumulated sick leave until his/her sick leave is exhausted.  
+
+-119 Employees who have exhausted their sick leave credits, but are still unable to 
+return to work, may as an option, continue to receive their pay against any unused 
+vacation credits.  
+
+-120 Employees who are laid off shall have available any unused sick leave previously 
+earned, effective at the time they are recalled.  
+
+-121 Employees who leave to enter the Armed Forces of the United States under the 
+provisions of a selective service act, who are members of the Armed Forces and are 
+
+called to active duty, or who enlist in the Armed Forces during a declared national 
+emergency shall, upon reemployment by the Employer, have available any unused sick 
+leave previously earned; provided that such reemployment takes place within ninety 
+(90) days after discharge or release from active duty in the Armed Forces.  
+
+-122 An employee using sick leave during a period that includes a scheduled holiday 
+will be paid his/her base rate of pay for the holiday. He/She cannot be paid for both on 
+the same day, nor will they be charged for a day of sick leave.  
+
+-123 An employee who transfers from one unit to another shall transfer with them any 
+unused sick leave time.  
+
+-124 Employees who regularly work at least twenty (20) hours per week on a continuous 
+basis shall accrue sick leave time proportionate to the hours worked as per Paragraph 
+40.  
+
+-125 Each District Supervisor shall be responsible for reviewing employee requests for 
+sick leave and questioning their validity, and may request a statement from the 
+employee's personal physician concerning the employee's disability before approving 
+the payment of sick leave. The supervisor may, with reference to the needs of his/her 
+district, require prompt notification from his/her employees of the necessity for taking 
+sick leave. Prior notification should be provided by the employee before the beginning of 
+their shift so the supervisor can make arrangements for the work schedules. Employees 
+who find they are going to be absent longer than they first anticipated should notify their 
+supervisor in accordance with the Absence Clause of the Agreement (Article 24).  
+
+-126 All payment for sick leave shall be made at the employee's base rate of pay.  
+
+-127 Accrued sick leave credits shall be used prior to receiving unpaid leave for illness 
+or disability.  
+
+ARTICLE 29 - FUNERAL LEAVE  
+
+-128 If a death occurs among members of an employee's immediate family, the 
+employee upon notification to the supervisor will be excused from work for three (3) 
+consecutive work days without loss of pay to attend the funeral and make other 
+necessary arrangements.  
+
+-129 Definition of Employee's Immediate Family: The employee's immediate family shall 
+be interpreted as including: spouse, child, stepchild, father, mother, sister, brother, 
+brother-in-law, sister-in-law, father-in-law, mother-in-law, daughter-in-law, son-in-law, 
+grandparents, grandparents-in-law, grandchild, stepparents, half brother and half sister.  
+
+-130 In the case of death of the employee's or spouse's step-brother, step-sister, uncle, 
+aunt, nephew or niece, the employee will be excused from work without loss of pay for 
+one (1) day, the day of the funeral, to attend the funeral. For the purpose of this article 
+"aunt" shall include the uncle's wife, and "uncle" shall include the aunt's husband.  
+
+-131 Permission may be granted to a reasonable number of employees in a unit who 
+wish to attend the funeral of a fellow employee or former employee, without loss of pay, 
+provided they return to work after the funeral. Employees who serve as pallbearers at a 
+funeral of a fellow employee or former employee will be paid during the time they must 
+be off the job.  
+
+ARTICLE 30 - JURY DUTY  
+
+-132 A regular employee who serves on jury duty or is required to testify pursuant to a 
+court-issued subpoena, if the subpoena does not require the employee to testify against 
+the University, will be paid the difference between jury duty or witness fees and the 
+base pay. An employee is expected to report for regular University duty when 
+temporarily excused from attendance at court. When requested, an employee on jury 
+duty will be assigned to the first shift. An employee shall notify their supervisor of jury 
+and/or subpoena dates as soon as they are known.  
+
+ARTICLE 31 - UNION RELEASE TIME  
+
+A. President and Chief Steward  
+
+-133 It is agreed that the Employer will allow the President and the Chief Steward of 
+Local 1585 100% paid release time to carry out the duties of their respective offices. It is 
+understood that they will confine their activities to the campus and the East Lansing 
+Union Office.  
+
+-134 The Union President and Chief Steward will be compensated at the base rate of 
+pay they were receiving at the time of their election or selection.  
+
+-135 The Union President and Chief Steward shall not be eligible for overtime in their 
+former units.  
+
+-136 The Union President and Chief Steward shall be eligible to bid on posted 
+vacancies. If selected to fill a vacancy, the employee will state whether they expect to fill 
+the vacancy permanently or return to his/her Union Office upon completion of the trial 
+period. When the trial period is completed, the employee shall either remain in the new 
+position or return to his/her Union office receiving the base pay of the new classification.  
+
+-137 When either the Union President or the Chief Steward relinquishes their office, 
+they shall have return rights to the same classification and rate of pay in their former 
+unit unless the Employer's or the employee's circumstances have so changed as to 
+make it impossible or unreasonable to do so.  
+
+-138 While the President and Chief Steward are in office, seniority shall continue to 
+accrue.  
+
+B. Executive Board Members  
+
+-139 In the event the President or the Chief Steward are required to take a leave from 
+their elected position due to personal illness, the Local, after fourteen (14) calendar 
+days may notify the Office of Employee Relations that it intends to install in the vacant 
+position of the President or Chief Steward, an acting President or Chief Steward and the 
+person assuming the duties of the President or Chief Steward shall be granted the full 
+contractual benefits under the Labor Agreement.  
+
+-140 Between 5 p.m. and 7 a.m. two (2) executive board members may be released 
+with pay to attend a regularly scheduled or special executive board meeting not to 
+exceed two (2) hours per month.  
+
+-141 In the event the President or the Chief Steward are required to take a leave from 
+their elected position due to personal illness, the Local, after fourteen (14) calendar 
+days may notify the Office of Employee Relations that it intends to install in the vacant 
+position of the President or Chief Steward, an acting President or Chief Steward and the 
+person assuming the duties of the President or Chief Steward shall be granted the full 
+contractual benefits under the Labor Agreement.  
+
+C. Union Education  
+
+-142 Release time with pay will be granted to those employees who are elected or 
+selected by the Union to attend education classes conducted by the Union or official 
+Union business. The number will not exceed ten (10) employees at any one time and 
+the total number of hours will not exceed two hundred (200) hours in any one (1) 
+calendar year. The Union agrees to give the Office of Employee Relations as much 
+advance notice as possible concerning such requests for release time.  
+
+D. Union Business  
+
+-143 Members of the Union elected to local Union positions or selected by the Union to 
+do work which takes them from their employment with the Employer shall at the written 
+
+request of the Union receive a temporary leave of absence without pay for periods not 
+to exceed two (2) years or the term of office, whichever may be shorter.  
+
+-144 If the member's position or work for which these leaves were granted is terminated 
+for any reason, the Union shall within ten (10) calendar days notify the Employer in 
+writing of the termination date. The member shall within the same ten (10) calendar day 
+period advise the Employer in writing of his/her intent to return to the University and 
+shall return to work within thirty (30) calendar days of the termination date or forfeit all 
+rights of employment with the Employer.  
+
+ARTICLE 32 - UNPAID LEAVES  
+
+-145 The following unpaid leaves may be granted for cases of exceptional need upon 
+the request of employees who have acquired seniority under this Agreement.  
+
+A. Excused Absences  
+
+-146 Excused absences may be granted by the immediate supervisor but shall not 
+exceed ten (10) consecutive days unless approved as a leave of absence. Normally 
+excused absences will not exceed ten (10) working days in each fiscal year.  
+
+-147 Excused absences will not require the use of accrued paid time (i.e., personal 
+leave or vacation), except for failures to report to work due to inclement weather or 
+transportation problems.  
+
+-148 Employees on excused absence will continue to accrue all benefits.  
+
+B. Personal Leaves  
+
+-149 Personal leaves of absence may be arranged with the immediate supervisor for up 
+to three (3) months. Such leaves may be extended in additional three (3) month periods 
+but may not exceed one (1) year.  
+
+-150 Personal leave may be used for such reasons as the settlement of an estate, 
+serious illness of a member of the employee's family, child care, and an extended trip. 
+Personal leaves shall not be used for the purpose of obtaining employment elsewhere.  
+
+-151 Personal leaves may also be granted for educational purposes to an employee 
+with five (5) or more years of continuous service. An employee returning from a leave of 
+absence for educational purposes will not have return rights to their former position, but 
+will have bidding rights to posted vacancies. Educational courses taken during a leave 
+of absence are not reimbursable under Article 51.  
+
+-152 If an employee wishes to take an extended leave of absence (to exceed ten (10) 
+days) for reasons other than medical, this leave may be granted without the mandatory 
+use of vacation time and/or personal leave.  
+
+C. Leave of Absence for Illness or Disability  
+
+-153 A leave of absence may be granted to an employee suffering an extended illness 
+or disability who is unable to return to work and has exhausted all sick leave accrual.  
+
+-154 Leave of this kind may be extended to a maximum of two (2) years.  
+
+-155 Employees must present a physician's transcript concerning their illness or 
+disability at the time the employee reports for the required physical examination prior to 
+returning to active employment.  
+
+ARTICLE 33 - MILITARY LEAVE  
+
+A. Extended Service  
+
+-156 Upon application, a military leave of absence (without pay) will be granted to 
+employees who are employed in other than temporary positions. This applies to 
+employees who are inducted through a selective service system or voluntary enlistment, 
+or if the employee is called through membership in the National Guard or reserve 
+component into the Armed Forces of the United States.  
+
+B. Short Tours of Duty  
+
+-157 Regular employees who belong to the National Guard, United States Reserve 
+Corps, or other Federal or State military organizations, will be allowed the normal fifteen 
+(15) calendar days leave of absence when ordered to active duty for training. In the 
+event these same employees are ordered to active duty for the purpose of handling civil 
+disorders, they will be allowed ten (10) additional calendar days leave of absence during 
+a fiscal year. The Employer will pay the difference between the employee's military pay 
+and base pay, if their military pay is less. If the employee takes military leave during 
+his/her vacation, they will receive full pay.  
+
+ARTICLE 34 - EDUCATIONAL LEAVE OF ABSENCE FOR VETERANS  
+
+-158 Employees who are reinstated in accordance with the Universal Military Training 
+Act, as amended, and other applicable laws and regulations, will be granted leaves of 
+absence for a period equal to their seniority, but not to exceed two (2) years (without 
+
+pay) in order to attend school full time under applicable federal laws in effect on the date 
+of this Agreement.  
+
+-159 An employee who fails to notify the Employer within thirty (30) calendar days of the 
+expiration of a leave of absence in excess of one (1) year duration, will be given written 
+notice within twenty-one (21) calendar days prior to the expiration of said leave.  
+
+ARTICLE 35 - GENERAL CONDITIONS  
+
+A. Leave of Absence with Pay  
+
+-160 Leaves of absence with pay shall be granted for purposes as described in Articles 
+25 through 31.  
+
+-161 An employee shall accrue sick leave credits and vacation credits during a leave of 
+absence with pay, and employee benefits shall continue for the duration of the leave.  
+
+-162 All requests for leaves of absence shall be made with the employee's immediate 
+supervisor.  
+
+B. Leave of Absence without Pay (Including Layoff)  
+
+-163 Regular employees who have completed their probationary period are eligible for 
+unpaid leaves of absence.  
+
+-164 All leaves of absence must be approved by the supervisor, administrative head of 
+the unit, and the Office of Human Resource Services. They may be taken for the 
+reasons as specified in Articles 32 through 34.  
+
+-165 During an unpaid leave of absence or layoff, an employee will not accrue vacation 
+or sick leave nor be eligible for any payments for time off work provided by this 
+Agreement. (Except excused absences.)  
+
+-166 Unless otherwise specifically provided for by this Agreement, seniority shall 
+accumulate during leaves of absence or extensions, and layoffs.  
+
+-167 The employees must check with the Benefits Office about maintaining the 
+employee group benefits for which they are eligible or enrolled during leaves of absence 
+subject to and consistent with these plans.  
+
+C. Return to Active Employment  
+
+-168 The Employer at its option and without cost to the employee may require that a 
+physician or physicians of its choosing examine the employee before returning him/her 
+to active employment.  
+
+-169 An employee returning from a leave of absence will be placed in their former 
+classification and district unless the Employer's or the employee's circumstances have 
+so changed as to make it impossible or unreasonable to do so.  
+
+ARTICLE 36 - FILLING OF VACANCIES  
+
+-170 The Employer will fill vacancies on a seniority basis first within a seniority unit 
+where a vacancy occurs with employees who bid on posted vacancies and possess the 
+minimum qualifications (as stated in the Classification Description) for the vacancy 
+under consideration. Unsatisfactory work performance may be a proper cause for denial 
+of consideration for a vacancy if substantiated.  
+
+-171 If there are no qualified bidders or no bidders from within the seniority unit affected, 
+the Employer will select the most senior applicant in Local 1585 who possesses the 
+minimum qualifications of the classification. Unsatisfactory work performance may be a 
+proper cause for denial of consideration for a vacancy if substantiated.  
+
+-172 Vacancies will be posted for a period of five (5) working days in a conspicuous 
+place in employees' work areas. All job postings will state the classification, rate of pay, 
+location, shift, minimum qualifications, and starting time. A copy of the Position Vacancy 
+Notice will be provided to the Steward and the Union on the first day of the posting. 
+Employees must apply for vacancies by submitting the employee request for 
+consideration for nonacademic position vacancy to the office of Human Resource 
+Services by the closing date specified on the position vacancy notice (minimum five (5) 
+working days). A copy of the list of those employees who bid on the posting together 
+with the individual selected shall be mailed to the Local 1585 office.  
+
+-173 Postings shall remain posted for five (5) working days before the vacancy is filled. 
+Temporary transfers may be used, if necessary, during the posting period.  
+
+-174 Vacancies shall be filled within ninety (90) days of the posting or reposted.  
+
+-175 An employee shall be limited to applying for two vacancies per posting. If the 
+employee is the most senior applicant on the initial interview list for both vacancies in 
+his/her seniority unit he/she shall be notified of his/her seniority ranking by the seniority 
+unit and must specify which vacancy he/she prefers. An employee who has bid on more 
+than one vacancy and accepts one of them thereby relinquishes any claim to others for 
+which the employee applied. In cases where employees with the same seniority date 
+
+apply for a posted vacancy, they shall be chosen in alphabetical order to fill that 
+vacancy.  
+
+-176 If it should become necessary in filling a vacancy to bypass an employee's 
+seniority, reasons for denial shall be given in writing to such employee with a copy to 
+the Steward of the district.  
+
+-177 The employee who is selected shall be granted up to 520 hours of work trial period 
+to determine:  
+
+a. The employee's ability to perform the work.  
+
+b. The employee's desire to remain on the job. 
+
+-178 During the first three weeks of the trial period, the employee shall have the 
+opportunity to revert to his/her former position. For the remainder of the trial period, 
+he/she may revert to his/her former classification. If the employee is unsatisfactory in 
+the new position after two hundred forty (240) hours of work, reasons shall be given in 
+writing by the employer if requested by the employee. The employer may then return 
+the employee to his/her former classification. In such event the employer will 
+compensate the employee for the remaining hours of the trial period at the rate of fifty 
+(50) percent of the promotional increase or fifteen (15) cents per hour, whichever is 
+greater. The matter may then become a proper subject for the grievance procedure.  
+
+-179 The employee who is promoted will receive the job rate of the new classification 
+when they begin the trial period of the new position.  
+
+-180 An employee who has been notified they have been accepted to fill a posted 
+vacancy shall assume the new position no later than 3 weeks from the effective date the 
+vacancy is scheduled to be filled.  
+
+-181 An employee who bids on a vacancy that is posted under this section and is 
+subsequently selected and placed in the vacancy shall remain assigned to the location, 
+except for promotional or demotional opportunities, for twelve (12) months before 
+becoming eligible to bid on another posted vacancy. Such employees may bid on 
+promotional or demotional vacancies after three (3) months.  
+
+-182 If an employee is temporarily assigned to a job with a higher maximum rate, and 
+he/she is capable of doing the job, he/she shall receive an increase of fifteen (15) cents 
+per hour, or the probationary rate, whichever is greater, but in no event shall they be 
+paid more than the maximum rate of the job to which he/she is temporarily assigned. If 
+the temporary assignment in a higher classification is for three (3) hours or more, the 
+
+employee will receive the increase in pay for eight (8) hours. An employee who is 
+assigned on a temporary basis to a job in a lower pay grade shall have his/her hourly 
+pay rate maintained. This section shall not be used to circumvent the posting 
+requirement as stated in this Article. However, if the employee is so assigned because 
+of medical restriction, the rate of pay shall be that of the lower position. An employee so 
+affected may be eligible for long term disability consideration in accordance with 
+applicable provisions.  
+
+-183 The parties recognize the mutual commitment to and the Employer's program for 
+Affirmative Action. To that end therefore, it may be necessary to fill vacancies for 
+Affirmative Action purposes. The parties agree to cooperate to the extent possible for 
+the achievement of this objective in the following manner.  
+
+A. Underutilization shall be mutually identified by the parties.  
+
+B. When a vacancy is posted that has been identified as underutilized, the 
+group(s) for which it is underutilized shall be identified on the position posting.  
+
+C. The University will be permitted to fill the vacancy with the most senior 
+qualified individual from the identified group(s) possessing minimum 
+qualifications from within the bargaining unit.  
+
+D. In the event there is no qualified individual from the identified group(s) within 
+the bargaining unit, the Employer shall be permitted to fill the posted vacancy 
+with non-bargaining unit individuals with the concurrence of the Union.  
+
+E. In the event any dispute arises as to the intent or application of this provision, 
+the parties agree to utilize the process of Expedited Arbitration for resolution.  
+
+F. Such actions as listed above shall bypass the appropriate provisions of Article 
+36. 
+
+ARTICLE 37 - TRANSFERS  
+
+-184 Transfer of Employees: If an employee with seniority is transferred from one 
+seniority unit to another seniority unit as described in Article 4, Seniority Units, the 
+employee will be given seniority in the new unit equivalent to that which they had 
+accrued in the former unit and all of his/her seniority in their former unit shall be 
+cancelled.  
+
+-185 If an employee is transferred to a position under the Employer not included in 
+Local 1585, and is thereafter transferred again to a position within Local 1585, the 
+
+employee shall not have accumulated seniority while working in the position to which 
+he/she was transferred. This shall not be applied to employees who were transferred to 
+a position under the Employer not included in Local 1585 before July 1, 1971.  
+
+-186 Employees transferring under the above circumstances, Paragraphs 184 and 185, 
+shall retain all rights accrued for the purposes of any benefits provided for in this 
+Agreement.  
+
+-187 If and when operations or divisions or fractions thereof are transferred from one 
+location to another for a period of more than seven (7) calendar days, employees 
+affected will be given consideration to transfer on the basis of seniority, desire and 
+classification. Location exchange will be considered in such cases. Unsatisfactory work 
+performance may be a proper cause for denial of consideration for a vacancy if 
+substantiated.  
+
+-188 The Employer agrees that in any movement of work not covered above in 
+Paragraphs 184, 185, and 186, the Employer will discuss the movements with the Union 
+in order to provide for the protection of the seniority of the employees involved. In any 
+determination to contract work, the Employer will observe and abide by the provisions of 
+the Public Employment Relations Act, as amended.  
+
+ARTICLE 38 - CLASSIFICATIONS  
+
+-189 The Employer retains the right to eliminate, change and establish classifications. In 
+the event a new classification is established or an existing classification is changed, the 
+Employer shall place it in an existing pay grade in the Wage Schedule or in a new pay 
+grade, on the basis of the relative value of the elements of the new or changed 
+classification in comparison with the elements of existing Union classifications.  
+
+-190 The following procedure will be used whenever a new or changed classification is 
+placed in the Wage Schedule, as provided in Paragraph 189 of this article.  
+
+a. The Employer will provide the Union with a written copy of the new or 
+changed classification which shall describe the job content sufficiently to identify 
+the classification.  
+
+b. Upon receipt of the Employer's classification description, a reasonable 
+number of representatives of the Union may meet with representatives of the 
+Employer to discuss the new or changed classification and the placement in the 
+Wage Schedule.  
+
+c. If there is a disagreement with placement in the Wage Schedule, a grievance 
+concerning compliance with Paragraph 189 of this article may be processed 
+through the Grievance and Arbitration Procedure, provided it is submitted in 
+writing at Step III of the Grievance Procedure within seven (7) working days after 
+the Union is afforded the opportunity to discuss the matter with the Employer. If 
+such a grievance is processed through Arbitration, the Arbitrator shall have no 
+power or authority to revise the classification or to establish or change the wage 
+rate, but only to determine whether the proper placement has been made in the 
+Wage Schedule in accordance with Paragraph 188 of this article. 
+
+-191 In the event the Employer eliminates a classification, prior notice shall be given to 
+the Union. The Employer agrees that classifications will not be eliminated for the 
+purpose of undermining the Union. Disputes concerning violations of this provision may 
+be submitted at Step III of the grievance procedure.  
+
+ARTICLE 39 - WAGE RATE INCREASE PLAN  
+
+-192 Effective August 1, 1999, the job rate for Pay Grades I through XXIII shall be 
+increased 3% per hour.  
+
+a. For the 1999 calendar year a $250.00 lump sum Holiday payment to all 
+regular employees on the payroll as of December 1, 1999, as a one-time 
+payment. Payment shall be made during the month of December 1999. 
+
+-193 Effective August 1, 2000, the job rate for Pay Grades I through XXIII shall be 
+increased 3% per hour.  
+
+-194 Effective August 1, 2001, the job rate for Pay Grades I through XXIII shall be 
+increased 1% per hour.  
+
+-195 The probationary rate shall be five (5%) percent less than the job rate for pay 
+grades II through XIV. The probationary rate shall be ten (10%) percent less than the 
+job rate for pay grades XV through XXIII.  
+
+-196 Newly hired employees shall receive the probationary rate of the applicable grade 
+level during the probationary period and shall receive the job rate of the applicable 
+grade level upon completion of the probationary period within the classification.  
+
+ARTICLE 40 - RED CIRCLE RATES  
+
+-197 All regular full-time employees currently receiving "Red Circle Rates", i.e. rates in 
+excess of the maximum rate for a specific classification within a certain grade level will 
+continue to receive general increases as provided for in the Agreement. Any "Red Circle 
+
+Rates" after the effective date of this Agreement shall be determined mutually. 
+Employees "Red Circled" after the effective date of this agreement shall have their rates 
+frozen until such time as the new rates surpass the "red circle" rates.  
+
+ARTICLE 41 - WORKING HOURS  
+
+A. Shift Differential  
+
+-198 Effective August 1, 1993, employees who work on the second or third shift shall 
+receive, in addition to their regular pay, fifty (50) cents per hour and forty-five (45) cents 
+per hour, respectively, additional compensation. Such differential is to be added to the 
+total wages and does not increase the hourly rate and will be paid for all hours worked 
+on a shift.  
+
+B. Shift Hours  
+
+-199 The first shift is any shift that regularly starts on or after 5:00 a.m., but before 1:00 
+p.m. The second shift is any shift that regularly starts on or after 1:00 p.m. but before 
+9:00 p.m. The third shift is any shift that regularly starts on or after 9:00 p.m. but before 
+5:00 a.m.  
+
+C. Shift Preference  
+
+-200 Shift preference will be granted on the basis of seniority within the classification as 
+openings occur. The transfer to the desired shift will be effected within two (2) weeks 
+following the end of the current pay period within which a written request is made, 
+provided the employee can do the work.  
+
+a. An employee who is assigned to a specific shift based on his/her request shall 
+remain assigned to that shift and not be eligible for another shift preference 
+transfer for a period of six (6) months. 
+
+D. Rest Periods  
+
+-201 Employees may take a rest period of not more than fifteen (15) minutes for each 
+half day of work. Rest periods should be taken at a time and in a manner that does not 
+interfere with the efficiency of the work unit. The rest period is intended to be a recess to 
+be preceded and followed by an extended work period; thus, it may not be used to 
+cover an employee's late arrival to work or early departure, nor may it be regarded as 
+accumulative if not taken.  
+
+E. Wash-Up Time  
+
+-202 Employees will be given the necessary time prior to punching out, to wash up and 
+change uniforms if used.  
+
+F. Call-In Pay Show-Up Pay  
+
+-203 An employee reporting for emergency duty at the Employer's request for work 
+which the employee had not been notified of in advance and which is outside of and not 
+continuous with the employee's regular work period, shall be guaranteed at least three 
+(3) hours pay and three (3) hours work at the rate of time and one-half.  
+
+-204 An employee who reports for scheduled work and no work is available will receive 
+three (3) hours pay at the employee's regular straight time rate.  
+
+G. Overtime  
+
+-205 Overtime is defined as hours worked in excess of eight (8) in a day, or forty (40) 
+hours in an employee's work week for which the employee is paid time-and-one-half 
+his/her regular rate of pay, unless otherwise specified in Article 42.  
+
+-206 For the purpose of computing overtime, all hours paid will be considered time 
+worked.  
+
+-207 Overtime shall not be pyramided, compounded or paid twice for the same time 
+worked.  
+
+-208 In the event that a work schedule(s) is converted to four ten-hour days per week, 
+time-and-one-half the regular straight time rate will be paid to employees who work over 
+40 hours per work week.  
+
+ARTICLE 42 - TIME-AND-ONE-HALF IN SPECIFIC AREAS OF WORK  
+
+-209 Time-and-one-half the regular rate will be paid to employees who work over forty 
+(40) hours in a work week in the following specific areas of work:  
+
+a. Building Services Custodian classification within the Physical Plant.  
+
+b. All employees in the Department of Intercollegiate Athletics. 
+
+-210 Time-and-one-half the regular straight time rate will be paid to all employees who 
+work over eighty (80) hours in any pay period of two (2) calendar weeks in the College 
+of Agriculture and Natural Resources.  
+
+ARTICLE 43 - EQUALIZATION OF OVERTIME HOURS  
+
+-211 Overtime hours shall be divided as equally as practicable among employees in the 
+same classification in their district. An up-to-date list showing overtime hours and unit 
+seniority date will be posted in a prominent place in each district before the 15th of each 
+month.  
+
+-212 Whenever overtime is required, the person with the least number of overtime hours 
+in that classification within the district will, except in necessary emergencies, be called 
+first and so on down the list in an attempt to equalize the overtime hours. After 
+exhausting this procedure and the need still exists, the Employer may require the least 
+senior available, qualified employee to work. The Union reserves the right to grieve 
+what is an emergency. Employees in other classifications may be called if there is a 
+shortage of employees in the classification needed. In such cases they would be called 
+on the basis of least hours of overtime in their classification provided they are capable 
+of doing the work. When employees are notified by telephone, they will be called in 
+order of lowest hours first.  
+
+-213 For the purpose of this clause, time not worked because the employee was 
+unavailable, or did not choose to work, will be charged the average number of overtime 
+hours of the employees working during that overtime period (2 hour minimum).  
+
+-214 On July 1 each year, the amount of overtime hours credited to each employee will 
+be reduced equal to the amount of overtime hours credited to the employee at the 
+bottom of the overtime list and only the excess overtime hours for each employee shall 
+be carried forward.  
+
+-215 An employee who has changed classifications will be charged with the highest 
+number of overtime hours that exist in the new classification on the day he/she was 
+reclassified.  
+
+-216 When an employee terminates his/her term as Chief Steward, President, Steward, 
+or Alternate Steward, his/her overtime hours shall be disregarded and he/she shall 
+assume the average number of hours in his/her classification in his/her district, unless 
+he/she is currently charged with less than average hours.  
+
+ARTICLE 44 - LONGEVITY PAY  
+
+-217 All regular employees of the Employer hired prior to August 19, 1996 shall be 
+entitled to receive longevity pay for length of continuous service with the Employer 
+according to the following rules and schedule of payment.  
+
+-218 LONGEVITY YEAR The longevity year is defined as the twelve (12) month period 
+beginning October 1 of each year and ending September 30. For longevity payment 
+
+purposes only, a year of continuous full-time service is defined as any longevity year in 
+which the employee is actively employed for at least 39 calendar weeks (273 calendar 
+days).  
+
+-219 Longevity pay shall be computed as a percentage of the employee's regular 
+annual base wage. Base wage shall be that wage which an employee is being paid on 
+September 1, 1988, of the calendar year in which the longevity payment is due. The 
+annual base wage shall be equal to the employee's hourly rate times 2080 hours as of 
+the first pay period in September. If an employee is not on the payroll at that time, the 
+hourly rate to be used will be the hourly rate upon his/her return. Base wage shall not 
+include overtime or premium pay.  
+
+-220 INITIAL ELIGIBILITY The last date of hire as a regular employee will be used as 
+the normal longevity date. To qualify for the first longevity payment, an employee must 
+have completed six (6) years of continuous service as of October 1 of any year. To 
+qualify for initial eligibility, the employee must have been on active employment for at 
+least 39 calendar weeks (273 calendar days) for six (6) consecutive years and an 
+employee on October 1 of that year to receive the longevity payment. Periods of active 
+employment of less than 39 calendar weeks will be counted toward the employee's 
+years of continuous service.  
+
+-221 CONTINUING ELIGIBILITY After establishing initial eligibility, employees must be 
+actively employed for 39 calendar weeks (273 calendar days) during the longevity year 
+and an employee as of October 1 to receive the longevity payment on December 1. 
+Periods of active employment of less than 39 calendar weeks, while not qualifying the 
+employee for payment of longevity, shall be counted toward the employee's years of 
+continuous service.  
+
+-222 Payments to employees who are eligible each October 1 will be paid on December 
+1. No longevity payment as shown in the schedule below shall be made for that portion 
+of an employee's regular wage which is in excess of $9,500.  
+
+-223 Employees terminating prior to October 1 will receive a prorated longevity 
+payment.  
+
+-224 All regular employees, as of the date of the ratification of the Successor 
+Agreement, shall be ?grandfathered? under the current Longevity Pay program. 
+Employees who hire into the bargaining unit after the date of the ratification of the 
+Successor Agreement will be, and shall remain, ineligible for the Longevity Pay 
+program.  
+
+-225 Longevity Pay Schedule  
+   
+
+Continuous Service 
+
+Annual Percentage 
+
+6 or more and less than 10 years 
+10 or more and less than 14 years 
+14 or more and less than 18 years 
+18 or more and less than 22 years 
+22 or more and less than 26 years 
+26 or more years 
+
+2% 
+3% 
+4% 
+5% 
+6% 
+8% 
+
+ARTICLE 45 - HEALTH CARE COVERAGE  
+
+-226 Regular employees may enroll for health coverage within sixty (60) days of their 
+initial employment date. Employees may enroll in Blue Cross/Blue Shield, Blue Care 
+Network or Physicians Health Plan (HMO'S).  
+
+-227 For a regular full-time employee with single, two-party, or family coverage, the 
+Employer shall pay one hundred percent (100%) of the total monthly premium cost of 
+basic Blue Cross/Blue Shield coverage. The Employer contribution for three-quarter 
+time employees will be seventy-five percent (75%) of the full-time contribution of the 
+Blue Cross/Blue Shield plan and for one-half time employees will be fifty percent (50%) 
+of the full-time contribution of the Blue Cross/Blue Shield Plan. In no event shall it 
+exceed the full-time contribution for equivalent coverage. The monthly premium for 
+dependents on sponsored dependent riders will be deducted from the employee's 
+paycheck.  
+
+-228 The University contribution for coverage under one of the Health Maintenance 
+Organizations selected by the employee, will not exceed the contribution schedule 
+(single, two-party, family, etc.) for basic Blue Cross/Blue Shield coverage.  
+
+-229 Effective June 30, 1997, employees enrolled in the Physicians Health Plan or Blue 
+Care Network will assume a ten (10) dollar "Point of Service" co-pay.  
+
+-230 Effective June 30, 1997, employees enrolled in the Physicians Health Plan or Blue 
+Care Network will assume a five (5) dollar prescription drug co-pay.  
+
+-231 While an employee is on layoff and collecting Unemployment Compensation, the 
+Employer will make its normal contribution toward the cost of the Health Plan premium 
+for two (2) months beyond the month of separation due to layoff.  
+
+-232 Upon evidence of other insurance coverage, employees eligible for MSU health 
+care coverage are eligible to opt out of the MSU Health Plan each year during the May 
+Health Plan Open Enrollment to be effective July 1 through June 30 and receive a 
+$600.00 lump-sum special check payment to be made in the month of July of the next 
+plan year. Re-enrollment will be allowed during the plan year if proof of involuntary loss 
+of other insurance coverage is provided within thirty-one days of loss of coverage. The 
+employee would receive a prorated waiver payment in July.  
+
+ARTICLE 46 - DENTAL PROGRAM  
+
+-233 Dental Program - The dental program will be provided to all regular full-time 1585 
+members. Fifty percent (50%) or greater regular part-time employees may enroll 
+themselves and their eligible dependents with a proportionate University contribution 
+(based on the number of dependents covered.)  
+
+a. Fees for the below mentioned services will be covered on a usual, customary, 
+and reasonable basis with a fifty percent (50%) co-payment.  
+
+b. Basic diagnostic, preventative, emergency palliative, restorative, oral surgery, 
+endodontics, periodontics, and prosthodontics subject to a $600 annual 
+maximum per individual.  
+
+c. Orthodontics subject to a $600 lifetime maximum per individual.  
+
+d. The dental program benefits will be provided consistent with the carrier's 
+conditions and procedures. 
+
+-234 Regular employees will have the option to select a managed care dental plan. The 
+program will be provided by a carrier selected by MSU. These benefits will be provided 
+consistent with the carrier?s conditions and procedures. For additional information 
+contact the Benefits Office.  
+
+ARTICLE 47 - DISABILITY PLANS  
+
+A. Long-Term Disability Plan  
+
+-235 A University-paid Long-Term Disability Plan will be granted to all regular full-time 
+employees with at least thirty-six (36) continuous full-time equivalent (FTE) service 
+months.  
+
+-236 The LTD Program provides after a one hundred eighty (180) day disability waiting 
+period or after exhausting all sick leave accruals, whichever is later, for a continuation of 
+
+the monthly benefit equal to 60 percent of base salary up to a maximum $3,000 benefit 
+including any benefits from Social Security or Worker's Compensation programs.  
+
+-237 The LTD Program additionally pays the employee's normal contribution and the 
+University contribution to the base retirement program made available through the 
+University and selected by the employee.  
+
+-238 At the Employer's expense, the employee may continue to participate in the 
+Employee Paid Life, health care and dental programs.  
+
+-239 For additional information, contact the Benefits Office.  
+
+B. Extended Disability Plan  
+
+-240 Eligibility - Regular full-time employees with at least sixty (60) continuous full-time 
+equivalent (FTE) service months are eligible for extended disability leave.  
+
+-241 Usage - In cases which are expected to result in total disability, eligible employees 
+will be granted extended disability leave with full pay and benefits for up to six (6) 
+months or until all accruals are exhausted, whichever occurs later. This leave will 
+include the aggregate of accumulated sick leave, vacation and personal time to the 
+extent these benefits are due the employee.  
+
+C. Workers' Compensation (Long-Term)  
+
+-242 An employee who is receiving regular Workers' Compensation for a period in 
+excess of six (6) months shall receive, at the Employer's expense, life insurance and 
+health care coverage for the period covered by Workers' Compensation. If it is 
+determined by Benefits that the injured employee will be off work in excess of six (6) 
+months, the above benefit may be implemented upon such determination without 
+requiring premium payments from the affected employee.  
+
+ARTICLE 48 - EMPLOYEE PAID LIFE PROGRAM  
+
+-243 Coverage is available to regular full-time and part-time employees an optional 
+Employee-Paid Life program. The program is entirely funded from employee premiums 
+and rates are subject to future group experience. The insurance is decreasing term with 
+no cash or loan value and coverage may be selected up to $187,500 depending upon 
+age and the plan selected.  
+
+ARTICLE 49 - DEATH BENEFIT (EXPANDED LIFE PLAN)  
+
+-244 The Employer will provide, at no employee cost, a fully paid life insurance program 
+to all regular full-time employees at the time of employment.  
+
+-245 This program will provide a life insurance benefit in the case of death of an eligible 
+employee on active duty status (including unpaid leaves of absence of 180 days or less) 
+equal to one times the annual wage (i.e. basic hourly rate times 2080).  
+
+-246 The employee may designate a beneficiary if desired; if no beneficiary is 
+designated, the life benefit payment will be made in the following order: A. spouse, B. 
+children, C. parents or D. brothers and sisters. If no survivors, payment will be made in 
+a lump sum to the estate.  
+
+ARTICLE 50 - RETIREMENT BENEFITS  
+
+A. Base Retirement Program  
+
+-247 Michigan State University provides a base retirement program with the Teachers 
+Insurance and Annuity Association (TIAA), College Retirement and Equities Fund 
+(CREF) and other retirement programs made available through the University and 
+selected by the employee.  
+
+-248 Eligibility and Participation - Regular full-time and part-time employees are eligible 
+for participation in TIAA-CREF or other retirement programs made available through the 
+University, and selected by the employee, in accordance with the following policies:  
+
+a. The program is optional to employees under age 35 or who are over age 62 at 
+the time of employment.  
+
+b. The program is required as a condition of employment for employees who 
+have attained age 35.  
+
+c. Once required participation commences, it is not possible to withdraw from 
+TIAA-CREF or other retirement programs made available through the University, 
+and selected by the employee while employed at the University. 
+
+-249 Premium Contribution - The TIAA-CREF Retirement Annuity or other retirement 
+programs made available through the University, and selected by the employee, are 
+financed by a five (5%) percent deduction from an employee's base wage, overtime and 
+shift differential with the University contributing ten (10%) percent.  
+
+-250 Complete details concerning the provisions of the University's TIAA-CREF 
+Retirement Annuity Plan or other retirement programs made available through the 
+University, and selected by the employee, may be obtained from the Benefits Office.  
+
+B. Retirement for Employees Hired Prior to January 1, 1973  
+
+-251 Effective January 1, 1973, the University Retirement Program ceased to exist. 
+However, to insure that no employee lost credit for prior years of service, the following 
+guidelines were established to provide that an employee will receive no less than what 
+an improved plan formula would give him or her upon retirement.  
+
+-252 Those persons employed prior to January 1, 1973, who were 55 years of age or 
+older and/or had 25 years of service on January 1, 1973, could elect to remain subject 
+to the improved University Plan formula described below.  
+
+-253 The formula governing the old Retirement Plan was improved by basing pensions 
+on an amount equal to the highest three (3) year average earnings, multiplied by two 
+(2%) percent for each year of service, with a $3,600 ceiling.  
+
+-254 For employees participating in TIAA-CREF and/or other retirement programs made 
+available through the University, and selected by the employee, with a University 
+contribution, this new formula will be applied for each employee at retirement and will 
+become the minimum received by the employee.  
+
+-255 The annuity value, at the time of retirement, purchased by MSU's contributions to 
+TIAA-CREF and/or other retirement programs made available through the University, 
+and selected by the employee, will be compared to the pension amount as computed in 
+Paragraph 249 above, and the employee will receive the larger of the two figures. 
+Employee contributions to TIAA-CREF and/or other retirement programs made available 
+through the University, and selected by the employee, (retroactive to 1-1-73) will provide 
+additional annuity income.  
+
+-256 Those employees not participating in TIAA-CREF or other retirement programs 
+made available through the University, and selected by the employee, will have their 
+retirement income figured solely on the improved formula plus a ten (10%) percent 
+addition added to the base pension prior to actuarial reduction or the selection of a 
+survivor option.  
+
+-257 Employees who terminate without meeting the minimum requirements for 
+retirement will receive a retirement pension from the contributions made to the individual 
+TIAA-CREF annuity contract or other retirement programs made available through the 
+University, and selected by the employee, consistent with provisions of those contracts.  
+
+C. University Retirement  
+
+-258 University Retirement Defined - University retirement shall be defined as 1) 
+attainment of age 62 or older with 15 years of service, or 2) at any age with 25 years of 
+service. Interruptions in employment of less than one (1) year duration shall not 
+constitute a break in service as it pertains to retirement.  
+
+-259 Employees meeting the minimum retirement requirements will remain eligible to 
+maintain group health care and dental plan coverage and receive the Employer 
+contribution. Employees participating in the Employee-Paid Life Plan at the time of 
+retirement or terminating at age 65 or thereafter and who were enrolled prior to July 1, 
+1977, shall receive a $2,000 life benefit fully paid by the Employer.  
+
+-260 An employee who retires under the definition in Paragraph 258 shall be paid for 
+fifty (50) percent of his/her unused sick leave, but not to exceed a maximum of fifty 
+(50%) percent of twelve hundred (1200) hours, as of the effective date of separation.  
+
+-261 An employee who does not meet the definition of University Retirement in 
+Paragraph 258 but has at least five (5) years, but less than ten (10) years of continuous 
+service and has attained 65 years of age at the time of their separation shall be paid fifty 
+(50%) percent of their unused sick leave as of the effective date of separation. An 
+employee who does not meet the definition of University Retirement in Paragraph 258 
+but has at least ten (10) years of continuous service and has attained 65 years of age at 
+the time of their separation shall be paid one hundred (100%) percent of their unused 
+sick leave as of the effective date of separation but not to exceed a maximum of one 
+hundred (100) days, unless he/she has received a University contribution to TIAA-CREF 
+and was employed after 1-1-73 in which case the employee shall be paid as in 
+Paragraph 260.  
+
+-262 Prorated longevity payments shall be made to those employees who retire under 
+the definition of University Retirement in Paragraph 258 prior to October first of any 
+year. This also applies to those employees not under the definition of University 
+Retirement in Paragraph 258 but who are 65 years of age at the time of their 
+separation. Such prorated payments as indicated above shall be based on the number 
+of calendar months of full-time service credited to an employee from the preceding 
+October first to the date of retirement or separation and shall be made as soon as 
+practicable thereafter.  
+
+ARTICLE 51 - EDUCATIONAL ASSISTANCE  
+
+A. Qualifications  
+
+-263 Full-time employees who meet the following provisions may apply for the 
+Educational Assistance Program.  
+
+a. Twelve (12) continuous FTE service months with the University are required.  
+
+b. Admission as a student either in a degree program at Michigan State 
+University, or in a degree program or job related course at Lansing Community 
+College, M.S.U. Outreach Programs, or from those institutions accredited by 
+generally recognized accrediting agencies and/or are listed in the Education 
+Directory of the U.S. Department of Education. In addition, institutions approved 
+under such government training programs as the G.I. Bill of Rights will also be 
+recognized.  
+
+c. The appropriate educational assistance application complete with 
+departmental approval, must be submitted by employee requesting educational 
+assistance. 
+
+B. Non-Credit Courses  
+
+a. Employees may apply for reimbursement and release time for non-credit 
+courses.  
+
+b. Only job-related courses which are offered through the University Outreach 
+(e.g., Lifelong Education, Continuing Education and Evening College), MSU 
+Computer Laboratory, Davenport College, Lansing Community College, High 
+School Adult Education Programs, Human Resource Development Programs or 
+other Staff Benefits Office approved Educational/Training programs are 
+reimbursable.  
+
+c. If non-credit courses only are being taken during an academic year, 
+reimbursement will not exceed eight hundred ($800.00) dollars.  
+
+d. If non-credit courses are being taken during the same academic years as 
+course per Paragraph 263 above, the total reimbursement will not exceed the 
+MSU rate per credit for fourteen (14) credit hours.  
+
+e. Employees must document their successful completion of non-credit courses 
+by submitting (1) a certificate for the course signed by the instructor, or (2) a 
+form provided by Staff Benefits signed by the instructor. 
+
+C. Release Time  
+
+-264 When a course is not available during non-working hours, the employee may 
+request release time with pay not to exceed five (5) hours per week to attend one 
+course. The department administrator or designee shall determine whether unit 
+functions will allow such release time to be granted. Such determination shall be within 
+the sole discretion of the Employer.  
+
+D. Tuition Reimbursement  
+
+-265 Eligible employees shall be reimbursed for classes, not to exceed fourteen (14) 
+credit hours per academic year and MSU registration fee under the following conditions:  
+
+a. The employee has submitted the appropriate application to her/his supervisor 
+at least ten (10) working days before the initial meeting of the course(s) for which 
+they are seeking approval.  
+
+b. The classes for which the employee is seeking tuition reimbursement may not 
+exceed fourteen (14) total credit hours per academic year.  
+
+c. The employee shall provide the Employer with evidence that they have 
+successfully completed the approved course(s). A grade of 2.0 or better is 
+required for credit course(s).  
+
+d. If the employee is covered by benefits such as scholarship or fellowship aid, 
+government aid, G.I. benefits, or similar assistance, reimbursement will be made 
+only for that portion of the tuition fee which exceeds the amount of those 
+benefits. 
+
+E. Tuition Waiver  
+
+-266 Except as specifically provided below all general provisions of educational 
+assistance apply.  
+
+a. Local 1585 Bargaining Unit members who are eligible for educational 
+assistance shall be eligible for a tuition waiver program. This tuition waiver 
+program will be applicable only to those MSU courses enrolled in through the 
+University's standard registration procedure. As a condition of tuition waiver, an 
+employee must sign an agreement authorizing payroll deduction for the amount 
+of tuition waived to be used in the event he/she does not successfully complete 
+the course(s).  
+
+b. Employees interested in utilizing the tuition waiver program must submit their 
+educational assistance application complete with departmental approval to the 
+
+Benefits Office ten (10) working days prior to the beginning of early registration 
+(except fall term, when it is regular registration). The application must be marked 
+with a request for tuition waiver.  
+
+c. If the above time lines are met and educational assistance application is 
+approved, the Benefits Office will forward a list of employees eligible for tuition 
+waiver to the Fees and Scholarship Office and to Local 1585.  
+
+d. The Fees and Scholarship Office billing will reflect tuition waiver. Employees 
+will be responsible for all charges in excess of the registration fee and in excess 
+of fourteen (14) total credit hours per academic year. In the event the approved 
+course(s) are unavailable at the time of registration, other appropriate course(s) 
+may be substituted and the application amended subject to the approval of the 
+department administrator or designee and the Benefits Office by telephone when 
+necessary.  
+
+e. Employees who have had their tuition waived authorize the Benefits Office to 
+verify successful completion of approved courses at the end of the semester. In 
+cases where tuition waivers are withdrawn (e.g., terminated employee, non-
+approved course, unsuccessful completion), the University will attempt to payroll 
+deduct the waived tuition. If the University is unable to make collection through 
+payroll deduction, the Union agrees to be responsible for the outstanding 
+debt(s). 
+
+F. Course-Fee Courtesy  
+
+-267 Full-time employees with sixty (60) FTE service months are eligible under the 
+course-fee courtesy policy as it is provided to the faculty of the University.  
+
+ARTICLE 52 - SUPERVISION WORKING  
+
+-268 Supervisory employees shall not perform work in any job classification of a 
+seniority unit except as outlined in Paragraph 269.  
+
+-269 It is understood that supervisory employees may from time to time perform tasks 
+normally assigned to bargaining unit employees. However, supervisors will not perform 
+work which would deprive regular employees of overtime, cause regular employees to 
+work any reduced hours, nor will they perform any bargaining unit work when regular 
+employees are laid off in the individual unit where the work is being performed. The 
+parties agree that the Union, Housing and Food Services and Employee Relations 
+representatives will commit to act immediately to address concerns raised by the Union 
+over administration of this section.  
+
+ARTICLE 53 - STUDENT LABOR  
+
+-270 It is the policy of the Employer to provide jobs for students to assist them in 
+obtaining an education. It is the intent of the Employer to use student employees to 
+supplement the regular work force and not displace it.  
+
+-271 The University agrees to provide at or about mid-semester of each academic 
+semester the following information concerning student employees:  
+
+a. Name  
+
+b. Seniority Unit  
+
+c. Hours Worked 
+
+ARTICLE 54 - SAFETY COMMITTEE  
+
+-272 A Safety Committee of not more than ten (10) employees and the Employer's 
+representatives shall be established. The Union will furnish the Employer the names of 
+its members of the Safety Committee and such changes as may occur from time to time 
+in such personnel. This Committee shall meet at least once a month during regular 
+working hours for a period not to exceed two (2) hours for the purpose of making 
+recommendations to the Employer. If the Safety Committee feels that an investigation 
+should be made concerning a particular safety practice, rule or condition, then one 
+Union member of the Safety Committee and a representative of the Employer of the 
+Safety Committee will be designated to investigate the particular practice or rule and 
+make proper recommendations to the Employer.  
+
+-273 It shall be the intent of both parties to resolve safety concerns or grievances 
+internally before contacting outside agencies. Employees are encouraged to first 
+discuss safety concerns with supervision and/or departmental safety committees if 
+established.  
+
+-274 Any employee safety apparel or apparatus required by University rules, or State 
+laws, will be paid for by the University.  
+
+ARTICLE 55 - AGREEMENT COPIES  
+
+-275 At least three (3) official (proof) copies of the contract shall be signed by 
+appropriate representatives of the Employer and Union and shall be distributed among 
+Employer, Union and printer.  
+
+-276 The Employer shall provide the Union with up to 1,500 "small-book" copies of the 
+contract including current changes within ninety (90) days of ratification and final proof 
+reading by the Union.  
+
+ARTICLE 56 - SUPPLEMENTAL AGREEMENTS  
+
+-277 All supplemental agreements shall be subject to the approval of the Employer and 
+the Union.  
+
+ARTICLE 57 - MAINTENANCE OF CONDITIONS  
+
+-278 It is not the intent of the University to introduce for the first time in its history, mass 
+layoffs or reductions of hours. If, due to conditions beyond the control of the University, 
+it becomes necessary to reduce an Employee's working hours, the University agrees to 
+meet with the Union in order to affect a mutually agreeable settlement. If no agreement 
+can be reached at that meeting, the proposed reduction can then be implemented and 
+the dispute may then be arbitrated on the basis of the questions put before the arbitrator 
+by both sides.  
+
+-279 The University agrees to continue an Employee Assistance Program for the Union. 
+The Union shall maintain a representative on the committee set up to advise the Office 
+of Employee Assistance.  
+
+-280 The University shall furnish all employees with appropriate uniforms including 
+laundry services. Employees shall wear uniforms furnished by the Employer unless 
+otherwise mutually agreed.  
+
+-281 The University agrees to provide the Union with a campus restricted Centrex line 
+which shall be paid for by the University.  
+
+ARTICLE 58 - SPECIAL PROVISIONS  
+
+-282 The proceeding agreements apply only to the departments or divisions indicated, 
+and establish no precedent for seniority units not specifically mentioned.  
+
+I. COLLEGE OF AGRICULTURE AND NATURAL RESOURCES  
+
+-283 Assignment of Employees - Employees in the College of Agriculture and Natural 
+Resources may be assigned to other tasks during certain times without an increase or 
+decrease in their regular rate of pay as opposed to being laid off because of lack of 
+available work in the specific classification. It is understood that the above provision 
+does not guarantee twelve (12) months employment each year to any employee but is 
+
+merely a sincere effort on the part of the Employer to utilize the talents and services of 
+regular full-time employees during normally slow periods.  
+
+-284 The Employer will provide jobs for students to the end that impecunious 
+youngsters may secure an education. Many students are employed in order to receive 
+practical training as a part of their education. Therefore, the employer's current policy 
+with respect to the employment and assignment of students in the College of Agriculture 
+and Natural Resources will be continued.  
+
+-285 The University's current policy with respect to the employment and assignment of 
+academic personnel, graduate students and students on research projects in the 
+College of Agriculture and Natural Resources will be continued and the foremen and 
+supervisory employees in the College of Agriculture and Natural Resources may spend 
+up to thirty (30%) of their time performing work outside of their supervisory duties in 
+work related to research and special assignments in the bargaining unit.  
+
+-286 Additionally, it is understood that, in emergency situations when regular employees 
+are not immediately available, supervisory employees in the College of Agriculture and 
+Natural Resources may be required to perform work within specific job classifications. 
+The same thing is true when operational difficulties are encountered or in the testing of 
+materials. Likewise, instruction or training of employees may well include demonstrating 
+proper methods of accomplishing the tasks assigned and no dispute over the policy 
+stated above shall be occasioned by such demonstration.  
+
+-287 The Employer's current policy with respect to the employment and assignment of 
+personnel to the cooperative training program in the Creamery of the College of 
+Agriculture and Natural Resources will be continued.  
+
+II. GROUNDS MAINTENANCE  
+
+A. Tree Trimmer Trainee  
+
+-288 In the event that a Tree Trimmer position is vacated a Tree Trimmer Trainee 
+position shall be posted and filled.  
+
+-289 The Tree Trimmer Trainee shall remain in this classification for a period not to 
+exceed one year in order to be properly trained as a Tree Trimmer and then shall be 
+promoted to Tree Trimmer, salary grade XVIII. The trainee position shall remain vacant 
+until another Tree Trimmer position is vacated.  
+
+-290 While it is the intent in the foreseeable future to maintain the existing Tree 
+Trimming work force, this agreement does not preclude the Grounds Department from 
+adjusting the Tree Trimming work force as operational needs dictate.  
+
+B. Grounds Equipment Maintainer II Mechanic and Maintainer Grounds Equipment III  
+
+-291 The Maintainer Grounds Equipment I will be promoted to the Maintainer Grounds 
+Equipment II upon completion of two (2) years of satisfactory experience as a 
+Maintainer Grounds Equipment I, if the employee meets the minimum qualification 
+requirements of the current Maintainer Grounds Equipment II classification.  
+
+-292 A Maintainer Grounds Equipment II will be promoted to the Maintainer Grounds 
+Equipment III classification upon completion of a year of satisfactory experience as a 
+Maintainer Grounds Equipment II if the employee meets the minimum qualification 
+requirements of the current Maintainer Grounds Equipment III classification.  
+
+-293 Employees classified as Maintainer Grounds Equipment I and II will be allowed 
+release time to take the State of Michigan Certification test for engine repair, electrical 
+systems and manual transmission. The department will pay the fee required for such 
+tests, upon successful completion of such tests.  
+
+-294 While it is the intent in the foreseeable future to maintain the existing Maintainer 
+Grounds Equipment work force, this Agreement does not preclude the Grounds 
+Department from adjusting the Maintainer Grounds Equipment work force as operational 
+needs dictate.  
+
+C. Eye and Toe Protection  
+
+-295 The following provisions apply to those employees in the Grounds Department 
+who are required to wear eye protection and toe protection:  
+
+a. Employees who wear prescription glasses will be given an allowance of 
+$25.00 for the purchase of safety prescription glasses.  
+
+b. Employees who are required to wear toe protection will be given an allowance 
+of $25.00 toward the purchase of safety shoes.  
+
+c. The above allowances shall not be given more than once a fiscal year and 
+only upon suitable proof of purchase.  
+
+d. The University will seek, through its purchasing process, vendors who will 
+provide the lowest price on the above items. The employee may purchase the 
+
+above items anywhere so long as the items meet the minimum requirements 
+under the applicable law. 
+
+III. HOUSING AND FOODS SERVICES, PHYSICAL PLANT AND INTERCOLLEGIATE 
+ATHLETICS  
+
+A. Assignment of Employees  
+
+-296 Employees in the Housing and Food Services, Physical Plant and Intercollegiate 
+Athletics may be assigned to other tasks during certain times without an increase or 
+decrease in their regular rate of pay as opposed to being laid off because of lack of 
+available work in their specific classifications.  
+
+-297 The Employer will furnish the Union with a list of the employees who are being 
+assigned to other tasks rather than laid off. This list shall be sent to the Union office 
+prior to any reassignment under this section.  
+
+-298 It is understood that the above provision does not guarantee twelve months 
+employment each year to any employee but is merely a sincere effort on the part of the 
+Employer to utilize the talents and services of regular full-time employees during 
+normally slow periods.  
+
+B. Kitchen Sanitation Worker  
+
+-299 Half-time employees (the equivalent of one full-time employee) shall be hired as 
+Kitchen Sanitation Workers (Level VII) in the following units: Akers, Holden, Holmes, 
+Hubbard, Mason-Abbot, McDonel, Owen, Snyder-Phillips, Wilson and Wonders. The 
+University agrees to post and fill these part-time positions by the end of fall term, 1978.  
+
+-300 As full-time KSW positions are vacated, they may be replaced with full or half-time 
+employees equivalent to the full-time position regardless of the previous number of full-
+time KSW's in a particular unit as long as a dishwashing (and/or a pot and pan cleaning) 
+operation is necessary in the unit. Schedules may be rearranged to accommodate part-
+time employees.  
+
+-301 The Division of Housing and Food Services shall continue to supplement the 
+regular work force with student employees as management deems appropriate in 
+accordance with the contract.  
+
+-302 This provision does not in any way effect any other classifications nor does it 
+constitute the relinquishment of management's right to schedule, direct the work force or 
+to eliminate a classification.  
+
+C. Schedule of Employees to Work Designated Holidays  
+
+-303 This provision applies to work to be performed by two or more 1585 members in a 
+district on designated holidays:  
+
+a. For purposes of scheduling employees, overtime equalization lists shall be 
+utilized in accordance with Article 43.  
+
+b. The District Steward shall be scheduled to work on a designated holiday if 
+he/she - has previously occupied or - is currently in or- has previously performed 
+on a regular basis the classification and/or duties to be performed on that day.  
+
+c. If the District Steward is not scheduled as above, the Alternate Steward shall 
+be scheduled in conformance with above.  
+
+d. District Stewards and Alternate Stewards who work on a holiday shall have 
+their holiday pay calculated on their regular rate of pay for their normal University 
+classification.  
+
+e. If employees, including the District Steward or Alternate Steward in a 
+classification scheduled to work, decline to work, they shall be charged on the 
+equalization lists and management may assign and schedule employees in order 
+of lowest seniority within the classification scheduled to work on that designated 
+holiday.  
+
+f. This provision shall not alter Section D of the Housing and Foods article. 
+
+D. Cook Classification  
+
+-304 Effective January 1, 1978:  
+
+a. The Cook-Level IX description shall be implemented by this date.  
+
+b. All Cook I's Level IV shall become Cooks-Level IX. All remaining Cook II's-
+Level XI shall become Cooks-Level IX and red-circled at salary Level XI.  
+
+c. Employees currently classified as Cook I in Mayo and Campbell Halls will 
+remain at Level IV, red-circled, and be reclassified as FSW, Senior.  
+
+d. Cook, Senior will remain unchanged at Level XVI.  
+
+e. A Cook will be assigned to replace a Cook, Senior who is absent for an entire 
+(8) hour period and shall receive the probationary rate of Cook, Senior according 
+
+to Paragraph 181. If more than one Cook is present, the temporary promotion 
+shall be made on a rotating basis. The Union and management recognize the 
+temporarily promoted Cook must be willing and able to assume Cook Senior 
+duties. 
+
+-305 This Agreement applies only to the Cook sequence in the Division of Housing and 
+Food Services excluding Kellogg Center.  
+
+a. All Level 09 Cooks, who have successfully completed a two-year probationary 
+period shall, upon completion, automatically proceed to a Cook II, Level 12 
+position. 
+
+E. Assignment of Meat Cutters and Stockhandlers to the Freezer Room  
+
+-306 It is agreed that assignment to the freezer room is less desirable than other 
+assignments in Food Stores. Therefore, employees will be assigned to the freezer room 
+on a seniority preference basis, and shall be compensated at an additional fifty (50) 
+cents per hour during the period of the regular assignment to the freezer room. 
+Employees, who, during the course of their regular duties are compelled to occasionally 
+enter the freezer room and are not obliged to spend over one (1) hour consecutively in 
+the freezer room, shall not be eligible for the additional compensation. If a sufficient 
+number of employees do not opt for the freezer room assignment, the least senior 
+employees shall be assigned.  
+
+F. Baker (Central Bake Shop)  
+
+-307 If an employee is assigned or caused to be transferred to the position from a 
+higher pay rate than grade XIV maximum, the employee's pay rate shall be red circled 
+and his/her classification shall be retained for whatever future benefits he/she may 
+derive therefrom.  
+
+IV. INSTRUCTIONAL MEDIA CENTER  
+
+-308 Motor Vehicle Operators - the pick-up and delivery of equipment will be performed 
+by 1585 personnel, however, it is jointly recognized that in some situations it may not be 
+possible for only Motor Vehicle Operators to pick up and deliver audio visual equipment 
+as in cases where:  
+
+a. The security of equipment, on or off campus, is jeopardized.  
+
+b. Professional and technical staff are needed to determine equipment needs on 
+the program site and the IMC vans are used as a mobile center.  
+
+c. An emergency occurs, such as equipment failure, absence of personnel, last 
+minute deadlines, and other circumstances beyond the control of the 
+dispatchers.  
+
+d. Off-campus programs which require the transportation of an authorized 
+operator as well as equipment when prior delivery is not possible, and when 
+overtime has been offered and refused by bargaining unit employees.  
+
+e. During slow periods, Motor Vehicle Operators will be reassigned other duties 
+in order to provide work.  
+
+f. All programs involving Central Administration (Presidents and Vice 
+Presidents). 
+
+V. CUSTODIAL SERVICES  
+
+A. Grievance/Disciplinary  
+
+-309 Meetings involving the District Supervisor for Third Shift employees shall normally 
+be scheduled at 4:30 p.m. on Fridays unless mutually agreed otherwise.  
+
+-310 For Custodial Services employees scheduled Sunday through Thursday, the 
+District Supervisor or his/her designee shall hold meetings requiring a District Steward 
+during the employee's normal working hours unless mutually agreed otherwise. These 
+meetings shall occur not more than once a week.  
+
+B. Equalization of Overtime  
+
+-311 On July first of each year, the number of overtime hours credited to each employee 
+in the custodial department will be reduced to zero.  
+
+a. Overtime for classifications other than Custodians (Set Up Worker, Building 
+Services Custodian, Swimming Pool Operator-Custodian, and Stockroom 
+personnel) shall be offered first to the employees within the classification needed 
+and second to all employees within the three (3) Physical Plant Custodial 
+Districts. In both first and second situations overtime shall be offered to 
+employees with lowest overtime hours first and so on down the list (the present 
+practice of posting available overtime will be continued). 
+
+-312 An employee who changes classifications within the custodial series (Custodian II, 
+III, and IV) shall retain the number of overtime hours which the employee held before 
+the date of change.  
+
+-313 Custodial overtime within a building will be offered first to the head custodian 
+normally assigned to the building where the overtime is available; and second to all 
+other custodial employees normally assigned to the building; and then to all other 
+custodial employees. In the second and third situations, overtime should be offered to 
+employees with the lowest overtime hours first and so on down the list.  
+
+-314 When the Employer combines buildings for the purpose of custodial overtime, the 
+overtime shall be offered first to the building heads in the buildings being combined 
+based on the lowest overtime hours worked, until a building head accepts the overtime 
+or all refuse it, after which it shall be offered to those employees regularly assigned to 
+those buildings being combined based on the lowest overtime hours worked within the 
+classification needed.  
+
+C. Automotive Services  
+
+-315 It is agreed that Automotive Services, Physical Plant Division, will continue their 
+long-standing policy relating to split runs on the Campus Bus System. Included in this 
+policy are the following:  
+
+a. Split runs will be minimized as much as possible.  
+
+b. All new employees shall read the job description and be aware they may have 
+to operate a split run.  
+
+c. The Bus Drivers may suggest alternate solutions to eliminate any or all split 
+runs. These solutions will be considered and adopted if they:  
+
+- Do not increase operating costs.  
+- Do not eliminate needed service. 
+
+D. Bus Department Bidding Procedure  
+
+-316 Before the start of each Michigan State University school semester, Bus Drivers 
+will choose their bus runs by seniority within the Bus Department with the first choice 
+going to the highest seniority driver and so on down the seniority list. Hereafter, the 
+"start of the semester" shall be defined as the first day of each school semester that 
+buses commence operation with that semester's schedule.  
+
+-317 After the start of the semester but before two-thirds of the semester has been 
+completed, if a new bus run is established, all Bus Drivers will rebid runs by seniority as 
+stated in Paragraph 316.  
+
+-318 After the start of the semester but prior to the completion of two-thirds of that 
+semester, if a Bus Driver is not able to continue his/her run and is not expected to be 
+able to return to that run for the remainder of that semester, all drivers from that driver's 
+position on the seniority list and on down will rebid the bus run chosen by said driver 
+and all other drivers with less seniority. All bidding will be based on first choice to the 
+highest seniority Bus Department driver.  
+
+-319 After the start of the semester, if a Bus Driver is unable to continue his/her run for 
+an unspecified period of time, but he/she is expected to return prior to the end of the 
+semester, drivers from the extra board will be offered the run in the order of highest Bus 
+Department seniority.  
+
+-320 After the start of a semester, if a Bus Driver who has not chosen a run returns to 
+work in the Bus Department, the runs chosen by drivers with less seniority than the 
+returning driver will be re-bid by the returning driver and all drivers with less seniority. All 
+re-bidding will be based upon first choice to the highest seniority Bus Department driver.  
+
+-321 During the last one-third of a semester, if a new run is established, it will be filled 
+by a driver from the extra board with first choice given to highest seniority employee 
+assigned to the extra board and so on down the list. If the new route necessitates hiring 
+an additional employee, and the more senior extra board employees decline the new 
+run, the new employee will be assigned to that route.  
+
+-322 During the last one-third of the semester, if a new employee is hired he/she will be 
+assigned to the extra board for the remainder of the semester, unless the more senior 
+employees already assigned to the extra board decline any other options which might 
+be available to them.  
+
+-323 Whenever re-bidding is necessary, all driver assignments will remain the same as 
+originally established until the completion of the re-bidding process.  
+
+VI. UNIVERSITY SERVICES  
+
+A. General Stores and Campus Mail Service  
+
+-324 A classification of Materials Handler will apply to all present 1585 employees and 
+to all employees hired hereafter in the departments of General Stores and Campus Mail 
+Service.  
+
+-325 Those employees presently classified as Group Leaders will be red-circled at their 
+present rate and the Group Leader classification will be replaced by Materials Handler.  
+
+-326 Those 1585 positions designated by management as having substantial leadership 
+responsibilities will be classified as Material Handler Leaders, Grade Level XVIII.  
+
+-327 General Stores management will develop and implement a training program, 
+successful completion of which will move employees from Grade XIII to the top of Grade 
+XV in thirty (30) months.  
+
+-328 New employees will automatically enter the training program and will receive step 
+increases each six (6) months providing they have successfully completed that portion 
+of the training to which they are assigned. New employees will be assumed to be in a 
+training program at all times during the first thirty (30) months of employment.  
+
+-329 The amount of the step increase will be determined by dividing the difference 
+between the start of Grade XIII and the top of Grade XV by five. If there is a remainder 
+to the quotient, it will apply to the last increase.  
+
+B. University Printing  
+
+-330 The classification Print Shop Trainee will apply to all new 1585 employees without 
+previous printing experience hired in the Print Shop bindery.  
+
+-331 Printing management will develop and implement a training program, successful 
+completion of which will move employees from Grade Level VI to the top of Grade Level 
+IX in twenty-four (24) months.  
+
+-332 New bindery employees will automatically enter the training program and will 
+receive step increases each six (6) months providing they have successfully completed 
+the portion of training to which they have been assigned.  
+
+-333 New employees will be assumed to be in a training program at all times during the 
+first twenty-four (24) months of employment. Unsuccessful completion of any aspect of 
+the training program will result in layoff for a new employee or return to a former 
+classification for a Seniority employee.  
+
+-334 The amount of the step increase will be determined by dividing the difference 
+between the start of Grade Level VI and the top of Grade Level IX by four. If there is a 
+remainder to the quotient, it will apply to the last increase.  
+
+VII. VETERINARY MEDICINE  
+
+A. Work Schedule  
+
+-335 There shall not be any change in the work schedule without agreement between 
+Employer and employee.  
+
+-336 Any change in the work shift shall be discussed seven (7) days prior to change 
+except in an emergency.  
+
+-337 Any time worked not included in the regular work schedule shall be considered 
+overtime.  
+
+VIII. OVERTIME EQUALIZATION -- ULAR  
+
+-338 Overtime hours shall be divided as equally as practicable among employees in 
+specific work locations. An up-to-date list showing overtime hours and unit seniority 
+date, by specific work location, will be posted in prominent places within the seniority 
+unit by the 15th day of each month. A copy shall also be provided to the steward of the 
+district.  
+
+-339 Whenever overtime is required within a specific work location, the overtime shall 
+be offered first to employees normally assigned to that group on a rotating basis. After 
+exhausting this procedure and the need still exists, the Employer shall offer the overtime 
+to employees normally assigned to other specific work locations, regardless of 
+classification. In such cases, they would be called on the basis of least hours of 
+overtime within the seniority unit.  
+
+-340 For the purpose of this agreement, time not worked because the employee was 
+unavailable or did not choose to work, will be charged the average number of overtime 
+hours of the employees working during that overtime period.  
+
+-341 On July 1 each year, the amount of overtime hours credited to each employee 
+within the seniority unit will be reduced to a zero base.  
+
+-342 The Employer will make a reasonable effort to maintain hours between specific 
+work locations equal, with a maximum variance between locations not to exceed 100 
+hours. If in the event equalized hours of one group exceed that of another location by 
+greater than 100 hours, overtime shall be offered to employees in the lower group, until 
+such time as the groups are once again equalized. At that time, provisions of Paragraph 
+339 would be applicable.  
+
+-343 Weekend overtime shall be offered in increments of not less than 3 hours, except 
+in necessary emergencies.  
+
+-344 For purposes of this Agreement, specific work location and employee groups shall 
+be defined as regular 1585 employees normally assigned to locations in ULAR. The 
+present ULAR locations are:  
+
+a. Veterinary Research Farm/Incinerator  
+
+b. Giltner Hall  
+
+c. Psychology Research Building/FeeHall/Veterinary Clinic/Olds Hall  
+
+d. Life Sciences Building/M.S.U. Clinical Center 
+
+ARTICLE 59 - SAVINGS CLAUSE  
+
+-345 If during the life of this Agreement any of the provisions contained herein are held 
+to be invalid by operation of law or by any tribunal of competent jurisdiction or if 
+compliance with or enforcement of any provisions should be restrained by such tribunal 
+pending a final determination as to its validity, the remainder of this Agreement shall not 
+be affected thereby. In the event any provision herein contained is so rendered invalid, 
+upon written request of either party hereto, the Employer and the Union shall 
+immediately enter into collective bargaining for the purpose of negotiating a mutually 
+satisfactory replacement for such provision.  
+
+ARTICLE 60 - CONTRACT DOCUMENTS  
+
+-346 The provisions herein contained constitute the entire Agreement between the 
+parties.  
+
+ARTICLE 61 - RATIFICATION  
+
+-347 The Union agrees to submit this Agreement to the employees of the seniority units 
+covered by this Agreement for ratification by them on or before October 20, 1999, and 
+the local Union will recommend to the employees that it be ratified.  
+
+ARTICLE 62 - MODIFICATION  
+
+-348 This Agreement shall continue in full force and effect from the date hereof until 
+11:59 p.m., July 31, 2002, and from year to year thereafter, unless notice of modification 
+is given as provided in paragraphs 351, 352.  
+
+-349 This Agreement shall be effective from and after August 1, 1999, until and 
+including July 31, 2002.  
+
+-350 If either party desires to modify or change this Agreement, it shall, sixty (60) days 
+prior to the expiration date or any subsequent expiration date, give written notice of 
+amendment, in which event the notice of amendment shall set forth the nature of the 
+amendment or amendments desired. Any amendments that may be agreed upon shall 
+become and be a part of this Agreement without modifying or changing any of the other 
+terms of this Agreement. The Employer agrees to continue all contractual rights and 
+benefits past the expiration date of this contract until a new contract takes effect as long 
+as there is no strike by the Union. There shall be no lockout by the Employer.  
+
+-351 Notice of modification - Notice shall be in writing and shall be sufficient if sent by 
+certified mail addressed, if to the Union, to the Local 1585 President and if to the 
+Employer, addressed to the Director Employee Relations, or to any such address as the 
+Union or the Employer may make available to each other.  
+
+ARTICLE 63 - EFFECTIVE DATE  
+
+-352 This agreement shall become effective as of August 1, 1999. IN WITNESS 
+WHEREOF THE PARTIES HAVE SET THEIR HANDS:  
+
+Date Signed - October 21, 1999  
+   
+   
+
+EMPLOYER 
+
+Fred L. Poston   
+Interim VP for Fin & Oper & Treas 
+C. Keith Groty   
+Asst VP Human Resources 
+Samuel A. Baker   
+Director, Employee Relations  
+Thomas A. Dutch   
+Personnel Admin Hous & Food Servs 
+Gary M. Glazier   
+Assoc Mnger Vice Prv/Dean ANR 
+Karen A. Griggs   
+Assoc Dir University Housing 
+Stanley Hecker   
+Personnel Admin Phys Plant 
+Melvin D. Latnie   
+Mnger Custodial Servs 
+John L. Lewis   
+
+UNION 
+James Rhodes   
+President 
+Violet Hickey   
+Vice President 
+Lou Sutfin   
+Sec/Treasurer 
+James S. Bale   
+Recording Secretary 
+John Fenby   
+Chief Steward 
+Joel Gutzki   
+AFSCME Council 25 
+Larry Bouck   
+Negotiating Team 
+Kathy Lezovich   
+Negotiating Team 
+James Planck   
+
+Director University Services 
+Jennifer J. McManus   
+Pers Asst Admr/S Grounds Maintenance 
+
+ 
+
+APPENDIX I  
+
+LOCAL 1585 AFSCME  
+
+Negotiating Team 
+James Rhodes, Jr.   
+Negotiating Team 
+David Robison   
+Negotiating Team 
+
+CLASSIFICATION AND LEVEL SCHEDULE  
+   
+
+CLASSIFICATION 
+
+LEVEL 
+
+Agricultural & Special Equipment Operator I 
+Agricultural & Special Equipment Operator II 
+Agricultural Group Leader 
+Agricultural Research Aide 
+Animal Attendant 
+Animal Caretaker I 
+Animal Caretaker II 
+Animal Caretaker III/Repair 
+Animal Caretaker III/Treadmill 
+Animal Caretaker IV 
+Animal Caretaker Research I 
+Animal Caretaker Research II 
+Athletic Equipment Worker 
+Baker/Central Bake Shop 
+Baker/Central Bake Shop Trainee 
+Baker/Pastry Chef 
+Baker/Pastry Chef Assistant I 
+Baker/Pastry Chef Assistant II 
+Banquet Setup Worker/Kellogg Center 
+Building Sanitation Worker 
+Building Security Worker 
+Building Services Custodian 
+Building Services Group Leader 
+
+XVI 
+XIX 
+XX 
+SVIII 
+VI 
+IX 
+XIV 
+XV 
+XV 
+XVII 
+XV 
+XVIII 
+XIX 
+XIV 
+IX 
+XIX 
+XV 
+XVII 
+XII 
+VIII 
+XII 
+XIV 
+XV 
+
+Building Services Worker 
+Building Services Worker/Kellogg Center 
+Central Sterilization Worker 
+Central Sterilization Worker Group Leader 
+Cook I 
+Cook II 
+Cook III 
+Cook, Cowles House 
+Cook, Kellogg Center 
+Cook, Range/Kellogg Center 
+Cook, Vegetable/Kellogg Center 
+Costume Maker 
+Cowles House Services Assistant  
+Custodian I 
+Custodian II 
+Custodian III 
+Custodian IV 
+Dairy Processing Worker 
+Dining Room Worker 
+Drapery Maker I 
+Drapery Maker II 
+Driver, Bus 
+Driver/Buyer Assistant Cyclotron 
+Driver/Buyer Produce 
+Feed Mill Operator 
+Food Processing Worker I 
+Food Processing Worker II 
+Food Service Cashier/Attendant 
+Food Service Worker Aide 
+Food Service Worker I 
+Food Service Worker II 
+Gardener I 
+Gardener II 
+Greenskeeper I 
+Greenskeeper II 
+
+II 
+VII 
+XI 
+XIV 
+IX 
+XII 
+XVI 
+XV 
+XVIII 
+VII 
+XIII 
+VII 
+XIV 
+II 
+X 
+XII 
+XV 
+XVI 
+IA 
+V 
+X 
+XIII 
+XV 
+XXI 
+XIX 
+IV 
+VI 
+IC 
+IB 
+II 
+IV 
+XII 
+XVI 
+XII 
+XVI 
+
+Grounds/Site Construction Group Leader 
+Grounds Utility Worker 
+Groundskeeper I 
+Groundskeeper II 
+Gym Store Attendant 
+Herder I 
+Herder II 
+Horticulture Aid 
+Host/Kellogg Center 
+Incinerator Worker 
+Intramural Supply Attendant 
+Kitchen Sanitation Worker I 
+Kitchen Sanitation Worker II 
+Laboratory Preparation Aide 
+Laboratory Sanitation Worker 
+Laboratory Preparation Aide 
+Laboratory Sanitation Worker 
+Latoratory Worker 
+Laborer Agricultural I 
+Laborer Agricultural II 
+Laborer General 
+Laborer I 
+Laborer II 
+Laborer III 
+Laundry Control Checker 
+Laundry Equipment Maintainer 
+Laundry Helper 
+Laundry Worker I 
+Laundry Worker II 
+Lodal & Huge Haul Operator 
+Mail Carrier 
+Maintainer Bowling Alley Equipment 
+Maintainer Custodial Equipment  
+Maintainer Fire Extinguisher Equipment 
+Maintainer Food Equipment I 
+
+XX 
+XVIII 
+XII 
+XVI 
+X 
+XVI 
+XIX 
+XIV 
+II 
+XVI 
+XIII 
+VII 
+VIII 
+VII 
+XV 
+VII 
+XV 
+VI 
+IX 
+XII 
+IX 
+VI 
+IX 
+XII 
+IV 
+XXII 
+II 
+VI 
+XI 
+XVI 
+X 
+XVII 
+XVIII 
+XIX 
+XIX 
+
+Maintainer Food Equipment II 
+Maintainer Grounds Equipment I 
+Maintainer Grounds Equipment II 
+Maintainer Grounds Equipment III 
+Maintainer Heating Equipment 
+Maintainer Irrigation Systems 
+Maintainer Munn Arena 
+Maintainer Parking Meter Equipment 
+Maintenance Worker Agricultural I 
+Maintenance Worker Agricultural II 
+Maintenance Worker I 
+Maintenance Worker II 
+Maintenance Worker III 
+Maintenance Worker ULAR 
+Maintenance Worker Veterinary  
+Material and Logistics Worker I 
+Material and Logistics Worker II 
+Material Handler 
+Material Handler Group Leader 
+Material Handler Trainee 
+Meat Cutter I 
+Meat Cutter II 
+Meat Cutter III 
+Motor Vehicle Operator 
+Pest Control Worker 
+Recycling/Salvage Worker I 
+Recycling/Salvage Worker II 
+Set-up Worker I 
+Set-up Worker II 
+Sexton 
+Snackshop/Concession Attendant 
+Stockhandler I 
+Stockhandler II 
+Stockhandler III 
+Stockhandler Cyclotron Laboratory 
+
+XXII 
+XVI 
+XX 
+XXII 
+XX 
+XX 
+XVII 
+XIX 
+XIV 
+XVI 
+XII 
+XVI 
+XIX 
+XIX 
+XVII 
+XV 
+XIX 
+XV 
+XVIII 
+XIII 
+XV 
+XVII 
+XVIII 
+XII 
+XX 
+VI 
+X 
+XVI 
+XIX 
+XIV 
+VII 
+XII 
+XVI 
+XVIII 
+XIX 
+
+Stockhandler Scientific Supplies I 
+Stockhandler Scientific Supplies II 
+Stockroom Attendant I 
+Stockroom Attendant II 
+Swimming Pool Operator-Custodian I 
+Swimming Pool Operator-Custodian II 
+Telephone Operator 
+Tree Trimmer I 
+Tree Trimmer II 
+Tree Trimmer Trainee 
+Warehouse Attendant 
+
+APPENDIX II 
+
+XV 
+XVIII 
+XV 
+XVIII 
+XIV 
+XIX 
+X 
+XVIII 
+XIX 
+XIV 
+XVI 
+
+Wage rate schedule effective August 1, 1999, for those employees included in the 
+seniority units clause of this agreement.*  
+   
+
+LEVEL 
+
+PROBATIONARY 
+
+JOB RATE 
+
+IA 
+IB 
+II 
+III 
+IV 
+V 
+VI 
+VII 
+VIII 
+IX 
+X 
+XI 
+XII 
+XIII 
+XIV 
+XV 
+XVI 
+XVII 
+
+$  7.01 
+$  8.18 
+$10.93 
+$11.13 
+$11.49 
+$11.69 
+$11.95 
+$12.05 
+$12.37 
+$12.45 
+$12.78 
+$13.09 
+$13.43 
+$13.58 
+$13.72 
+$13.39 
+$13.72 
+$13.98 
+
+$  8.01 
+$  8.61 
+$11.51 
+$11.72 
+$12.09 
+$12.30 
+$12.58 
+$12.68 
+$13.02 
+$13.10 
+$13.45 
+$13.78 
+$14.14 
+$14.29 
+$14.44 
+$14.88 
+$15.24 
+$15.53 
+
+XVIII 
+XIX 
+XX 
+XXI 
+XXII 
+XIIII 
+
+$14.30 
+$14.73 
+$15.17 
+$15.30 
+$15.89 
+$16.00 
+
+*Except as specified in Appendix V  
+
+$15.89 
+$16.37 
+$16.85 
+$17.00 
+$17.66 
+$17.78 
+
+APPENDIX III 
+
+Wage rate schedule effective August 1, 2000, for those employees included in the 
+seniority units clause of this agreement.*  
+   
+
+LEVEL 
+
+PROBATIONARY 
+
+JOB RATE 
+
+IA 
+IB 
+II 
+III 
+IV 
+V 
+VI 
+VII 
+VIII 
+IX 
+X 
+XI 
+XII 
+XIII 
+XIV 
+XV 
+XVI 
+XVII 
+XVIII 
+XIX 
+
+$  7.25 
+$  8.43 
+$11.27 
+$11.47 
+$11.83 
+$12.04 
+$12.31 
+$12.41 
+$12.74 
+$12.82 
+$13.16 
+$13.48 
+$13.83 
+$13.98 
+$14.13 
+$13.80 
+$14.13 
+$14.40 
+$14.73 
+$15.17 
+
+$  8.25 
+$  8.87 
+$11.86 
+$12.07 
+$12.45 
+$12.67 
+$12.96 
+$13.06 
+$13.41 
+$13.49 
+$13.85 
+$14.19 
+$14.56 
+$14.72 
+$14.87 
+$15.33 
+$15.70 
+$16.00 
+$16.37 
+$16.86 
+
+XX 
+XXI 
+XXII 
+XIIII 
+
+$15.62 
+$15.76 
+$16.37 
+$16.48 
+
+$17.36 
+$17.51 
+$18.19 
+$18.31 
+
+*Except as specified in Appendix VI.  
+
+APPENDIX IV 
+
+Wage rate schedule effective August 1, 2001, for those employees included in the 
+seniority units clause of this agreement.*  
+   
+
+LEVEL 
+
+PROBATIONARY 
+
+JOB RATE 
+
+IA 
+IB 
+II 
+III 
+IV 
+V 
+VI 
+VII 
+VIII 
+IX 
+X 
+XI 
+XII 
+XIII 
+XIV 
+XV 
+XVI 
+XVII 
+XVIII 
+XIX 
+XX 
+XXI 
+
+$  7.33 
+$  8.51 
+$11.38 
+$11.58 
+$11.94 
+$12.16 
+$12.44 
+$12.53 
+$12.86 
+$12.94 
+$13.29 
+$13.61 
+$13.97 
+$14.13 
+$14.27 
+$13.93 
+$14.27 
+$14.54 
+$14.88 
+$15.33 
+$15.78 
+$15.92 
+
+$  8.33 
+$  8.96 
+$11.98 
+$12.19 
+$12.57 
+$12.80 
+$13.09 
+$13.19 
+$13.54 
+$13.62 
+$13.99 
+$14.33 
+$14.71 
+$14.87 
+$15.02 
+$15.48 
+$15.86 
+$16.16 
+$16.53 
+$17.03 
+$17.53 
+$17.69 
+
+XXII 
+XIIII 
+
+$16.53 
+$16.64 
+
+$18.37 
+$18.49 
+
+*Except as specified in Appendix VII.  
+
+APPENDIX V 
+
+Specific Classification - Wage Rate Schedule Effective August 1, 1999, for those 
+employees included in the seniority units clause of this agreement.  
+
+Dining Room Worker (Level IA)  
+Start - $7.01  
+6 months - $7.51  
+12 months - $8.01  
+
+Food Service Worker Aide (Level IB)  
+Start - $8.18  
+6 months - $8.39  
+12 months - $8.61  
+
+Food Service Cashier/Attendant (Level IC)  
+Start - $8.61  
+6 months - $9.11  
+12 months - $9.61  
+
+Building Service Worker (Level II)  
+Start - $10.51  
+6 months - $11.01  
+12 months - $11.51  
+
+Food Service Worker I (Level II)  
+Start - $10.51  
+6 months - $11.01  
+12 months - $11.51  
+
+Laundry Helper (Level II)  
+Start - $10.51  
+6 months - $11.01  
+12 months - $11.51  
+
+Snack Shop Attendant (Level VII)  
+Start - $11.68  
+
+6 months - $12.18  
+12 months - $12.68  
+
+Kitchen Sanitation Worker I (Level VII)  
+Start - $11.68  
+6 months - $12.18  
+12 months - $12.68  
+
+Animal Caretaker II (Level XIV)  
+Start - $13.44  
+6 months - $13.94  
+12 months - $14.44  
+
+Animal Caretaker III (Level XV)  
+Start - $13.88  
+6 months - $14.38  
+12 months - $14.88  
+
+Animal Caretaker IV (Level XVII)  
+Start - $14.53  
+6 months - $15.03  
+12 months - $15.53  
+
+APPENDIX VI 
+
+Specific Classification - Wage Rate Schedule Effective August 1, 2000, for those 
+employees included in the seniority units clause of this agreement.  
+
+Dining Room Worker (Level IA)  
+Start - $7.25  
+6 months - $7.75  
+12 months - $8.25  
+
+Food Service Worker Aide (Level IB)  
+Start - $8.43  
+6 months - $8.65  
+12 months - $8.87  
+
+Food Service Cashier/Attendant (Level IC)  
+Start - $8.90  
+6 months - $9.40  
+12 months - $9.90  
+
+Building Service Worker (Level II)  
+Start - $10.86  
+6 months - $11.36  
+12 months - $11.86  
+
+Food Service Worker I (Level II)  
+Start - $10.86  
+6 months - $11.36  
+12 months - $11.86  
+
+Laundry Helper (Level II)  
+Start - $10.86  
+6 months - $11.36  
+12 months - $11.86  
+
+Snack Shop Attendant (Level VII)  
+Start - $12.06  
+6 months - $12.56  
+12 months - $13.06  
+
+Kitchen Sanitation Worker I (Level VII)  
+Start - $12.06  
+6 months - $12.56  
+12 months - $13.06  
+
+Animal Caretaker II (Level XIV)  
+Start - $13.87  
+6 months - $14.37  
+12 months - $14.87  
+
+Animal Caretaker III (Level XV)  
+Start - $14.33  
+6 months - $14.83  
+12 months - $15.33  
+
+Animal Caretaker IV (Level XVII)  
+Start - $15.00  
+6 months - $15.50  
+12 months - $16.00  
+
+APPENDIX VII 
+
+Specific Classification - Wage Rate Schedule Effective August 1, 2001, for those 
+employees included in the seniority units clause of this agreement.  
+
+Dining Room Worker (Level IA)  
+Start - $7.33  
+6 months - $7.83  
+12 months - $8.33  
+
+Food Service Worker Aide (Level IB)  
+Start - $8.51  
+6 months - $8.73  
+12 months - $8.96  
+
+Food Service Cashier/Attendant (Level IC)  
+Start - $9.00  
+6 months - $9.50  
+12 months - $10.00  
+
+Building Service Worker (Level II)  
+Start - $10.98  
+6 months - $11.48  
+12 months - $11.98  
+
+Food Service Worker I (Level II)  
+Start - $10.98  
+6 months - $11.48  
+12 months - $11.98  
+
+Laundry Helper (Level II)  
+Start - $10.98  
+6 months - $11.48  
+12 months - $11.98  
+
+Snack Shop Attendant (Level VII)  
+Start - $12.19  
+6 months - $12.69  
+12 months - $13.19  
+
+Kitchen Sanitation Worker I (Level VII)  
+Start - $12.19  
+6 months - $12.69  
+12 months - $13.19  
+
+Animal Caretaker II (Level XIV)  
+Start - $14.02  
+6 months - $14.52  
+12 months - $15.02  
+
+Animal Caretaker III (Level XV)  
+Start - $14.48  
+6 months - $14.98  
+12 months - $15.48  
+
+Animal Caretaker IV (Level XVII)  
+Start - $15.16  
+6 months - $15.66  
+12 months - $16.16  
+
+APPENDIX VIII  
+DEFINITIONS 
+
+Agreement - Whenever the word "Agreement" is used in this document, it shall be 
+considered synonymous with the word "Contract".  
+
+Demotion - Demotion shall be considered the movement of an employee to a lower 
+grade level.  
+
+Full-Time Equivalent (FTE) Service Months  
+
+A. Full-time equivalent (FTE) service months is defined as the cumulative full-
+time equivalent (FTE) months of service for University employment of 50.0% or 
+greater. FTE service months will be used in determining eligibility for University 
+benefits which require a service waiting period.  
+
+B. FTE service months will be credited each month as follows:  
+   
+
+a) 1.00 credit per month for full-time (90% - 100%) employees  
+
+b) .75 credit per month for 3/4 time (65% - 89.9%) employees  
+
+c) .50 credit per month for 1/2 time (50% - 64.9%) employees 
+
+C. For new hires, terminations, percent of employment changes, etc., FTE 
+service months will be credited based on an employee's status as of the 15th of 
+the month. 
+
+D. Employees on paid and unpaid leaves of absence or layoff will continue to 
+accrue FTE service months based on their percent of employment immediately 
+prior to the leave/layoff.  
+
+E. Employees meeting the minimum retirement requirements will remain eligible 
+to maintain group health and dental coverage and receive the Employer's 
+proportional contribution.  
+
+F. If an employee retires with 15 years of service and at least age 62, use the 
+following FTE Service Months ranges to determine the employer's health and 
+dental contribution during retirement.  
+
+15 yrs 180 mos - 
+
+                              1/2 time (50%-64.9%): 90.00-116.99 FTE Service Months  
+                              3/4 time (65%-89.9%): 117.00-161.99 FTE Service Months  
+                              Full-time (90%-100%): 162.00-999.99 FTE Service Months  
+
+If an employee retires with 25 years of service at any age, use the following FTE 
+Service Month ranges.  
+15 yrs 180 mos - 
+
+                              1/2 time (50%-64.9%): 150.00-194.99 FTE Service Months  
+                              3/4 time (65%-89.9%): 195.00-269.99 FTE Service Months  
+                              Full-time (90%-100%): 270.00-999.99 FTE Service Months  
+
+He/She - Wherever personal pronouns are used in this Agreement, it shall be 
+understood that the gender is neuter.  
+
+Lateral Transfer - A lateral transfer shall be considered the movement of an employee 
+within the same grade level.  
+
+Promotion - Promotion shall be considered the movement of an employee to a higher 
+grade level.  
+
+Proportional Benefits - Part-time benefits as listed in Paragraph 41 shall be apportioned 
+to persons assigned less than full-time in the following manner:  
+
+26 hours but less than 36 hours . . . .75%  
+
+20 hours but less than 26 hours . . . .50%  
+
+Less than 20 hours . . . . . . no benefits 
+
+Rates of Pay  
+
+Base - Is the per hour rate of the employee not including shift differential or overtime 
+computations.  
+
+Regular - Is the per hour rate of the employee including shift differential.  
+
+Seniority  
+
+a. University seniority - length of continuous employment, (including Article 12), 
+starting with the original date of hire with the Employer, including periods of 
+authorized leaves of absence and layoffs consistent with other Articles of this 
+Agreement. This date shall be used for benefit purposes.  
+
+b. Bargaining unitseniority - total length of employment within all units listed in 
+Article 4, starting on the last date of hire with the Employer, except as abridged 
+in Articles 12, 22, and 23. This date shall be used for filling vacancies and 
+layoffs. 
+
+To Assist - As used in the Union classification descriptions connotes that an employee 
+in a classification will provide whatever operational help is necessary to accomplish a 
+task, function or end but will not assume the primary or complete responsibility for the 
+accomplishment of that task, function or end. "To assist" does not necessarily infer that 
+another co-worker or employee must be constantly present during the accomplishment 
+of a task.  
+
+Unavailable - An employee shall be considered unavailable for overtime in the following 
+situations:  
+
+- The employee is on sick or funeral leave within 24 hours prior to the scheduled 
+overtime, except for sick or funeral leave of less than four (4) hours.  
+
+- While the employee is on vacation and until he/she returns from vacation to 
+his/her regular shift unless the employee provides prior written notification to 
+his/her Supervisor of his/her availability.  
+
+- The employee has signed an overtime waiver form indicating that he/she does 
+not wish to work any overtime.  
+
+- The employee is on an unpaid leave of absence, layoff, Regular or Full 
+Worker's Compensation. 
+
+- Except that only in the Custodial Department if it becomes necessary to assign 
+overtime, the language in Articles 42 and 43 shall apply and and overtime waivers will 
+
+not be recognized. However the Employer will not arbitrarily and/or capriciously assign 
+employees.  
+
+In these situations the employee will not be contacted for overtime, but will be charged 
+the average number of overtime hours of the employees working during the overtime 
+period.  
+
+Union - Whenever the words Local 1585 or Union appear in this Agreement, they shall 
+mean AFSCME Local Union Number 1585, AFL-CIO.  
+
+University or Employer - Whenever the words University or Employer appear in this 
+Agreement, they shall mean Michigan State University.  
+
+Workers' Compensation  
+
+"Full" -Is the payment of Workers' Compensation including sick, vacation 
+or personal leave accrual supplementation.  
+
+"Regular" - Is the payment of Workers' Compensation with no sick, 
+vacation or personal leave accrual supplementation. 
+
+ 
+
+

@@ -1,0 +1,2189 @@
+Metadata header 
+
+This contract is provided by UC Berkeley's Institute of Industrial Relations Library (IIRL). The 
+information provided is for noncommercial educational use only. It may have been reformatted 
+from the original and some appendices or tables may be absent. Note that subsequent 
+changes, revisions, and corrections may apply to this document.             
+
+For more information about the IIR Union Contracts Project, contact:
+Lincoln Cushing, lcushing@library.berkeley.edu
+
+IDnum
+
+9
+
+Language English
+
+Country United States
+
+State
+
+CA
+
+Union UAW (United Automobile, Aerospace, and Agricultural Implement Workers of America 
+
+International Union) AFL-CIO
+
+Local Association of Student Employees
+
+Teachers—postsecondary 
+Teacher assistants 
+
+ Occupations Represented
+
+Bargaining Agency Regents of the University of California (UC Riverside)
+Agency industrial classification (NAICS):
+61 (Educational Services)
+
+BeginYear 2000
+
+EndYear
+
+2003
+
+Source
+
+http://www.ucop.edu/humres/contracts/ase/ASEUCSR2.pdf
+
+Original_format PDF (unitary)
+Notes
+
+Contact
+
+Flint Hahn; contact (510) 987-0313    flint.hahn@ucop.edu
+
+Full text contract begins on following page.
+
+AGREEMENT
+
+between
+
+The Regents of the University of California
+
+and the
+
+Coalition of Allied Student Employees
+International Union, United Automobile,
+Aerospace and Agricultural Implement
+
+Workers of America
+
+(UAW), AFL-CIO
+
+University of California
+
+Riverside Campus
+
+June 1, 2000 to September 30, 2003
+
+TABLE OF CONTENTS
+
+Article No.
+
+______________________DESCRIPTION__________________
+
+Page No.
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+
+Preamble
+Recognition ...........................................................................................................1
+Appointment Notification.......................................................................................1
+Appointment Security ............................................................................................2
+Classifications .......................................................................................................3
+Defined Contribution Plan .....................................................................................3
+Definitions..............................................................................................................3
+Discipline and Dismissal .......................................................................................3
+Emergency Layoff .................................................................................................5
+Employment File(s) and Evaluations ....................................................................5
+Fee Remission ......................................................................................................6
+Grievance and Arbitration .....................................................................................7
+Health and Safety................................................................................................13
+Health Benefits ....................................................................................................13
+Holidays...............................................................................................................14
+Labor-Management Meetings .............................................................................15
+Leaves.................................................................................................................15
+Management and Academic Rights....................................................................16
+No Strikes............................................................................................................16
+Non-Discrimination in Employment.....................................................................17
+Parking and Transit .............................................................................................18
+Posting.................................................................................................................19
+Severability..........................................................................................................19
+Summer Session.................................................................................................20
+Training and Orientation .....................................................................................20
+Travel ..................................................................................................................21
+Union Access and Rights....................................................................................21
+Union Security .....................................................................................................22
+Wages .................................................................................................................24
+Waiver .................................................................................................................25
+Workload .............................................................................................................26
+Workspace and Instructional Support.................................................................29
+Duration...............................................................................................................29
+Execution of Agreement......................................................................................30
+Appendix A – UC/UAW Step 2 Grievance Form....................................................
+Appendix B – Panel of Arbitrators...........................................................................
+Appendix C – ASE Salary Rates Effective April 1, 2000........................................
+Appendix D – Workload Complaint Resolution Panel............................................
+
+ALPHABETICAL
+
+TABLE OF CONTENTS
+
+(Articles Only)
+
+Article No. ___________DESCRIPTION___________
+
+Page No.
+
+2
+3
+4
+5
+6
+7
+32
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+1
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+
+Appointment Notification
+Appointment Security
+Classifications
+Defined Contribution Plan
+Definitions
+Discipline and Dismissal
+Duration
+Emergency Layoff
+Employment File(s) and Evaluations
+Fee Remission
+Grievance and Arbitration
+Health and Safety
+Health Benefits
+Holidays
+Labor-Management Meetings
+Leaves
+Management and Academic Rights
+No Strikes
+Non-Discrimination in Employment
+Parking and Transit
+Posting
+Recognition
+Severability
+Summer Session
+Training and Orientation
+Travel
+Union Access and Rights
+Union Security
+Wages
+Waiver
+Workload
+Workspace and Instructional Support
+
+1
+2
+3
+3
+3
+3
+29
+5
+5
+6
+7
+13
+13
+14
+15
+15
+16
+16
+17
+18
+19
+1
+19
+20
+20
+21
+21
+22
+24
+25
+26
+29
+
+PREAMBLE
+
+This  Agreement  is  made  and  entered  into  by  and  between  the  Regents  of  the  University  of
+California, a corporation, hereinafter referred to as the “University”, and the Coalition of Allied
+Student  Employees,  International  Union,  United  Automobile,  Aerospace  and  Agricultural
+Implement Workers of America (UAW), AFL-CIO, hereinafter referred to as the “UAW” or the
+“Union”, pursuant to the provisions of the Higher Education Employer-Employee Relations Act
+(HEERA).
+
+Article 1
+
+RECOGNITION
+
+A. 
+
+The  University  hereby  recognizes 
+the  Coalition  of  Allied  Student  Employees,
+International Union, United Automobile, Aerospace and Agricultural Implement Workers
+of  America  (UAW),  AFL-CIO  as  the  exclusive  representative  for  matters  within  the
+scope  of  representation  for  all  employees  within  the  Academic  Student  Employee  Unit
+as certified by the Public Employment Relations Board (PERB) in petition number SF-R-
+831-H (Riverside) including the following titles:
+
+Associate In_____
+Reader
+Remedial Tutor
+Teaching Assistant
+Teaching Fellow
+Tutor
+
+1501, 1502, 1506, 1507, 1511, 1512
+2850, 2851, 2500
+2280, 2290, 2288, 2289
+2310, 2311
+2300, 2301
+2860, 2861, 2510
+
+B. 
+
+The recognized unit may be modified by agreement of the parties pursuant to the rules
+and regulations of the Public Employment Relations Board.
+
+Article 2
+
+APPOINTMENT NOTIFICATION
+
+A.  WRITTEN NOTIFICATION
+
+The  University  shall  provide  a  written  notice  of  appointment  (e.g.  letter  or  email)  to
+individuals offered an ASE appointment as soon as practicable after hiring decisions are
+made.
+
+1. 
+
+The  notice  will  include  the  applicable  appointment  title,  appointment  percentage
+(or  range  of  hours),  effective  dates,  salary/wages,  health  and  other  applicable
+benefits  or  deductions,  hiring  unit,  hiring  unit  contact,  response  requirements  if
+any,  a  statement  that  the  position  is  covered  by  the  collective  bargaining
+agreement between the parties, and the contract website address.
+
+2. 
+
+Additionally,  the  notice  shall  state  that  the  name  and  department  address  of  all
+ASEs are released to the UAW each term (quarter/semester).
+
+B. 
+
+SUPPLEMENTAL DOCUMENTATION
+
+Prior  to  the  commencement  of  the  term  or  as  soon  as  practicable  thereafter,  the
+University  will  provide  to  Teaching  Assistants,  Associates  In_____,  and  Teaching
+Fellows documentation which will set forth the following:  faculty member or supervisor
+to  whom  the  individual  will  report;    the  location  where  the  work  will  be  performed  if
+known;    the  class  assigned  if  applicable;  the  duties  that  may  be  required;  and  other
+information as deemed appropriate by the University that was not included in the initial
+
+1
+
+notification.    The  University  shall  provide  advance  notice  when  the  above  referenced
+duties are changed significantly.
+
+C. 
+
+FAILURE TO RESPOND
+
+The  University  may  consider  an  individual  who  fails  to  respond,  as  required  in  the
+notice, to have rejected the appointment.
+
+Article 3
+
+APPOINTMENT SECURITY
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+ASEs' appointments will be specified in the appointment notification.
+
+If  an  individual  receives  and  accepts  appointments  to  (an)  ASE  position(s)  for  one  or
+more term (i.e. quarter or semester) in an academic year, and the position offered and
+accepted is no longer available, the University will ensure that the individual:
+
+1. 
+
+2. 
+
+is  placed  in  an  appointment  at  the  classification  and  equivalent  compensation
+level offered and accepted, or
+
+receives equivalent compensation in lieu of the position for the term at the level
+offered.
+
+Failure to accept an offer in its entirety, and subject to all conditions, nullifies the offer in
+its entirety.  However, after accepting an offer a Teaching Assistant, Teaching Fellow or
+Associate  In_____  may  turn  down  one  or  more  terms  of  employment  without  forfeiting
+the  provisions  in  this  article  for  the  following  reasons:  the  employee's  serious  medical
+condition  as  defined  by  FMLA,  to  accept  a  extramural  fellowship,  or  another  reason
+granted by the University.
+
+An  individual  who  has  accepted  (an)  ASE  position(s)  for  one  or  more  term  who
+becomes academically ineligible may be removed without pay from or returned to said
+appointment as set forth below.
+
+1.  Within the first five (5) weeks of an academic term, the University may, at its sole
+
+discretion, remove an ASE who has become academically ineligible.
+
+2.  When  an  ASE  has  regained  academic  eligibility,  the  University  will  determine  in
+its sole discretion whether or not to reinstate the ASE.  Said reinstatement, if any,
+will be at the level of employment held prior to removal.  
+
+2
+
+Article 4
+
+CLASSIFICATIONS
+
+A. 
+
+B. 
+
+Maintain the status quo except as modified by agreement reached pursuant to B.
+
+The  topic  of  ASE  Classification,  and  effects  of  changes  on  terms  and  conditions  of
+employment  shall  be  reopened  for  bargaining  commencing  no  later  than  January  2,
+2001.
+
+Article 5
+
+DEFINED CONTRIBUTION PLAN
+
+ASEs  shall  continue  to  be  eligible  for  DCP  coverage  in  accordance  with  the  UC  plan
+requirements.
+
+Article 6
+
+DEFINITIONS
+
+A. 
+
+B. 
+
+A. 
+
+An “Academic Student Employee” (ASE) is an individual employed in a bargaining unit
+title.  Bargaining unit titles are listed in Article 1, Recognition.
+
+“Sole  discretion”  means  the  non-grievable,  non-arbitrable  authority  of  the  University  of
+California.
+
+Article 7
+
+DISCIPLINE AND DISMISSAL
+
+The University may discipline or dismiss an ASE for just cause. "Discipline" includes: a
+written warning, suspension without pay, or dismissal. An oral warning may be included
+in  a  grievance  if  it  is  subsequently  used  for  evidence  or  to  justify  the  extent  of  the
+penalty  in  a  disciplinary  matter.    An  individual  who  is  no  longer  employed  in  the
+bargaining  unit  may  file  a  grievance  pursuant  to  Article  11,  Grievance  and  Arbitration,
+concerning  the  placement  of  a  written  warning  placed  in  his/her  employment  file
+pursuant to this article within 30 days from the date he/she knew or should have known
+that a written warning was placed in his/her employment file.
+
+B.  WRITTEN NOTICE OF INTENT
+
+1. 
+
+The University shall provide written Notice of Intent, as described in Section B.2.
+for the following actions: suspension without pay or dismissal.
+
+3
+
+2. 
+
+Issuance and Content
+
+a. 
+
+Issuance
+
+Written  Notice  of  Intent  shall  be  given  to  the  affected  ASE  in  the  unit,
+either  by  delivery  of  the  notice  to  the  ASE  in  person,  or  by  placing  the
+Notice  of  Intent  in  the  United  States  Mail,  first-class,  postage-paid,  in  an
+envelope  addressed  to  the  ASE  at  the  last  known  home  address  of  the
+ASE,  with  a  copy  by  campus  mail  to  the  campus  office  address  of  the
+ASE.    It  shall  be  the  responsibility  of  the  ASE  to  inform  the  designated
+University  office  in  writing  of  his  or  her  current  home  address  and  of  any
+change  in  such  address,  and  the  information  so  provided  shall  constitute
+"the ASE's last known home address." Whether delivery is made in person
+or  by  mail,  the  Notice  of  Intent  shall  contain  a  statement  of  delivery  or
+mailing  indicating  the  date  on  which  the  Notice  of  Intent  was  personally
+delivered or deposited in the United States Mail. Such date of delivery or
+mailing  shall  be  presumed  to  be  the  date  of  issuance  of  the  Notice  of
+Intent.    A  copy  of  the  Notice  of  Intent  shall  be  sent  to  the  UAW.    Home
+address  of  the  ASE  will  be  redacted  if  the  ASE  has  requested  that  such
+information not be released.
+
+b. 
+
+Content
+
+The notice shall:
+
+1) 
+
+2) 
+
+3) 
+
+inform the ASE of the disciplinary or dismissal action proposed, the
+reason  for  the  proposed  action  including  applicable  documentation
+and the effective date(s) of the action;
+
+inform  the  ASE  of  the  right  to  respond  and  to  whom  to  respond
+within the applicable time limit in accordance with Section C; and,
+
+inform the ASE of the right to representation by a representative of
+her/his choice.
+
+C. 
+
+RESPONSE TO WRITTEN NOTICE OF INTENT
+
+The  ASE  or  her/his  representative  shall  have  the  right  to  respond  either  orally  or  in
+writing within ten (10) calendar days from the issuance of the written Notice of Intent. If
+the Notice is mailed to the ASE, the ASE may respond within fifteen (15) calendar days
+from the date of issuance.
+
+D.  WRITTEN NOTICE OF ACTION OR PROPOSED ACTION
+
+After review of a timely response, if any, the University shall notify the ASE of any action
+to  be  taken  and  its  effective  date,  as  well  as  the  rights  set  out  under  Article  11,
+
+4
+
+Grievance  and  Arbitration.    Such  action  may  not  include  discipline  more  severe  than
+that  included  in  the  Written  Notice  of  Intent;  however;  the  University  may  reduce  such
+discipline without the issuance of a further Written Notice of Intent.  A copy of the Notice
+shall  be  sent  to  the  UAW.    Home  address  of  the  ASE  will  be  redacted  if  the  ASE  has
+requested that such information not be released.
+
+E. 
+
+INVESTIGATORY LEAVE
+
+The  University  may  place  an  ASE  on  Investigatory  Leave  with  full  pay  without  prior
+notice, in order to review or investigate allegations of misconduct or dereliction of duty
+which, in the judgment of the University, warrant immediately relieving the ASE from all
+work  duties  and/or  require  removing  the  ASE  from  the  premises.    Investigatory  leave
+shall  not  be  considered  a  form  of  corrective  action.    The  University  will  immediately,
+provide  the  ASE  and  her/his  representative  with  written  confirmation  of  the  terms  and
+reasons for the Investigatory Leave.
+
+Article 8
+
+EMERGENCY LAYOFF
+
+A. 
+
+B. 
+
+An  emergency  layoff  is  the  suspension  of  an  appointment  to  which  an  ASE  has  been
+assigned or is working, due to acts of nature or forces outside the University’s control to
+which the University must immediately respond.
+
+The Parties agree that the University may, but shall not be required, to pay ASEs during
+periods of Emergency Layoff.
+
+EMPLOYMENT FILE(S) AND EVALUATIONS
+
+Article 9
+
+A. 
+
+EMPLOYMENT FILES
+
+“Employment  File”  shall  be  defined  as  information  (including  reports,  documents,
+correspondence  and  other  materials  in  their  entirety  or  redacted  portions)  pertaining
+exclusively  to  an  ASE’s  employment  in  the  bargaining  unit  that  is  not  confidential  or
+otherwise  protected  from  disclosure.  Materials  related  to  ASE  coursework  shall  not  be
+considered part of the employment file.
+
+1. 
+
+2. 
+
+The  University  shall  designate  the  location  where  ASEs  or  their  designated
+representatives may request access to the ASE's employment file(s).
+
+An ASE may authorize representatives to review her/his employment file(s).  The
+authorization  shall  be  valid  for  the  period  designated  by  the  individual  or,  if  no
+time  period  is  designated,  for  up  to  one  calendar  year  from  the  date  of
+
+5
+
+authorization. 
+employment information in the file(s).
+
+  The  designee  shall  have  access 
+
+to  all  non-confidential
+
+The  University  shall  endeavor  to  provide  an  ASE  or  her/his  representatives
+access to or a copy of the ASE's employment file(s) as soon as practicable, but
+no  later  than  thirty  (30)  calendar  days,  following  the  University’s  receipt  of  a
+written  request.  One  copy  of  employment  file(s)  material  shall  be  free;
+subsequent copies shall be ten (10) cents per page.
+
+If  an  ASE  disagrees  with  evaluative  material  in  her/his  file(s),  s/he  may  append
+material to the file(s). If an individual is no longer employed when the evaluative
+material  is  placed  into  the  file,  he/she  has  30  days  from  the  date  the  individual
+knew or reasonably should have known that it was placed into the file to append
+material to the file.
+
+If an employment file contains factual non-evaluative information that is incorrect
+the  individual  may  request  correction  of  the  file(s)  within  30  calendar  days  of
+discovery. If an individual is no longer employed when the factual non-evaluative
+information is placed into the file, he/she has 30 days from the date the individual
+knew or reasonably should have known that it was placed into the file to request
+correction.
+
+Records involving the processing of a grievance, such as grievance/appeals, UC
+grievance  responses,  and  settlement  documents,  shall  not  be  placed  in  the
+ASE's employment file(s).
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+B. 
+
+EMPLOYMENT EVALUATIONS
+
+1. 
+
+2. 
+
+“Employment  Evaluation” 
+the  Faculty  member  or  supervisor’s  written
+assessment(s)  of  an  ASE’s  employment  performance,  excluding  evaluations  of
+courses.
+
+is 
+
+Upon  request  by  the  ASE,  the  employing  department  or  hiring  unit  shall
+communicate  evaluation  criteria  and  procedures 
+for  written  employment
+evaluations, if any, to employees or the Union.
+
+Article 10
+
+FEE REMISSION
+
+A. 
+
+An ASE who is a registered graduate student with ASE appointment(s) or other eligible
+academic  appointments  totaling  25%  or  more  of  full-time  for  a  given  term  is  eligible  to
+participate  in  the  University’s  Partial  Fee  Remission  Program  for  the  Educational  and
+Registration Fees.  An ASE is eligible to receive only one Graduate Student Partial Fee
+Remission per term.
+
+6
+
+B. 
+
+EFFECTIVE JULY 1, 2000
+
+Partial  Fee  Remission:    For  those  ASEs  eligible  for  a  Partial  Fee  Remission,  the
+University shall provide a Partial Fee Remission of 75% of the annual educational and
+registration fees.
+
+C. 
+
+EFFECTIVE JULY 1, 2001
+
+Partial  Fee  Remission:    For  those  ASEs  eligible  for  a  Partial  Fee  Remission,  the
+University  will  provide  a  Partial  Fee  Remission  of  85%  of  the  annual  educational  and
+registration fees.
+
+D. 
+
+EFFECTIVE JULY 1, 2002
+
+Partial  Fee  Remission:    For  those  ASEs  eligible  for  a  Partial  Fee  Remission,  the
+University will provide a Partial Fee Remission of 100% of the annual educational and
+registration fees.
+
+Article 11
+
+GRIEVANCE AND ARBITRATION
+
+A. 
+
+A  grievance  is  a  claim  by  an  individual  ASE,  a  group  of  ASEs,  or  the  Union,  that  the
+University  has  violated  a  specific  provision  of  this  Agreement  during  the  term  of  this
+Agreement.    A  grievant  may  be  represented  at  all  stages  of  the  grievance  and
+arbitration procedures.
+
+B. 
+
+Only the Union has standing to file a grievance on the following:
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+A  campus’  failure  to  establish  a  campus-wide  web  site  that  lists  the  ASE
+positions anticipated by the date agreed to in Article 21, Posting.
+
+A  campus’  failure  to  provide  ASE  lists  in  accordance  with  Article  26,  Union
+Access and Rights, and Article 27, Union Security.
+
+“Locking out” employees in accordance with Article 18, No Strikes.
+
+Failure to provide the necessary information to the mailing house as set forth in
+Article 27, Union Security.
+
+C. 
+
+FILING GRIEVANCES
+
+Grievances  must  be  filed  by  hand,  facsimile  or  by  U.S.  Mail  at  the  campus  labor
+relations  office.  The  date  of  filing  shall  be  the  date  the  grievance  is  received  at  the
+campus  labor  relations  office.    Filings  received  after  the  close  of  business  shall  be
+deemed filed the next business day.  If a grievance is filed by facsimile, an original must
+
+7
+
+be filed within five (5) calendar days.  The timelines and meetings for the processing of
+grievances shall be in accordance with the steps addressed below:
+
+1. 
+
+Step 1 (Optional)
+
+The grievant may discuss the grievance with his or her immediate supervisor in a
+timely  manner.  Informal  resolutions,  although  final  shall  not  be  precedential  nor
+inconsistent with this Agreement.
+
+If  the  grievance  is  not  resolved  through  informal  discussion,  the  grievant
+may seek review as set forth below.
+
+Attempts  at  informal  resolution  do  not  extend  the  30  calendar  day  time
+limit to file at Step 2.
+
+a. 
+
+b. 
+
+2. 
+
+Step 2
+
+A grievant may file a written grievance as set forth below.
+
+a. 
+
+b. 
+
+c. 
+
+d. 
+
+A written grievance must be filed with the campus labor relations office on
+the  grievance  form  agreed  to  by  the  parties  (Appendix  A)  within  30
+calendar days from the date on which either the ASE or the UAW knew or
+could have been expected to know of the event or action which gave rise
+to  the  grievance  or  within  30  calendar  days  after  the  date  of  separation
+from University employment of the ASE in the unit, whichever occurs first.
+
+The  written  grievance  must  contain  the  following  information:  a  specific
+description  of  the  dispute,  the  facts  giving  rise  to  the  dispute,  a  listing  of
+the  article  and  section  violated,  a  statement  as  to  how  the  article  and
+section were violated, the date(s) of the violation, and requested remedy,
+or the grievance may be considered ineligible for processing.
+
+At  the  time  the  Step  2  grievance  is  filed,  either  party  may  request  a
+meeting  prior  to  the  issuance  of  the  Step  2  response.    If  a  meeting  is
+requested,  it  shall  be  held  within  15  calendar  days  of  the  date  on  which
+the  Step  2  grievance  was  filed.    Such  meeting  may  be  waived  by  mutual
+agreement.
+
+The  University  shall  issue  a  written  response  to  the  grievance  within  15
+calendar days of the date on which the Step 2 grievance was filed or the
+date of the Step 2 meeting, whichever is later.
+
+3. 
+
+Step 3
+
+If  the  grievance  has  not  been  resolved  at  Step  2,  the  grievant  and/or  the  UAW
+may  file  an  appeal  in  writing  to  the  campus  labor  relations  office.    Such  appeal
+
+8
+
+must  be  filed  no  later  than  fifteen  (15)  calendar  days  after  the  issuance  of  the
+University’s Step 2 response.
+
+a. 
+
+b. 
+
+c. 
+
+If  either  party  requests  a  meeting  to  discuss  the  merits  of  the  grievance,
+one shall be conducted within 15 calendar days of the request for the Step
+3 review.
+
+The  parties  shall  be  able  to  bring  individuals  to  the  meeting  who  have
+relevant information to present regarding the grievance.
+
+If  no  Step  3  meeting  is  requested,  the  University  shall  issue  the  written
+decision  to  the  grievant  and/or  the  grievant’s  representative  within  15
+calendar days following the date of the receipt of the request for a Step 3
+review.    If  a  meeting  is  requested,  the  University  shall  issue  the  written
+decision  to  the  grievant  and/or  the  grievant’s  representative  within  15
+calendar days following the meeting.
+
+D. 
+
+E. 
+
+Failure to comply with the time limits set forth herein shall render the grievance ineligible
+for further processing.
+
+Offers  of  settlement  are  inadmissible  at  any  step  of  the  grievance  or  arbitration
+procedures.
+
+F. 
+
+APPEAL TO ARBITRATION
+
+An  appeal  to  arbitration  may  be  made  only  by  the  UAW  and  only  after  the  timely
+exhaustion  of  the  Grievance  Procedure.    The  written  appeal  to  arbitration  must  be
+received  by  the  campus  labor  relations  office  within  45  calendar  days  of  the  date  of
+issuance of the final University decision to the UAW.  The written appeal must be signed
+by an authorized representative of the UAW and must include:
+
+1. 
+
+2. 
+
+3. 
+
+The  name  and  address  of  the  UAW  representative  who  is  responsible  for  the
+appeal to arbitration and to whom all correspondence relating to the arbitration is
+to be sent.
+
+A copy of the completed grievance form; and
+
+A  statement  setting  forth  the  unresolved  issue(s),  the  Articles  of  the  Agreement
+alleged to have been violated, and the remedy requested.
+
+If  a  grievance  is  not  appealed  to  arbitration,  the  University’s  Step  3  response  shall  be
+final.
+
+G. 
+
+The  UAW  representative  shall  contact  the  campus  labor  relations  office  within  30
+calendar days of the appeal to arbitration in order to select an arbitrator from the panel
+set  forth  in  Appendix  B.  The  arbitrator  shall  be  selected  within  45  calendar  days  from
+
+9
+
+the  date  of  the  appeal.    Failure  to  contact  the  campus  labor  relations  office  within  the
+established time frame will be considered as a withdrawal of the appeal to arbitration.
+
+1. 
+
+If  the  parties  cannot  mutually  agree  to  an  arbitrator  from  the  panel,  the  parties
+shall  alternately  strike  one  name  each  from  the  list  of  panel  members.    Unless
+the  parties  agree  otherwise,  the  party  selecting  first  shall  be  determined  by  the
+flip of a coin.  The remaining name shall be designated as the arbitrator.
+
+2.  Within  60  calendar  days  from  selection,  the  parties  shall  attempt  to  agree  to  a
+hearing  date,  but  if  are  unable  to  agree,  the  authority  for  scheduling  a  hearing
+date shall reside with the arbitrator.
+
+H. 
+
+BIFURCATION
+
+1. 
+
+The arbitration process shall be bifurcated where the University asserts that there
+are procedural (e.g. timeliness, standing) and/or arbitrability issues that preclude
+the UAW from proceeding to a hearing on the merits of the claim.
+
+2.  When  practicable,  the  University  shall  inform  the  Union  in  writing  of  its  intent  to
+assert  the  issue  of  arbitrability  prior  to  the  selection  of  the  arbitrator  or  45  days
+prior to the scheduled arbitration.  The issue(s) of arbitrability shall be resolved in
+a  hearing  prior  to  and  separate  from  the  hearing  (if  any)  on  the  merits  of  the
+claim,  except  as  provided  in  Section  3  below.  If  possible,  after  an  arbitrator  is
+selected, the dates for the arbitrability hearing and the hearing on the merits shall
+be  scheduled  at  the  same  time.    Unless  the  parties  agree  otherwise,  the
+arbitrator shall issue a bench decision on the issue of arbitrability.
+
+3. 
+
+Subject to the above, a single hearing on the issue of arbitrability and the merits
+will  be  held,  unless  the  parties  agree  otherwise.    If  the  arbitrator  finds  the
+grievance  to  be  not  arbitrable,  the  substantive  facts  of  the  case  need  not  be
+heard  and  the  grievance  shall  be  denied.    If  the  arbitrator  finds  in  favor  of
+arbitrability, the hearing shall proceed to the substantive issues raised.
+
+I. 
+
+PROCEDURAL/EVIDENTIARY ISSUES AT HEARING
+
+1. 
+
+2. 
+
+3. 
+
+At  least  seven  calendar  days  prior  to  the  arbitration  the  parties  shall  exchange
+lists of known witnesses.
+
+During  the  hearing  the  parties  shall  have  the  opportunity  to  examine  and  cross-
+examine  witnesses  under  oath  and  to  submit  relevant  evidence.    Issues  and
+allegations  shall  not  be  introduced  at  the  hearing  unless  they  were  introduced
+prior to or during Step 3 of the Grievance Procedure.
+
+Upon request by either party but not upon his/her own motion, the arbitrator shall
+have the authority to subpoena relevant documents and/or witnesses.
+
+10
+
+4. 
+
+5. 
+
+The  arbitration  hearing  shall  be  closed  to  anyone  other  than  the  participants  in
+the hearing unless the parties agree otherwise in writing.
+
+In all cases appealed to arbitration except for actions taken pursuant to Article 7,
+Discipline and Dismissal, the UAW shall have the burden of proceeding.
+
+J. 
+
+SCOPE OF ARBITRATOR’S AUTHORITY
+
+The  arbitrator  shall  consider  the  evidence  presented  and  render  a  written  decision
+within thirty (30) calendar days of the close of the record of the hearing.  The arbitrator’s
+decision  will  set  forth  the  findings  of  fact,  reasoning,  and  conclusions  on  issues
+submitted  by  the  parties.    The  arbitrator’s  authority  shall  be  limited  to  determining
+whether the University has violated arbitrable provisions of this contract and to ordering
+corresponding remedies.  The arbitrator shall not have jurisdiction or authority to add to,
+amend, modify, nullify, or ignore in any way the provisions of this contract nor shall the
+arbitrator  have  the  authority  to  review  any  academic  judgment.  To  the  extent  that  the
+University's  action  is  based  upon  academic  judgment,  the  arbitrator  shall  have  no
+authority  or  jurisdiction  to  substitute  his/her  judgment  for  that  of  the  University  and  its
+agents.
+
+1. 
+
+from  any  source 
+
+limited 
+
+including  but  not 
+
+If  the  grievance  is  sustained  in  whole  or  in  part,  the  remedy  shall  not  exceed
+restoring  to  the  grievant  the  pay,  benefits  or  contractual  rights  lost  less  any
+compensation 
+to  Workers'
+Compensation,  Unemployment  Compensation  or  other  employment. 
+In
+arbitration cases involving the Health and Safety Article, the arbitrator may order
+the University to cease violations of the Health and Safety Article.  The arbitrator
+shall not have authority to order specific remedies for health and safety violations
+involving expenditures for structural modifications nor shall the arbitrator have the
+authority  to  order  such  a  remedy  for  the  purchase  or  rental  of  equipment  in
+excess  of  $500  unless  there  are  available  specifically  budgeted  funds  for  the
+particular efforts which may be necessary to comply with the order. The decision
+and  award  of  the  arbitrator  shall  be  final  and  binding  upon  the  parties  to  the
+contract and the ASEs.  The University will not be liable for back wages or other
+monetary reimbursement for:
+
+a. 
+
+b. 
+
+Any  period  of  time  during  which  an  extension  of  the  time  limits  has  been
+granted at the request of the UAW;
+
+Any period of time greater than thirty (30) calendar days prior to the date
+the grievance was filed pursuant to this Article.
+
+2. 
+
+The  arbitrator’s  fees  and  the  costs  of  transcripts  requested  by  the  arbitrator  or
+both parties shall be equally born by the parties.  Costs for transcripts requested
+by only one party, shall be born by the requesting party.
+
+11
+
+3. 
+
+The  party  that  cancels  or  postpones  an  arbitration  will  be  liable  for  any
+cancellation/postponement fees charged by the arbitrator or court reporter.
+
+K. 
+
+EXTENSION OF TIME LIMITS
+
+Time limits set forth in this Article may be extended only by agreement of the parties in
+writing.
+
+L. 
+
+RELEASE  TIME  FOR  GRIEVANCE/ARBITRATION  FOR  THE  ASE  GRIEVANT  AND
+ASE REPRESENTATIVE
+
+1. 
+
+Grievances
+
+the  grievant  or 
+
+The parties will endeavor to schedule grievance meetings that do not conflict with
+bargaining unit assignments of the grievant or the grievant’s representative which
+cannot  be  rescheduled.    If  a  grievance  meeting  called  by  the  University  occurs
+when 
+the  grievant’s  representative  have  bargaining  unit
+assignments  which  cannot  be  rescheduled,  the  parties  with  the  unresolved
+scheduling conflicts shall be eligible to receive leave with pay for the period of the
+assignments  which  cannot  be  rescheduled,  provided  the  request  for  such  leave
+is  made  at  least  five  (5)  calendar  days  in  advance  of  the  meeting.    Leave
+requests  shall  be  made  either  before  or  at  the  time  dates  and  times  for  the
+meeting  are  being  considered,  whereupon  the  meeting  will  be  scheduled  to
+provide for the five (5) calendar day request period.
+
+2. 
+
+Arbitration
+
+a. 
+
+b. 
+
+The  parties  shall  endeavor  to  schedule  arbitration  hearings  which  do  not
+conflict  with  the  bargaining  unit  assignments  of  the  grievant  or  the
+grievant’s  representative  which  cannot  be  rescheduled.    If  arbitration
+hearings  occur  when  the  grievant,  or  the  grievant’s  representative  have
+bargaining unit assignments which cannot be rescheduled, the parties with
+the  unresolved  scheduling  conflict  shall  be  eligible  to  receive  leave  with
+pay  for  the  period  of  the  assignments  which  cannot  be  rescheduled,
+provided the request for such leave is made at least fifteen (15) calendar
+days in advance of the hearing date.
+
+The  parties  will  make  efforts  to  schedule  the  testimony  of  ASE  witnesses
+when  the  ASE  witnesses  do  not  have  bargaining  unit  assignments  that
+cannot  be  rescheduled.    ASE  witnesses  who  are  called  by  the  parties  to
+testify shall be eligible to receive leave with pay only for time required for
+testifying  when  the  ASE  has  a  bargaining  unit  assignment  which  cannot
+be rescheduled, if the request for such leave is made at least fifteen (15)
+calendar days in advance of the hearing.
+
+12
+
+M. 
+
+ARBITRATOR PANEL
+
+1. 
+
+The parties agree that there will be a standing panel of thirteen (13) arbitrators to
+hear  arbitration  cases  scheduled  for  hearing  pursuant  to  the  provision  of  this
+Article.  If  agreement  cannot  be  reached  on  all  thirteen  (13)  arbitrators,  the
+remaining  number  needed  to  complete  the  panel  will  be  selected  alternately  by
+the parties.
+
+2. 
+
+The procedure for modifying the panel shall be as follows:
+
+a. 
+
+b. 
+
+c. 
+
+Each  party  shall  have  the  right  to  eliminate  up  to  two  (2)  arbitrators  from
+the  panel  once  each  calendar  year.    The  party  exercising  this  right  shall
+notify  the  other  party  in  writing  of  the  name(s)  of  the  arbitrator(s)  to  be
+stricken from the panel.
+
+In replacing an arbitrator who has been eliminated, declined to participate
+or  who  has  resigned,  or  in  adding  an  arbitrator(s)  to  complete  the  panel,
+the parties will exchange nominations within sixty (60) calendar days. The
+party selecting first shall be determined by the flip of a coin.  Any arbitrator
+eliminated in Section M.2.a above may not be placed on the panel again.
+
+The parties shall jointly send letters to arbitrators chosen for placement on
+the  standing  panel  and  shall  request  that  they  agree  to  participate  and
+comply with the provisions of this Agreement.
+
+Article 12
+
+HEALTH AND SAFETY
+
+In  compliance  with  campus  health  and  safety  policies  and  procedures,  the  University  shall
+make  reasonable  attempts  to  maintain  in  safe  working  condition  the  assigned  workplace  and
+equipment required to carry out assigned duties.
+
+Article 13
+
+HEALTH BENEFITS
+
+A. 
+
+B. 
+
+Eligible  ASEs  may  participate  in  the  (Graduate)  Student  Health  Insurance  Program  to
+the same degree other eligible students participate.
+
+An ASE who is a registered graduate student with ASE appointment(s) or other eligible
+academic  appointments  totaling  25%  or  more  of  full-time  for  a  given  term  is  eligible  to
+receive  Graduate  Student  Health  Insurance  Program  (GSHIP)  premium  remission  for
+the  Student  Health  Insurance  Program.  An  ASE  is  eligible  to  receive  only  one  GSHIP
+premium remission per term. In the event GSHIP premiums increase, the University will
+continue to provide 100% premium remissions to eligible ASEs.
+
+13
+
+C. 
+
+An  ASE  who  is  not  a  registered  student,  and  who  is  not  eligible  to  participate  in  the
+(Graduate) Student Health Insurance Program, will be eligible to participate in the non-
+student  University  Health  Insurance  program  in  the  same  manner  as  non-represented,
+non-senate academic employees.
+
+1. 
+
+2. 
+
+3. 
+
+Eligibility  to  participate  in  the  non-student  University  Health  Insurance  program
+will be in accordance with the University Health program provisions.
+
+Costs  of  the  University  Health  Insurance  program  in  excess  of  the  University
+contribution will be born by the employee and will be paid in accordance with the
+program provisions.
+
+During the term of this agreement, the University has the sole discretion to alter
+the  terms  of  the  program  including  but  not  limited  to  coverage,  carriers,
+contribution rates or other program provisions.
+
+A. 
+
+The University observes the following days as holidays:
+
+Article 14
+HOLIDAYS
+
+January 1
+Third Monday in January (Martin Luther King’s Birthday)
+Third Monday in February (President’s Day)
+Last Monday in May (Memorial Day)
+Fourth of July
+First Monday in September (Labor Day)
+November 11 (Veteran’s Day)
+Thanksgiving Day
+Friday following Thanksgiving Day
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10.  December 24
+11.  December 25
+12.  December 31
+13.  One administrative Holiday to be selected by the University.
+
+B. 
+
+C. 
+
+Official holidays are those holidays as set forth annually in the campus calendar.
+
+Unless  alternate  days  are  designated  by  the  University,  when  a  holiday  falls  on  a
+Sunday,  the  following  Monday  is  observed;  and  when  a  holiday  falls  on  Saturday,  the
+preceding Friday is observed.
+
+D. 
+
+The University reserves the right to establish additional holidays.
+
+14
+
+E. 
+
+The University shall not require an ASE to attend lecture, hold office hours, grade, tutor,
+proctor, prepare, consult or teach class, section, or lab on designated holidays.
+
+Article 15
+
+LABOR-MANAGEMENT MEETINGS
+
+The University and Union may schedule quarterly meetings following written request by either
+party.  Agendas shall be mutually agreed to at least five (5) business days prior to the meeting.
+The  purpose  of  the  meeting  shall  be  to  discuss  administration  of  this  Agreement  and  other
+related issues, excepting specific grievances as defined by this Agreement.
+
+A. 
+
+MILITARY LEAVE
+
+Article 16
+LEAVES
+
+ASEs who are called to active military service will be provided leave from their current
+positions  to  fulfill  their  military  obligations.    Military  leave  will  be  paid  to  the  extent
+required by applicable law.
+
+B. 
+
+CHILDBEARING LEAVE
+
+An  ASE  shall  be  eligible  for  leave  or  modified  duties  when  she  is  temporarily  disabled
+because  of  pregnancy,  childbirth,  or  related  medical  conditions.    During  childbearing
+leave,  no  duties  shall  be  required  by  the  University.    A  childbearing  leave  cannot  be
+continued  beyond  the  end  date  of  the  ASE’s  appointment.    Whenever  possible,
+childbearing leave should be requested at least 30 days in advance.  Childbearing leave
+will be paid no less than to the extent required by applicable law.
+
+C. 
+
+JURY DUTY
+
+An ASE shall be eligible for a jury leave.  Jury leave is leave with pay to serve on jury
+duty.    Verification  of  actual  service  for  jury  duty  shall  be  provided  by  the  ASE  to  the
+University upon request.  Pay for jury duty will not continue beyond the end date of the
+ASE’s appointment.
+
+D. 
+
+OTHER LEAVES
+
+Other leaves, including but not limited to parental leave, family leave, sick leave, leave
+for service to government agencies, and leave to attend professional meetings may be
+granted with or without pay at the University’s sole discretion; or if required by
+applicable law.
+
+15
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+A. 
+
+MANAGEMENT AND ACADEMIC RIGHTS
+
+Article 17
+
+Management  of  the  University  is  vested  exclusively  in  the  University.    Except  as
+otherwise provided in this Agreement, the UAW agrees that the University has the right
+to  establish,  plan,  direct  and  control  the  University’s  missions,  programs,  objectives,
+activities,  resources,  and  priorities,  including  Affirmative  Action  plans  and  goals;  to
+establish  and  administer  procedures,  rules  and  regulations,  and  direct  and  control
+University operations; to alter, extend, or discontinue existing equipment, facilities, and
+location  of  operations;  to  determine  or  modify  the  number,  qualifications,  scheduling,
+responsibilities  and  assignment  of  ASEs;  to  establish,  maintain,  modify  or  enforce
+standards  of  performance,  conduct,  order  and  safety;  to  evaluate,  to  determine  the
+content  of  evaluations,  and  to  determine  the  processes  and  criteria  by  which  ASEs’
+performance is evaluated; to establish and require ASEs to observe University rules and
+regulations;  to  discipline  or  dismiss  ASEs;  to  establish  or  modify  the  academic
+calendars,  including  holidays  and  holiday  scheduling;  to  assign  work  locations;  to
+schedule  hours  of  work;  to  recruit,  hire,  or  transfer;  to  determine  how  and  by  whom
+instruction is delivered; to introduce new methods of instruction; or to subcontract all or
+any  portion  of  any  operations;  and  to  exercise  sole  authority  on  all  decisions  involving
+academic matters.
+
+Decisions  regarding  who  is  taught,  what  is  taught,  how  it  is  taught  and  who  does  the
+teaching  involve  academic  judgment  and  shall  be  made  at  the  sole  discretion  of  the
+University.
+
+The  above  enumeration  of  management  rights  is  not  exhaustive  and  does  not  exclude
+other management rights not specified herein, nor shall the exercise or non-exercise of
+rights constitute a waiver of any such rights by the University.
+
+No action taken by the University with respect to a management or academic right shall
+be  subject  to  the  grievance  or  arbitration  procedure  or  collateral  suit,  unless  the
+exercise thereof violates an express written provision of this agreement.
+
+Article 18
+
+NO STRIKES
+
+During  the  term  of  this  Agreement  or  any  written  extension  thereof,  the  University
+agrees  that  there  shall  be  no  lockouts  by  the  University.  The  UAW,  on  behalf  of  its
+officers,  agents,  and  members  agrees  that  there  shall  be  no  strikes,  stoppages  or
+interruptions  of  work,  or  other  concerted  activities  which  interfere  directly  or  indirectly
+with  University  operations  during  the  life  of  this  Agreement  or  any  written  extension
+thereof.  The  UAW,  on  behalf  of  its  officers,  agents,  and  members,  agrees  that  it  shall
+not in any way authorize, assist, encourage, participate in, sanction, ratify, condone, or
+lend support to any activities in violation of this Article.
+
+16
+
+B. 
+
+C. 
+
+Any employee who violates this Article shall be subject to discipline up to and including
+termination of employment.
+
+The  UAW  shall  immediately  take  whatever  affirmative  action  is  necessary  to  prevent
+and  bring  about  an  end  to  any  concerted  activity  in  violation  of  this  Article.    Such
+affirmative action shall include but not be limited to sending written notice to the home
+address  of  all  employees  engaged  in  prohibited  activity  informing  them  that  the
+concerted activity is in violation of this Article, that engaging in such activity may lead to
+disciplinary  action,  and  stating  that  employees  engaged  in  prohibited  activity  must
+cease such activity and immediately return to work.
+
+D. 
+
+Nothing  herein  constitutes  a  waiver  of  the  University's  right  to  seek  appropriate  legal
+relief in the event of a violation of this Article.
+
+NON-DISCRIMINATION IN EMPLOYMENT
+
+Article 19
+
+A. 
+
+GENERAL PROVISIONS
+
+1.  Within the limits imposed by law or University regulations, the University shall not
+discriminate  against  or  harass  any  ASE  on  the  basis  of  race,  color,  religion,
+marital  status,  national  origin,  ancestry,  sex,  sexual  orientation,  physical  or
+mental disability, medical condition, HIV status, status as a covered veteran, age,
+citizenship, political affiliation and Union activity.  For the purposes of this Article
+only,  medical  condition  means  any  health  impairment  related  to  or  associated
+with  a  diagnosis  of  cancer,  or  health 
+to  genetic
+characteristics.
+
+impairments  related 
+
+2. 
+
+that 
+
+is  arbitrable, 
+
+the  Union’s  notice  must 
+
+If  the  Union  appeals  a  grievance  to  arbitration  which  contains  allegations  of  a
+violation  of  this  article  which  are  not  made  in  conjunction  with  the  provision  of
+another  article 
+include  an
+Acknowledgement  and  Waiver  Form  signed  by  the  affected  ASE.    The
+Acknowledgement  and  Waiver  Form  will  reflect  that  the  ASE  has  elected  to
+pursue  arbitration  as  the  exclusive  dispute  mechanism  for  such  claim  and  that
+the  ASE  understands  the  procedural  and  substantive  differences  between
+arbitration  and  the  other  remedial  forum  or  forums  in  which  the  dispute  might
+have been resolved, including the differences in the scope of remedies available
+in  arbitration  as  compared  to  other  forums.  The  timeline  to  appeal  to  Arbitration
+set forth in Article 11,  Grievance and Arbitration, will be extended by 30 days for
+said grievances to enable the ASE to make an informed choice.
+
+17
+
+B. 
+
+SEXUAL HARASSMENT
+
+Unwelcome  sexual  advances,  requests  for  sexual  favors  and  other  verbal  or  physical
+contact of a sexual nature constitute sexual harassment when:
+
+1. 
+
+2. 
+
+3. 
+
+Submission  to  such  conduct  is  made  either  explicitly  or  implicitly  a  term  or
+condition of employment, or participation in other University activity;
+
+Submission to or rejection of such conduct by an individual is used as a basis for
+evaluation in making personnel decisions affecting an individual; or
+
+Such  conduct  could  reasonably  be  assumed  to  have  the  purpose  or  effect  of
+interfering with an individual’s performance or creating an intimidating, hostile, or
+offensive working environment.
+
+C. 
+
+SEXUAL HARASSMENT COMPLAINT RESOLUTION PROCEDURE
+
+With  regard  to  grievances  alleging  sexual  harassment,  an  employee  who  has  timely
+filed  a  grievance  may  elect  to  substitute  the  campus  Sexual  Harassment  Complaint
+Resolution  procedure  for  Step  2  of  the  Grievance  Procedure.    Use  of  the  Sexual
+Harassment Complaint Resolution procedure shall toll the time limits for the Grievance
+Procedure only if a grievance has been timely filed, pursuant to Article 11,  Section  C.2
+(time  limits  for  filing  the  written  grievance).    At  any  time,  an  employee  may  elect  to
+resume  the  regular  grievance  procedure  in  place  of  the  campus  Sexual  Harassment
+Complaint  Resolution  procedure  by  written  notice  to  the  University.    The  University's
+Step  2  Grievance  response  will  be  issued  within  fifteen  (15)  calendar  days  after  such
+notice  to  return  to  Step  2  of  the  Grievance  Procedure  is  received  by  the  designated
+campus official.
+
+Article 20
+
+PARKING AND TRANSIT
+
+A. 
+
+B. 
+
+C. 
+
+ASEs  shall  have  the  option  to  participate  in  parking  and  parking-related  services  that
+are available to and on the same basis as other similarly situated employees, including
+but not limited to, pre-tax and payroll deduction options.
+
+ASEs shall have the option to participate in all transit programs that are available to and
+on the same basis as similarly situated employees.
+
+The University reserves the sole right to establish and change parking and transit rates,
+open  and  close  lots  and  modify  parking  and  transit  conditions  and  regulations.    The
+University  shall  provide  30  days  advance  written  notice  to  the  Union  of  any  proposed
+change or increase in parking and transit rates.  The University shall meet upon request
+of  the  Union  to  discuss  and  receive  comments  regarding  any  proposed  change  in
+parking and transit rates.
+
+18
+
+A. 
+
+CAMPUS WIDE POSTING OF APPOINTMENT OPPORTUNITIES
+
+Article 21
+POSTING
+
+By  March  15th  of  each  year,  the  University  shall  begin  posting  information  regarding
+ASE appointment opportunities for the following academic year on the campus web site.
+The  University  may  update  or  edit  this  information  as  appropriate.    The  web  site  shall
+contain the following information:
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+The  projected  number  of  available  ASE  positions  by  department/hiring  unit  that
+the University anticipates for the following academic year.  This projection is not
+a guarantee of the actual number of ASE positions that will be available or filled.
+
+An employment non-discrimination statement.
+
+A  general  description  of  the  duties  performed  by  each  of  the  classifications
+covered by the agreement.
+
+The  "minimum  qualifications"  by  classification  as  established  by  and  at  the  sole
+discretion of the University.
+
+A  statement  indicating  that  exceptions  to  the  minimum  eligibility  qualifications
+may be granted at the sole discretion of the University.
+
+6. 
+
+The application procedures or hiring unit contact person for ASE positions.
+
+B. 
+
+POSTING AT THE DEPARTMENT LEVEL
+
+Nothing in this Article or in this Agreement shall prevent departments or other campus
+hiring  units 
+regarding  ASE  employment
+opportunities on bulletin boards or other web sites.
+
+from  providing  additional 
+
+information 
+
+Article 22
+
+SEVERABILITY
+
+If  any  provision  of  this  Agreement  is  found  to  be  contrary  to  law  by  a  court  of  competent
+jurisdiction, such provision shall be of no force or effect; but the remainder of this Agreement
+shall  continue  in  full  force  and  effect.    The  parties  shall  meet  and  confer  in  good  faith  with
+respect to any provision found to be in contravention of the law.
+
+19
+
+Article 23
+
+SUMMER SESSION
+
+A. 
+
+B. 
+
+C. 
+
+D. 
+
+A. 
+
+B. 
+
+C. 
+
+All  ASEs  employed  in  the  Summer  Session  shall  receive  the  same  general  range
+adjustment as ASEs received in the preceding Fall term.
+
+The  following  articles  apply  to  ASEs  who  are  employed  in  the  summer  session:
+Recognition, Wages (range adjustment only), DCP, Travel, Health and Safety, Leaves,
+Holidays,  Duration,  Workspace  and  Instructional  Support,  Parking,  Grievance  and
+Arbitration, Waiver, Management and Academic Rights, No Strikes, Non-Discrimination,
+Union Access and Rights, Union Security, Discipline and Dismissal, Emergency Layoff,
+Employment  Files  and  Evaluations,  Definitions,  Severability,  Labor-Management
+Meetings, and Classifications.
+
+The  remainder  of  the  articles  in  the  agreement  does  not  apply  to  ASEs  who  are
+employed in the summer session.
+
+The  topic  of  Summer  Session,  and  effects  of  changes  on  terms  and  conditions  of
+employment for ASEs employed in Summer Session, shall be reopened for bargaining
+commencing no later than January 2, 2001.
+
+Article 24
+
+TRAINING & ORIENTATION
+
+All  required  training  and  orientation  shall  be  considered  part  of  the  workload  for  the
+term,  with  the  exception  of  pedagogy  courses  in  which  an  ASE  is  required  to  be
+enrolled.  Said pedagogy courses and training requirements shall not be used to reduce
+the number of ASE appointments.
+
+The  University  may  require,  at  its  sole  discretion,  an  ASE  to  satisfactorily  complete
+required  training  to  continue  appointment  as  an  ASE.    The  University  may,  at  its  sole
+discretion,  require  that  an  ASE  who  has  not  satisfactorily  completed  required  training
+repeat training without the repeated training counting in workload.
+
+Unpaid  activities  for  which  academic  credit  is  given,  or  that  are  academic  program
+requirements for all students in the program, or are training required to meet minimum
+eligibility  requirements  (e.g.  English  language  tests),  are  not  considered  employment
+activities and not covered by this agreement.
+
+20
+
+Article 25
+TRAVEL
+
+A. 
+
+The  University  shall  reimburse  ASEs  for  authorized  expenses  incurred  during  required
+employee-related  University  business  or  travel  in  accordance  with  the  requirements  of
+the appropriate section of the UC Business and Finance Bulletin.
+
+B. 
+
+The University will not reimburse ASEs for travel between home and the campus.
+
+Article 26
+
+UNION ACCESS AND RIGHTS
+
+A. 
+
+USE OF FACILITIES
+
+1. 
+
+Access
+
+The university has the right to establish and enforce reasonable access rules and
+regulations at each campus.
+
+2. 
+
+U.S. Mail Delivery
+
+United States mail on which postage has been paid and which is received by the
+University  bearing  the  name  of  the  ASE  in  the  unit  and  correct  specific  address
+will be distributed to the ASE in the unit in the normal manner.
+
+3. 
+
+Use of mailboxes
+
+In  locations  where  ASEs  have  mailboxes  the  UAW  may  reasonably  use  such
+boxes in accordance with campus procedures in effect at the time of the use.
+
+4. 
+
+E-mail use
+
+UAW  designated  employee  representatives  may  use  their  university  e-mail
+account  in  accordance  with  applicable  university  policy  regarding  electronic
+mail/electronic communications.
+
+B. 
+
+DIRECTORY INFORMATION AND EMPLOYEE LIST
+
+1. 
+
+2. 
+
+The ASE shall be required to release her/his name to the UAW as a condition of
+employment.
+
+As  soon  as  practicable,  each  month  the  University  shall  provide  the  UAW  the
+following information, where available, in a computer readable form: name, home
+department, employee identification number or last six digits of the social security
+number (each campus shall provide either the employee identification number for
+
+21
+
+all  employees  or  the  last  six  digits  of  the  social  security  number  for  all
+employees),  classification,  title  code,  percentage  appointment,  monthly  salary,
+salary  rate,  amount  of  monthly  dues/agency  fees  deducted,  and  home  address.
+In  the  event  an  employee  has  opted  to  have  her/his  home  address  protected
+under applicable Federal and/or State law, the home address of such employee
+shall  be  deleted  from  this  list.    The  University  shall  supply  the  Union  with
+information  regarding  the  gender,  race  and  ethnicity  of  all  ASEs,  sorted  by
+discipline (as defined by the University) once a term.
+
+a. 
+
+Neither party waives any right it may have to seek or withhold information
+regarding  race,  gender  and  ethnicity  sorted  by  department  when
+necessary for representation purposes.
+
+3. 
+
+The  UAW  shall  be  responsible 
+initial  and  ongoing
+programming  and  monthly  processing  costs  associated  with  providing  this
+information.  The  University  will  give  the  UAW  notice  of  initial  costs  and  any
+significant changes to those costs prior to the time they are incurred.
+
+for  any  reasonable 
+
+C. 
+
+ACCESS TO THE AGREEMENT
+
+Following  ratification  and  approval  by  the  parties,  the  University  shall  publish  the
+agreement on a designated website.
+
+D. 
+
+RELEASE TIME TO MEET AND CONFER
+
+The  University  will  provide  release  or  reassigned  time  for  at  least  one  (1)  bargaining
+team  member  per  campus  to  meet  on  a  system-wide  basis,  in  the  event  bargaining
+occurs on a system-wide basis.  The Union shall be required to inform the University of
+the  individual  team  member  to  be  released  or  reassigned  30  days  prior  to  the
+commencement  of  bargaining.    In  cases  where  team  members  do  not  know  their  ASE
+appointments thirty (30) days prior to the commencement of bargaining, the Union shall
+inform the University of the individual team member to be released or reassigned when
+that  appointment  is  known.    In  cases  where  team  members  replace  other  team
+members  fewer  than  thirty  (30)  days  prior  to  the  commencement  of  bargaining,  the
+Union  shall  inform  the  University  of  the  individual  team  member  to  be  released  or
+reassigned  7  days  prior  to  the  commencement  of  bargaining  and  the  University  shall
+make reasonable efforts to release or reassign the individual team member.
+
+Article 27
+
+UNION SECURITY
+
+A. 
+
+The  UAW  membership  ratification  of  this  Agreement  shall  constitute  notice  to  the
+University that the UAW has implemented the provisions of Section 3583.5(a)(1) of the
+Government  Code  providing  for  fair  share  service  fee  collection.    Effective  sixty  (60)
+days  from  the  date  of  ratification  membership  dues  or  fair  share  service  fees  shall  be
+
+22
+
+paid to the UAW as a condition of employment.  The termination of this Agreement shall
+not  constitute  a  basis  for  cessation  of  said  implementation.    As  a  result  of  said
+implementation, the parties have agreed as follows, so as to enable full compliance by
+the  Union  with  the  provisions  of  Sections  3583  through  3585  of  the  Government  Code
+and other applicable law.
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+30  days  from  the  date  of  ratification,  the  University  shall  provide  to  a  mailing
+service  firm,  designated  and  paid  for  by  the  UAW,  computer  readable  data
+containing  the  name  and  home  mailing  address  of  all  employees  who  are
+employed in the bargaining unit in the last payroll period preceding that date.
+
+On  each  July  1  after  the  implementation  remains  in  effect,  the  University  shall
+provide  to  a  mailing  service  firm  designated  and  paid  for  by  the  UAW  computer
+readable data containing the name and home mailing addresses of all employees
+who are not members of the UAW and who are employed in the bargaining unit
+on the last payroll period preceding that date.
+
+The University shall provide to a mailing service firm designated and paid for by
+the  UAW  computer  readable  data  containing  the  name  and  home  mailing
+address of all ASEs as soon as practicable, but no later than 45 days of her/his
+appointment.
+
+Membership  dues,  assessments  and  standard  initiation  fees  for  members  and
+fair  share  service  fees  for  non-members  will  be  deducted  from  the  wages  of
+ASEs. As soon as practicable, the University shall remit dues, assessments, fees
+and  fair  share  service  fees  to  the  UAW  on  a  monthly  basis.    The  UAW  will
+provide  the  University  with  the  formula  for  calculating  the  dues,  fair  share  fees,
+and  the  amounts  of  any  assessments  and  standard  membership  initiation  fees.
+The  UAW  shall  be  responsible 
+initial  and  ongoing
+programming  and  monthly  processing  costs  associated  with  the  implementation
+and maintenance of the dues deduction and fair share program.  In the event the
+UAW  fails  to  pay  the  University  in  accordance  with  the  foregoing,  the  University
+may  withhold  the  appropriate  amount  from  the  monthly  dues  and  fair  share
+remittance to the UAW provided for in this paragraph.
+
+for  any  reasonable 
+
+As  soon  as  practicable,  on  a  monthly  basis,  the  University  will  provide  a  list  of
+ASEs  by  name,  total  gross  monthly  pay,  title  code,  department/hiring  unit,
+amount  of  dues/fees  deducted.      The  UAW  shall  be  responsible  for  any
+reasonable  initial  and  ongoing  programming  and  monthly  processing  costs
+associated with providing this list.
+
+23
+
+6. 
+
+The Employer and the UAW designate the following charities as provided for by
+Section 3584(a) of the Government Code:
+
+a. 
+b. 
+c. 
+
+American Cancer Society
+Habitat for Humanity
+Oxfam
+
+7. 
+
+The UAW specifically agrees that the University shall assume no obligation other
+than  that  specified  in  this  Section  A,  or  any  financial  liability,  including  the
+payment  of  any  retroactive  dues/fair  share  fees,  arising  out  of  the  provisions  of
+this Article.  Further, the UAW agrees that it will reimburse the University for any
+costs  and  indemnify  and  hold  the  University  harmless  from  any  claims,  actions,
+or  proceedings  by  any  person  or  entity  arising  from  any  deductions  made  in
+accordance with this Article.
+
+Article 28
+WAGES
+
+(Note: all ASE titles received a 2% range/rate increase October 1, 1999, including those to be
+used in summer session).
+
+A. 
+
+EFFECTIVE ON APRIL 1, 2000 (See Appendix C, Wage Scales)
+
+Increase all ASE salary ranges and wage rates by 1.5%.  In addition:
+
+1. 
+
+Tutors
+
+Increase  the  minimum  hourly  rate  to  $9.25.    Where  a  campus  currently  pays  a
+higher  rate  than  this  minimum  rate,  such  higher  rate  shall  apply.    In  addition,
+Tutors who already are paid a higher rate shall receive the 1.5% increase as set
+forth in this article.
+
+2. 
+
+Associate In
+
+Increase the minimum half-time (1/2 X) annual salary to $14,458.
+
+B. 
+
+EFFECTIVE OCTOBER 1, 2000
+
+Increase  the  wage  ranges/rates  by  the  general  range  adjustment  provided  to  non-
+represented, non-Senate academic employees (anticipated 2%).
+
+C. 
+
+EFFECTIVE OCTOBER 1, 2001
+
+Increase  wage  ranges/rates  by  the  general  range  adjustment  provided  to  non-
+represented, non-Senate academic employees (anticipated 2%).
+
+24
+
+D. 
+
+EFFECTIVE OCTOBER 1, 2002
+
+Increase  wage  ranges/rates  by  the  general  range  adjustment  provided  to  non-
+represented, non-Senate academic employees (anticipated 2%).
+
+E.  Wage increases for ASEs employed in the summer session will be in accordance with
+
+Article 23, Summer Session.
+
+Article 29
+WAIVER
+
+A. 
+
+Both parties had the opportunity during negotiations to make proposals with respect to
+any subject matter not prohibited by law from bargaining.  This Agreement sets forth the
+full and entire understanding of the parties regarding the matters contained herein.  Any
+other  prior  or  existing  understanding  or  agreement  by  the  parties,  whether  formal  or
+informal, regarding any such matters is hereby superseded.  Except as provided in this
+Agreement,  it  is  agreed  and  understood  that  each  party  to  this  Agreement  voluntarily
+waives its right to negotiate with respect to any matter raised in negotiations or covered
+in this Agreement.
+
+B.  With  respect  to  other  matters  within  the  scope  of  negotiations,  but  not  covered  in
+paragraph  A  above,  in  the  event  the  University  proposes  a  new  policy  that  has  a
+significant impact on the terms and conditions of employment for ASEs in the unit, the
+University will meet, upon timely request by the UAW, over the impact of the decision to
+the extent required by law.
+
+C.  With  respect  to  other  matters  within  the  scope  of  negotiations,  but  not  covered  in
+paragraphs  A  or  B  above,  negotiations  may  be  required  during  the  term  of  this
+Agreement, but only as provided below.
+
+1. 
+
+The  parties  recognize  that  during  the  term  of  this  Agreement,  it  may  be
+necessary  for  the  University  to  make  changes  in  areas  within  the  scope  of
+negotiations.  Where the University finds it necessary to make such changes the
+University  shall  notify  the  UAW  of  proposed  changes  thirty  (30)  calendar  days
+prior to their proposed implementation.
+
+2. 
+
+The  parties  shall  undertake  negotiations  regarding  the  impact  of  such  changes
+on ASEs when all three of the following exist:
+
+a.  Where such changes would significantly affect the working conditions of a
+
+substantial number of employees in the bargaining unit;
+
+b.  Where 
+
+the  subject  matter  of 
+
+the  change 
+
+is  within 
+
+the  scope  of
+
+representation pursuant to HEERA; and
+
+25
+
+c. 
+
+Where  the  UAW  makes  a  request  to  negotiate  with  the  University  within
+fifteen  (15)  calendar  days  of  the  date  of  the  receipt  by  the  Union  of  the
+University’s notice as described in Paragraph C.1.
+
+3. 
+
+4. 
+
+5. 
+
+An  agreement  resulting  from  such  negotiations  shall  be  executed  in  writing  and
+shall become an addendum to this Agreement.
+
+If  the  parties  do  not  reach  agreement  in  the  negotiations,  the  impasse
+procedures pursuant to HEERA shall apply.
+
+If the parties disagree as to whether a proposed change is subject to paragraph
+C.  above,  such  disagreement  shall  be  subject  to  the  Grievance  and  Arbitration
+Article of this agreement.
+
+A. 
+
+TEACHING ASSISTANT (TA)
+
+Article 30
+
+WORKLOAD
+
+1. 
+
+For  purposes  of  this  article  only,  TA  refers  to  Teaching  Assistant,  Associate
+In_____,  and  Teaching  Fellow.    Assigned  workload  is  measured  by  how  many
+hours  the  University  could  reasonably  expect  a  TA  to  take  to  satisfactorily
+complete the work assigned.
+
+a. 
+
+b. 
+
+A  TA  with  a  50%  appointment  shall  not  be  assigned  a  workload  of  more
+than  220  hours  per  quarter.    This  standard  shall  apply  proportionately  to
+other percent appointments.
+
+In addition, a TA with an appointment of 50% or less shall not be assigned
+a workload of more than 40 hours in any one week. The number of hours
+worked in excess of twenty (20) hours per week may not total more than
+50 hours per quarter.
+
+2. 
+
+TAs  should  initiate  discussions  with  their  supervisor  as  soon  as  they  anticipate
+any workload related issues that would result in a violation of this Article.
+
+B. 
+
+READERS / TUTORS
+
+Readers  and  tutors  shall  be  compensated  on  an  hourly  basis.    Assigned  workload  is
+measured by how many hours the University could reasonably expect a reader or tutor
+to take to satisfactorily complete the work assigned.
+
+26
+
+C. 
+
+INSTRUCTOR OF RECORD
+
+ASEs who are the instructors of record will be responsible for a workload consistent with
+the  normal  workload  for  the  course.    ASEs  who  are  the  Instructors  of  Record  will
+normally receive a 50% appointment for a regular academic course.
+
+D.  WORKLOAD DISPUTE RESOLUTION PROCEDURES
+
+Disputes  regarding  workload  arising  under  this  article  are  not  subject  to  Article  11,
+Grievance  and  Arbitration  of  this  Agreement.    In  the  event  a  dispute  arises  regarding
+workload,  the  procedures  set  forth  in  this  Article  shall  apply.    The  ASE  is  entitled  to  a
+representative throughout this procedure.
+
+1. 
+
+Step 1
+
+The ASE shall prepare and submit a written complaint to the department head (or
+designee), and the supervisor.  The  department  head  (or  designee)  shall  hold  a
+meeting  no  later  than  three  (3)  business  days  after  receipt  of  the  complaint.    At
+the  ASE's  request,  a  representative  from  the  UAW  or  other  representative  may
+also attend.
+
+Notification  of  Decision:    The  department  head  (or  designee)  shall  provide  a
+written decision to the ASE, the ASE’s representative, the UAW, in the event the
+UAW  is  not  the  ASE’s  representative,  and  supervisor  within  three  (3)  business
+days  of  the  meeting.    Resolutions  reached  at  this  level  and  unappealed
+decisions,  although  final,  shall  not  be  precedential  nor  inconsistent  with  this
+Article.
+
+2. 
+
+Step 2
+
+If  the  ASE  is  not  satisfied  with  the  above  referenced  decision,  the  ASE  shall
+submit  the  written  complaint,  along  with  any  additional  relevant  materials  to  the
+Chancellor’s Designee with a copy to the campus labor relations office within five
+(5) business days of receipt of the Step 1 decision.
+
+The Chancellor’s Designee shall provide a written decision to the ASE, the ASE’s
+representative,  the  UAW  in  the  event  the  UAW  is  not  the  ASE’s  representative,
+and supervisor within five (5) business days of receipt of the complaint.
+
+3. 
+
+Appeal Procedure
+
+If  not  satisfied  with  the  above  referenced  decision,  the  UAW  may  file  a  written
+appeal of the decision within five (5) business days after service of the decision.
+The appeal must specify the unresolved issues, all relevant facts and the remedy
+requested. The appeal shall be submitted to Campus Labor Relations.  Campus
+
+27
+
+Labor  Relations  will  immediately  notify  the  parties  of  the  need  to  appoint  panel
+members.
+
+The dispute will be submitted to a Dispute Resolution Panel, as defined herein.
+
+The Dispute Resolution Panel will be comprised of two campus specific members
+of  the  Academic  Senate.    The  UAW  and  the  Chancellor  or  designee  each  will
+name  a  member  to  the  Panel  within  five  (5)  business  days  of  the  receipt  of  the
+appeal by the Campus Labor Relations Office.
+
+The  Dispute  Resolution  Panel  will  hold  a  hearing  no  later  than  twenty  (20)
+business  days  following  the  filing  of  the  appeal.    The  Dispute  Resolution  Panel
+shall issue a written decision within five (5) business days following said hearing.
+
+In  the  event  the  Dispute  Resolution  Panel  is  deadlocked  and  cannot  issue  a
+decision,  they  will  select  a  third  person  to  join  the  Panel.    This  third  panel
+member  shall  be  selected  from  a  list  set  forth  in  Appendix  D  on  the  date  the
+decision is due.  The three-member panel will then review the appeal.  The three
+member  Dispute  Resolution  Panel  will  issue  its  decision  within  five  (5)  business
+days  of  the  appointment  of  the  third  panel  member.    Said  decision  will  be  final
+and  binding  and  not  subject  to  Grievance  and  Arbitration,  Article  11  of  this
+Agreement.
+
+The list set forth in Appendix D will be comprised of ten (10) names designated
+by  the  UAW  and  ten  names  designated  by  the  Office  of  the  President.    Each
+individual  to  be  included  on  Appendix  D  must  be  a  member  of  the  Academic
+Senate  on  any  of  the  University  of  California  campuses,  have  expertise  as  a
+neutral in labor-management dispute resolution, and have expertise in matters of
+faculty governance.  The parties reserve the right to annually amend the names
+each has respectively designated on Appendix D by September 1 of each year,
+and when a vacancy occurs.
+
+The Dispute Resolution Panel shall apply the terms of the contract and fashion a
+remedy where appropriate in a fair and neutral manner.
+
+Disputes  regarding  the  designation  of  names  to  Appendix  D  may  be  challenged
+by  either  party  within  30  days  of  designation  and  shall  be  submitted  to  an
+arbitrator for resolution.
+
+4. 
+
+Timelines
+
+Timelines set forth in this Article may be extended for good reason, including the
+unavailability  of  one  or  more  participants  or  the  need  for  more  information,  or
+upon mutual consent of the parties.
+
+28
+
+WORKSPACE AND INSTRUCTIONAL SUPPORT
+
+Article 31
+
+A. 
+
+A. 
+
+B. 
+
+The  University  shall  provide  access 
+texts  and
+instructional  support.    Access  to  required  facilities,  services,  texts,  and  instructional
+support  will  not  be  unreasonably  denied.    These  required  facilities,  services,  texts  and
+instructional support may include:
+
+facilities,  services, 
+
+to  required 
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+
+Office and desk space, telephone,
+A computer,
+Storage space,
+Office, laboratory, and instructional equipment,
+Mailbox,
+Office supplies,
+Texts and / or reading material.
+
+Article 32
+DURATION
+
+The  terms  and  conditions  of  this  Agreement  shall  remain  in  full  force  and  effect
+commencing on June 1, 2000, and shall terminate September 30, 2003.
+
+Except as provided herein, neither party shall have any duty to meet and confer for the
+purpose of modifying terms and conditions of the Agreement.
+
+C.  Written proposals for a successor Agreement shall be presented to the University by the
+UAW no later than March 1, 2003. The University shall present its written proposals for
+a successor agreement to the UAW no later than April 1, 2003.
+
+29
+
+EXECUTION OF AGREEMENT
+
+The foregoing Agreement between the Union and the Regents of The University of California, having been
+duly  approved  by  both  parties,  is  hereby  executed  on  June  1,  2000,  by  the  undersigned  authorized
+representative(s) of each party.
+
+FOR THE UNIVERSITY:
+
+FOR THE UNION:
+
+By: ____________________________
+
+By: ____________________________
+
+Judith W. Boyette
+Associate Vice President
+Human Resources & Benefits
+
+Elizabeth Bunn
+Vice President
+International Union, UAW
+
+By: ____________________________
+
+Gayle Cieszkiewicz
+Director, Labor Relations
+
+By: ____________________________
+
+Jim Wells
+Director, UAW Region Five
+
+By: ____________________________
+
+Darren W. Lee
+Assistant Director, Labor Relations
+
+By: ____________________________
+
+Mary Ann Massenburg
+International Representative, UAW
+
+By: ____________________________
+
+Anthony Giorgio
+Labor Relations Manager, UC Riverside
+
+By: ____________________________
+
+Michael J. Miller
+International Representative, UAW
+
+APPROVAL AS TO FORM:
+
+________________________________
+
+Carole Rossi
+University Counsel
+The Regents of the University of California
+
+By: ____________________________
+
+Tanya Mahn
+International Representative, UAW
+
+By: ____________________________
+
+Carol Bank, CASE/UAW
+Bargaining Team Member
+
+30
+
+EXECUTION OF AGREEMENT
+
+By: ____________________________
+
+Patrick Lloyd, CASE/UAW
+Bargaining Team Member
+
+By: ____________________________
+
+Molly Rhodes, UAW
+Organizer
+
+31
+
+
