@@ -1,0 +1,322 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+        <title>
+            Introduction to word2vec with examples from CruxIQ
+        </title>
+        <link rel="stylesheet" href="css/reveal.css"/>
+        <link rel="stylesheet" href="css/theme/black.css"/>
+        <!-- Theme used for syntax highlighting of code -->
+        <link rel="stylesheet" href="lib/css/zenburn.css"/>
+        <!-- Printing and PDF exports -->
+        <script>
+            var link = document.createElement( 'link' );
+            link.rel = 'stylesheet';
+            link.type = 'text/css';
+            link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+            document.getElementsByTagName( 'head' )[0].appendChild( link );
+        </script>
+    </head>
+    <body>
+        <div class="reveal">
+            <div class="slides">
+                <section style="width:1300px" data-background-color="#ffffff">
+                    <div style="width:500px;float:left">
+                        <img src="assets/surukam_background.jpg"/>
+                    </div>
+                    <div style="width:540px;float:left;margin-top: 10px;">
+                        <p>
+                            How does
+                            <span>
+                                CruxIQ®
+                            </span>
+                            use Techniques in
+                            <br/>
+                            Natural Language Processing
+                            <br/>
+                            To Automate
+                            <br/>
+                            Legal Processes ?
+                        </p>
+                        <br/>
+                        <p>
+                            <small>
+                                Sree Harsha Ramesh /
+                                <a href="https://github.com/le-scientifique">
+                                    @le-scientifique
+                                </a>
+                            </small>
+                            <small>
+                                Raveena Kumar /
+                                <a href="https://www.linkedin.com/in/raveena-r-kumar-21a9a5a6/">
+                                    @raveena-r-kumar
+                                </a>
+                            </small>
+                        </p>
+                        <div style="margin-top: -50px;">
+                            <a href="http://www.surukam.com" target="_blank">
+                                <img src="assets/surukam-logo.png" style="border:none;box-shadow: none" />
+                            </a>
+                        </div>
+                    </div>
+                </section>
+                <section style="width:1300px" data-background-color="#ffffff">
+                    <h2 style="margin-left: -245px;text-transform: none;">
+                        About us
+                    </h2>
+                    <div style="width:500px;float:left">
+                        <img src="assets/team.jpg"/>
+                    </div>
+                    <div style="width:700px;float:left;margin-top: 60px;">
+                        <ul style="list-style: none;float: left;">
+                            <li class="fragment">
+                                LegalTech Startup
+                            </li>
+                            <li class="fragment">
+                                Tech: AI/ML/NLP
+                            </li>
+                            <li class="fragment">
+                                Team:
+                                <ul style="list-style: none;">
+                                    <li class="fragment">
+                                        Computational Linguists
+                                    </li>
+                                    <li class="fragment">
+                                        Data Scientists
+                                    </li>
+                                    <li class="fragment">
+                                        Developers
+                                    </li>
+                                    <li class="fragment">
+                                        Lawyers
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </section>
+                <section data-background-color="#ffffff">
+                    <h2 style="text-transform: none">
+                        Agenda
+                    </h2>
+                    <ul>
+                        <li class="fragment">
+                            NLP ⋂ ML
+                        </li>
+                        <li class="fragment">
+                            CSK−Chennai+Bangalore≈?
+                        </li>
+                        <li class="fragment">
+                            "Talk is cheap. Show me the code."
+                        </li>
+                        <li class="fragment">
+                            Resources
+                        </li>
+                        <li class="fragment">
+                            References
+                        </li>
+                    </ul>
+                </section>
+                <section data-background-color="#ffffff">
+                    <section data-background-color="#ffffff">
+                        <h2 style="text-transform: none">
+                            NLP ⋂ ML
+                        </h2>
+                        <blockquote cite="https://www.quora.com/Whats-the-difference-between-Machine-Learning-AI-and-NLP/answer/Jason-Eisner?srid=B3kA" style="font-size: 26px;background: #bfbfbf;">
+                            &ldquo;AI = building systems that can do intelligent things
+                            <br/>
+                            NLP = building systems that can understand language ⊊ AI
+                            <br/>
+                            ML = building systems that can learn from experience ⊊ AI
+                            <br/>
+                            NLP ⋂ ML = building systems that can learn how to understand language&rdquo;
+                        </blockquote>
+                        <p style="font-style: italic;">
+                            Typical machine learning pipeline for text analysis.
+                        </p>
+                        <a href="#" class="navigate-down">
+                            <img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow" style="border:none;box-shadow: none"/>
+                        </a>
+                    </section>
+                    <section data-background-color="#ffffff">
+                        <ol start="1">
+                            <li class="fragment">
+                                Gather Input Data -  Text in HTML, PDFs, Docx, Audio Transcripts
+                            </li>
+                            <li class="fragment">
+                                Text Extraction using HTML Parsers, OCR, Speech2Text etc.
+                            </li>
+                        </ol>
+                    </section>
+                    <section data-background-color="#ffffff">
+                        <ol start="3">
+                            <li class="fragment">
+                                Text Feature Extraction
+                                <ul>
+                                    <li class="fragment">
+                                        Bag-of-words/n-grams Representation
+                                        <ul>
+                                            <li class="fragment">
+                                                Count Vectors
+                                            </li>
+                                            <li class="fragment">
+                                                TF-IDF Vectors
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="fragment">
+                                        <span class="fragment highlight-blue">
+                                            Word Vectors
+                                        </span>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="fragment">
+                                ML Algorithms for Clustering, Classification
+                            </li>
+                            <li class="fragment">
+                                Rinse, Lather, Repeat
+                            </li>
+                        </ol>
+                    </section>
+                </section>
+                <section data-background-color="#ffffff">
+                    <section data-background-color="#ffffff">
+                        <h2 style="text-transform: none">
+                            The Why, What and How of Word Vectors?
+                        </h2>
+                        <p style="font-style: italic">CSK−Chennai+Bangalore≈?</p>
+                    </section>
+                    <section data-background-color="#ffffff">
+                        <h2 style="text-transform: none">
+                            Why?
+                        </h2>
+                        <div style="float: left; ">
+                            <img src="assets/word2vec-one-hot.png" style="border:none;box-shadow: none" height="400" width="400"/>
+                            <p style="font-size: 25px;">
+                                Bag of Words
+                                <br/>
+                                Meaningless representation,
+                                <br/>
+                                useful only for equality testing
+                            </p>
+                        </div>
+                        <div>
+                            <img src="assets/word2vec-distributed-representation.png" style="border:none;box-shadow: none" height="400" width="500"/>
+                            <p style="font-size: 25px;">
+                                Distributed Weights (Hypothetical)
+                                <br/>
+                                Captures semantic, syntactic and other
+                                <br/>
+                                interesting properties
+                            </p>
+                        </div>
+                    </section>
+                    <section data-background-color="#ffffff">
+                        <h2 style="text-transform: none">
+                            What?
+                        </h2>
+                        <iframe class="fragment" src="http://46.165.223.38:8080/"
+                            allowfullscreen="" frameborder="0" height="240"
+                            width="1300">
+                        </iframe>
+                        <img class="fragment" src="assets/word2vec-ee-table-8.png" style="border:none;box-shadow: none" />
+                    </section>
+                    <section data-background-color="#ffffff">
+                        <h2 style="text-transform: none">
+                            How?
+                        </h2>
+                        <div style="float: left; ">
+                            <img src="assets/cbow.png" style="border:none;box-shadow: none" height="400" width="300"/>
+                            <p style="font-size: 25px;">
+                                Continuous Bag of Words
+                                <!-- <test>Just like a neural language model, which predicts the next word given the past words, but also considers the succeeding words</test> -->
+                            </p>
+                        </div>
+                        <div style="float: right">
+                            <img src="assets/glove.jpg" style="border:none;box-shadow: none" height="400" width="300"/>
+                            <p style="font-size: 25px;">
+                                Glove
+                                <!-- <test>Explicitly encodes the information that word2vec serendipitously captured</test> -->
+                            </p>
+                        </div>
+                        <div style="width: 300">
+                            <img src="assets/skip-gram.png" style="border:none;box-shadow: none" height="400" width="300"/>
+                            <p style="font-size: 25px;">
+                                Skipgram
+                            </p>
+                        </div>
+                        
+                    </section>
+                </section>
+                <section data-background-color="#ffffff">
+                        <h2 style="font-style: italic;text-transform: none;font-size: 95%;">"Talk is cheap. Show me the code."</h2>
+
+                        <a href="http://nbviewer.jupyter.org/github/le-scientifique/word2vec-presentation/blob/master/LegalWord2Vec.ipynb" target="_blank">
+                                <img src="assets/ipython-thumb.png" style="border:none;box-shadow: none;height: 200px" />
+                            </a>
+                            <p style="font-size: 60%">IPython Notebook: Word Embeddings for the Legal Domain</p>
+                    </section>
+                <section data-background-color="#ffffff">
+                    <h2 style="text-transform: none;float: left">
+                        Applications in CruxIQ
+                    </h2>
+                    <ol start="1" style="float: left">
+                            <li class="fragment">
+                                Domain-Specific OCR Spelling Correction
+                            </li>
+                            <li class="fragment">
+                                Natural Language Interfaces to Databases
+                            </li>
+                            <li class="fragment">
+                                Legal Ontology Creation
+                            </li>
+                        </ol>
+                </section>
+                <section data-background-color="#ffffff">
+                    <h2 style="text-transform: none;float: left;">
+                        Credit where credit is due ..
+                    </h2>
+                    <ol start="1" style="font-size: 25px">
+                            <li>
+                                <a href="http://arxiv.org/pdf/1301.3781.pdf">Efficient Estimation of Word Representations in Vector Space – Mikolov et al. 2013</a>
+                            </li>
+                            <li>
+                                <a href="https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf">Distributed Representations of Words and Phrases and their Compositionality – Mikolov et al. 2013</a>
+                            </li>
+                            <li>
+                                <a href="http://www.aclweb.org/anthology/N13-1090">Linguistic Regularities in Continuous Space Word Representations – Mikolov et al. 2013</a>
+                            </li>
+                            <li><a href="http://arxiv.org/pdf/1411.2738v3.pdf">word2vec Parameter Learning Explained – Rong 2014</a></li>
+
+                            <li><a href="http://arxiv.org/pdf/1402.3722v1.pdf">word2vec Explained: Deriving Mikolov et al’s Negative Sampling Word-Embedding Method – Goldberg and Levy 2014</a></li>
+                        </ol>
+                </section>
+                <section><h2>Thank you!</h2>
+
+                       "Watch" this repo.<br>
+                       <a href="https://github.com/keon/awesome-nlp">https://github.com/keon/awesome-nlp </a>
+                </section>
+            </div>
+        </div>
+        <script src="lib/js/head.min.js">
+        </script>
+        <script src="js/reveal.js">
+        </script>
+        <script>
+            // More info https://github.com/hakimel/reveal.js#configuration
+            Reveal.initialize({
+            history: true,
+            // More info https://github.com/hakimel/reveal.js#dependencies
+            dependencies: [
+            { src: 'plugin/markdown/marked.js' },
+            { src: 'plugin/markdown/markdown.js' },
+            { src: 'plugin/notes/notes.js', async: true },
+            { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+            ]
+            });
+        </script>
+    </body>
+</html>
